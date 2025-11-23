@@ -1,5 +1,5 @@
 # World Model and Embodied AI arxiv Papers
-> Updated on 2025.11.22
+> Updated on 2025.11.23
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#1-world-model>1-World Model</a></li>
@@ -55,7 +55,7 @@
 - 2025-11-19, **Breaking Expert Knowledge Limits: Self-Pruning for Large Language Models**, Haidong Kang et.al., Paper: [http://arxiv.org/abs/2511.15390](http://arxiv.org/abs/2511.15390)
 - 2025-11-20, **Boosting Predictive Performance on Tabular Data through Data Augmentation with Latent-Space Flow-Based Diffusion**, Md. Tawfique Ihsan et.al., Paper: [http://arxiv.org/abs/2511.16571](http://arxiv.org/abs/2511.16571)
 
-</details><p align=right>(<a href=#updated-on-20251122>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251123>back to top</a>)</p>
 
 <details>
 
@@ -104,7 +104,7 @@
 - 2025-11-19, **Adapt-As-You-Walk Through the Clouds: Training-Free Online Test-Time Adaptation of 3D Vision-Language Foundation Models**, Mehran Tamjidi et.al., Paper: [http://arxiv.org/abs/2511.15311](http://arxiv.org/abs/2511.15311)
 - 2025-11-19, **AVATAAR: Agentic Video Answering via Temporal Adaptive Alignment and Reasoning**, Urjitkumar Patel et.al., Paper: [http://arxiv.org/abs/2511.15578](http://arxiv.org/abs/2511.15578)
 
-</details><p align=right>(<a href=#updated-on-20251122>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251123>back to top</a>)</p>
 
 <details>
 
@@ -153,7 +153,7 @@
 - 2025-11-20, **An analytical and experimental study of the energy transition discourse on YouTube**, Aleix Bassolas et.al., Paper: [http://arxiv.org/abs/2511.16497](http://arxiv.org/abs/2511.16497)
 - 2025-11-18, **ARC-Chapter: Structuring Hour-Long Videos into Navigable Chapters and Hierarchical Summaries**, Junfu Pu et.al., Paper: [http://arxiv.org/abs/2511.14349](http://arxiv.org/abs/2511.14349)
 
-</details><p align=right>(<a href=#updated-on-20251122>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251123>back to top</a>)</p>
 
 Notes: 
 
