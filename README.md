@@ -1,5 +1,5 @@
 # World Model and Embodied AI arxiv Papers
-### Updated on 2025.11.24
+### Updated on 2025.11.25
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#1-world-model>1-World Model</a></li>
@@ -16,6 +16,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-23**|**Multimodal Continual Learning with MLLMs from Multi-scenario Perspectives**|Kai Jiang et.al.|[2511.18507](http://arxiv.org/abs/2511.18507)|null|
+|**2025-11-23**|**Extreme Model Compression for Edge Vision-Language Models: Sparse Temporal Token Fusion and Adaptive Neural Compression**|Md Tasnin Tanvir et.al.|[2511.18504](http://arxiv.org/abs/2511.18504)|null|
+|**2025-11-23**|**Optimal Meal Schedule for a Local Nonprofit Using LLM-Aided Data Extraction**|Sergio Marin et.al.|[2511.18483](http://arxiv.org/abs/2511.18483)|null|
+|**2025-11-23**|**SloMo-Fast: Slow-Momentum and Fast-Adaptive Teachers for Source-Free Continual Test-Time Adaptation**|Md Akil Raihan Iftee et.al.|[2511.18468](http://arxiv.org/abs/2511.18468)|null|
+|**2025-11-23**|**Energy-Efficient Task Computation at the Edge for Vehicular Services**|Paniz Parastar et.al.|[2511.18449](http://arxiv.org/abs/2511.18449)|null|
+|**2025-11-23**|**LLMs as Firmware Experts: A Runtime-Grown Tree-of-Agents Framework**|Xiangrui Zhang et.al.|[2511.18438](http://arxiv.org/abs/2511.18438)|null|
+|**2025-11-23**|**DocPTBench: Benchmarking End-to-End Photographed Document Parsing and Translation**|Yongkun Du et.al.|[2511.18434](http://arxiv.org/abs/2511.18434)|null|
+|**2025-11-23**|**The planar Lanchester model of insurgent warfare: Intricate Collateral Damage Functions and Global Bifurcation**|Rouzbeh Aghaieebeiklavasani et.al.|[2511.18427](http://arxiv.org/abs/2511.18427)|null|
+|**2025-11-23**|**CrossJEPA: Cross-Modal Joint-Embedding Predictive Architecture for Efficient 3D Representation Learning from 2D Images**|Avishka Perera et.al.|[2511.18424](http://arxiv.org/abs/2511.18424)|null|
+|**2025-11-23**|**DHAuDS: A Dynamic and Heterogeneous Audio Benchmark for Test-Time Adaptation**|Weichuang Shao et.al.|[2511.18421](http://arxiv.org/abs/2511.18421)|null|
+|**2025-11-23**|**UnWEIRDing LLM Entity Recommendations**|Aayush Kumar et.al.|[2511.18403](http://arxiv.org/abs/2511.18403)|null|
+|**2025-11-23**|**Future Is Unevenly Distributed: Forecasting Ability of LLMs Depends on What We're Asking**|Chinmay Karkar et.al.|[2511.18394](http://arxiv.org/abs/2511.18394)|null|
+|**2025-11-23**|**Can a Second-View Image Be a Language? Geometric and Semantic Cross-Modal Reasoning for X-ray Prohibited Item Detection**|Chuang Peng et.al.|[2511.18385](http://arxiv.org/abs/2511.18385)|null|
+|**2025-11-23**|**NSTR: Neural Spectral Transport Representation for Space-Varying Frequency Fields**|Plein Versace et.al.|[2511.18384](http://arxiv.org/abs/2511.18384)|null|
+|**2025-11-23**|**MASS: Motion-Aware Spatial-Temporal Grounding for Physics Reasoning and Comprehension in Vision-Language Models**|Xiyang Wu et.al.|[2511.18373](http://arxiv.org/abs/2511.18373)|null|
+|**2025-11-23**|**CT-CFAR A Robust CFAR Detector Based on CLEAN and Truncated Statistics in Sidelobe-Contaminated Environments**|Jiachen Zhu et.al.|[2511.18358](http://arxiv.org/abs/2511.18358)|null|
+|**2025-11-23**|**Enhancing UAV Search under Occlusion using Next Best View Planning**|Sigrid Helene Strand et.al.|[2511.18353](http://arxiv.org/abs/2511.18353)|null|
+|**2025-11-23**|**Clinician-in-the-Loop Smart Home System to Detect Urinary Tract Infection Flare-Ups via Uncertainty-Aware Decision Support**|Chibuike E. Ugwu et.al.|[2511.18334](http://arxiv.org/abs/2511.18334)|null|
+|**2025-11-23**|**Weakly-supervised Latent Models for Task-specific Visual-Language Control**|Xian Yeow Lee et.al.|[2511.18319](http://arxiv.org/abs/2511.18319)|null|
+|**2025-11-23**|**Optimal Pose Guidance for Stereo Calibration in 3D Deformation Measurement**|Dongcai Tan et.al.|[2511.18317](http://arxiv.org/abs/2511.18317)|null|
 |**2025-11-21**|**RynnVLA-002: A Unified Vision-Language-Action and World Model**|Jun Cen et.al.|[2511.17502](http://arxiv.org/abs/2511.17502)|null|
 |**2025-11-21**|**HALO: High-Altitude Language-Conditioned Monocular Aerial Exploration and Navigation**|Yuezhan Tao et.al.|[2511.17497](http://arxiv.org/abs/2511.17497)|null|
 |**2025-11-21**|**MDG: Masked Denoising Generation for Multi-Agent Behavior Modeling in Traffic Environments**|Zhiyu Huang et.al.|[2511.17496](http://arxiv.org/abs/2511.17496)|null|
@@ -77,7 +97,7 @@
 |**2025-11-19**|**Zero-Shot Open-Vocabulary Human Motion Grounding with Test-Time Training**|Yunjiao Zhou et.al.|[2511.15379](http://arxiv.org/abs/2511.15379)|null|
 |**2025-11-19**|**Towards Evolutionary Optimization Using the Ising Model**|Simon Klüttermann et.al.|[2511.15377](http://arxiv.org/abs/2511.15377)|null|
 
-</details><p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251125>back to top</a>)</p>
 
 <details>
 
@@ -87,6 +107,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-23**|**Multimodal Continual Learning with MLLMs from Multi-scenario Perspectives**|Kai Jiang et.al.|[2511.18507](http://arxiv.org/abs/2511.18507)|null|
+|**2025-11-23**|**Extreme Model Compression for Edge Vision-Language Models: Sparse Temporal Token Fusion and Adaptive Neural Compression**|Md Tasnin Tanvir et.al.|[2511.18504](http://arxiv.org/abs/2511.18504)|null|
+|**2025-11-23**|**Shape-Adapting Gated Experts: Dynamic Expert Routing for Colonoscopic Lesion Segmentation**|Gia Huy Thai et.al.|[2511.18493](http://arxiv.org/abs/2511.18493)|null|
+|**2025-11-23**|**ORIGAMISPACE: Benchmarking Multimodal LLMs in Multi-Step Spatial Reasoning with Mathematical Constraints**|Rui Xu et.al.|[2511.18450](http://arxiv.org/abs/2511.18450)|null|
+|**2025-11-23**|**EventBench: Towards Comprehensive Benchmarking of Event-based MLLMs**|Shaoyu Liu et.al.|[2511.18448](http://arxiv.org/abs/2511.18448)|null|
+|**2025-11-23**|**SineProject: Machine Unlearning for Stable Vision Language Alignment**|Arpit Garg et.al.|[2511.18444](http://arxiv.org/abs/2511.18444)|null|
+|**2025-11-23**|**Perceptual-Evidence Anchored Reinforced Learning for Multimodal Reasoning**|Chi Zhang et.al.|[2511.18437](http://arxiv.org/abs/2511.18437)|null|
+|**2025-11-23**|**Self-Empowering VLMs: Achieving Hierarchical Consistency via Self-Elicited Knowledge Distillation**|Wei Yang et.al.|[2511.18415](http://arxiv.org/abs/2511.18415)|null|
+|**2025-11-23**|**ChineseVideoBench: Benchmarking Multi-modal Large Models for Chinese Video Question Answering**|Yuxiang Nie et.al.|[2511.18399](http://arxiv.org/abs/2511.18399)|null|
+|**2025-11-23**|**Exploring Weak-to-Strong Generalization for CLIP-based Classification**|Jinhao Li et.al.|[2511.18396](http://arxiv.org/abs/2511.18396)|null|
+|**2025-11-23**|**Can a Second-View Image Be a Language? Geometric and Semantic Cross-Modal Reasoning for X-ray Prohibited Item Detection**|Chuang Peng et.al.|[2511.18385](http://arxiv.org/abs/2511.18385)|null|
+|**2025-11-23**|**MASS: Motion-Aware Spatial-Temporal Grounding for Physics Reasoning and Comprehension in Vision-Language Models**|Xiyang Wu et.al.|[2511.18373](http://arxiv.org/abs/2511.18373)|null|
+|**2025-11-23**|**TRANSPORTER: Transferring Visual Semantics from VLM Manifolds**|Alexandros Stergiou et.al.|[2511.18359](http://arxiv.org/abs/2511.18359)|null|
+|**2025-11-23**|**AnyExperts: On-Demand Expert Allocation for Multimodal Language Models with Mixture of Expert**|Yuting Gao et.al.|[2511.18314](http://arxiv.org/abs/2511.18314)|null|
+|**2025-11-23**|**Table Comprehension in Building Codes using Vision Language Models and Domain-Specific Fine-Tuning**|Mohammad Aqib et.al.|[2511.18306](http://arxiv.org/abs/2511.18306)|null|
+|**2025-11-23**|**DiVE-k: Differential Visual Reasoning for Fine-grained Image Recognition**|Raja Kumar et.al.|[2511.18305](http://arxiv.org/abs/2511.18305)|null|
+|**2025-11-23**|**RoadSceneVQA: Benchmarking Visual Question Answering in Roadside Perception Systems for Intelligent Transportation System**|Runwei Guan et.al.|[2511.18286](http://arxiv.org/abs/2511.18286)|null|
+|**2025-11-23**|**Vision Token Masking Alone Cannot Prevent PHI Leakage in Medical Document OCR: A Systematic Evaluation**|Richard J. Young et.al.|[2511.18272](http://arxiv.org/abs/2511.18272)|null|
+|**2025-11-23**|**EgoVITA: Learning to Plan and Verify for Egocentric Video Reasoning**|Yogesh Kulkarni et.al.|[2511.18242](http://arxiv.org/abs/2511.18242)|null|
+|**2025-11-22**|**MotionDuet: Dual-Conditioned 3D Human Motion Generation with Video-Regularized Text Learning**|Yi-Yang Zhang et.al.|[2511.18209](http://arxiv.org/abs/2511.18209)|null|
 |**2025-11-21**|**RynnVLA-002: A Unified Vision-Language-Action and World Model**|Jun Cen et.al.|[2511.17502](http://arxiv.org/abs/2511.17502)|null|
 |**2025-11-21**|**Downscaling Intelligence: Exploring Perception and Reasoning Bottlenecks in Small Multimodal Models**|Mark Endo et.al.|[2511.17487](http://arxiv.org/abs/2511.17487)|null|
 |**2025-11-21**|**Counterfactual World Models via Digital Twin-conditioned Video Diffusion**|Yiqing Shen et.al.|[2511.17481](http://arxiv.org/abs/2511.17481)|null|
@@ -148,7 +188,7 @@
 |**2025-11-19**|**Context Cascade Compression: Exploring the Upper Limits of Text Compression**|Fanfan Liu et.al.|[2511.15244](http://arxiv.org/abs/2511.15244)|null|
 |**2025-11-19**|**SkinGPT-R1: Adapter-Only Dual Distillation for Efficient Dermatology Reasoning**|Yuhao Shen et.al.|[2511.15242](http://arxiv.org/abs/2511.15242)|null|
 
-</details><p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251125>back to top</a>)</p>
 
 <details>
 
@@ -158,6 +198,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-23**|**ViMix-14M: A Curated Multi-Source Video-Text Dataset with Long-Form, High-Quality Captions and Crawl-Free Access**|Timing Yang et.al.|[2511.18382](http://arxiv.org/abs/2511.18382)|null|
+|**2025-11-23**|**MASS: Motion-Aware Spatial-Temporal Grounding for Physics Reasoning and Comprehension in Vision-Language Models**|Xiyang Wu et.al.|[2511.18373](http://arxiv.org/abs/2511.18373)|null|
+|**2025-11-23**|**Alias-free 4D Gaussian Splatting**|Zilong Chen et.al.|[2511.18367](http://arxiv.org/abs/2511.18367)|null|
+|**2025-11-23**|**TRANSPORTER: Transferring Visual Semantics from VLM Manifolds**|Alexandros Stergiou et.al.|[2511.18359](http://arxiv.org/abs/2511.18359)|null|
+|**2025-11-23**|**MagicWand: A Universal Agent for Generation and Evaluation Aligned with User Preference**|Zitong Xu et.al.|[2511.18352](http://arxiv.org/abs/2511.18352)|null|
+|**2025-11-23**|**FlowPortal: Residual-Corrected Flow for Training-Free Video Relighting and Background Replacement**|Wenshuo Gao et.al.|[2511.18346](http://arxiv.org/abs/2511.18346)|null|
+|**2025-11-23**|**AnyExperts: On-Demand Expert Allocation for Multimodal Language Models with Mixture of Expert**|Yuting Gao et.al.|[2511.18314](http://arxiv.org/abs/2511.18314)|null|
+|**2025-11-23**|**Point-to-Point: Sparse Motion Guidance for Controllable Video Editing**|Yeji Song et.al.|[2511.18277](http://arxiv.org/abs/2511.18277)|null|
+|**2025-11-23**|**SatSAM2: Motion-Constrained Video Object Tracking in Satellite Imagery using Promptable SAM2 and Kalman Priors**|Ruijie Fan et.al.|[2511.18264](http://arxiv.org/abs/2511.18264)|null|
+|**2025-11-23**|**EgoVITA: Learning to Plan and Verify for Egocentric Video Reasoning**|Yogesh Kulkarni et.al.|[2511.18242](http://arxiv.org/abs/2511.18242)|null|
+|**2025-11-22**|**MotionDuet: Dual-Conditioned 3D Human Motion Generation with Video-Regularized Text Learning**|Yi-Yang Zhang et.al.|[2511.18209](http://arxiv.org/abs/2511.18209)|null|
+|**2025-11-22**|**InfiniBench: Infinite Benchmarking for Visual Spatial Reasoning with Customizable Scene Complexity**|Haoming Wang et.al.|[2511.18200](http://arxiv.org/abs/2511.18200)|null|
+|**2025-11-22**|**EgoControl: Controllable Egocentric Video Generation via 3D Full-Body Poses**|Enrico Pallotta et.al.|[2511.18173](http://arxiv.org/abs/2511.18173)|null|
+|**2025-11-22**|**Video4Edit: Viewing Image Editing as a Degenerate Temporal Process**|Xiaofan Li et.al.|[2511.18131](http://arxiv.org/abs/2511.18131)|null|
+|**2025-11-22**|**Consolidating Diffusion-Generated Video Detection with Unified Multimodal Forgery Learning**|Xiaohong Liu et.al.|[2511.18104](http://arxiv.org/abs/2511.18104)|null|
+|**2025-11-22**|**Spotlight: Identifying and Localizing Video Generation Errors Using VLMs**|Aditya Chinchure et.al.|[2511.18102](http://arxiv.org/abs/2511.18102)|null|
+|**2025-11-22**|**Hybrid Event Frame Sensors: Modeling, Calibration, and Simulation**|Yunfan Lu et.al.|[2511.18037](http://arxiv.org/abs/2511.18037)|null|
+|**2025-11-22**|**Diverse Instance Generation via Diffusion Models for Enhanced Few-Shot Object Detection in Remote Sensing Images**|Yanxing Liu et.al.|[2511.18031](http://arxiv.org/abs/2511.18031)|null|
+|**2025-11-22**|**Plan-X: Instruct Video Generation via Semantic Planning**|Lun Huang et.al.|[2511.17986](http://arxiv.org/abs/2511.17986)|null|
+|**2025-11-22**|**VITAL: Vision-Encoder-centered Pre-training for LMMs in Visual Quality Assessment**|Ziheng Jia et.al.|[2511.17962](http://arxiv.org/abs/2511.17962)|null|
 |**2025-11-21**|**EvDiff: High Quality Video with an Event Camera**|Weilun Li et.al.|[2511.17492](http://arxiv.org/abs/2511.17492)|null|
 |**2025-11-21**|**Video-R4: Reinforcing Text-Rich Video Reasoning with Visual Rumination**|Yolo Yunlong Tang et.al.|[2511.17490](http://arxiv.org/abs/2511.17490)|null|
 |**2025-11-21**|**Counterfactual World Models via Digital Twin-conditioned Video Diffusion**|Yiqing Shen et.al.|[2511.17481](http://arxiv.org/abs/2511.17481)|null|
@@ -219,7 +279,7 @@
 |**2025-11-18**|**FlowRoI A Fast Optical Flow Driven Region of Interest Extraction Framework for High-Throughput Image Compression in Immune Cell Migration Analysis**|Xiaowei Xu et.al.|[2511.14419](http://arxiv.org/abs/2511.14419)|null|
 |**2025-11-18**|**ARC-Chapter: Structuring Hour-Long Videos into Navigable Chapters and Hierarchical Summaries**|Junfu Pu et.al.|[2511.14349](http://arxiv.org/abs/2511.14349)|null|
 
-</details><p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251125>back to top</a>)</p>
 
 Notes: 
 
