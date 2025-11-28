@@ -1,5 +1,5 @@
 # World Model and Embodied AI arxiv Papers
-> Updated on 2025.11.27
+> Updated on 2025.11.28
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#1-world-model>1-World Model</a></li>
@@ -155,7 +155,7 @@
 - 2025-11-24, **Annotation-Free Class-Incremental Learning**, Hari Chandana Kuchibhotla et.al., Paper: [http://arxiv.org/abs/2511.19344](http://arxiv.org/abs/2511.19344)
 - 2025-11-26, **$\mathcal{E}_0$ : Enhancing Generalization and Fine-Grained Control in VLA Models via Continuized Discrete Diffusion**, Zhihao Zhan et.al., Paper: [http://arxiv.org/abs/2511.21542](http://arxiv.org/abs/2511.21542)
 
-</details><p align=right>(<a href=#updated-on-20251127>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251128>back to top</a>)</p>
 
 <details>
 
@@ -304,7 +304,7 @@
 - 2025-11-21, **A Little More Like This: Text-to-Image Retrieval with Vision-Language Models Using Relevance Feedback**, Bulat Khaertdinov et.al., Paper: [http://arxiv.org/abs/2511.17255](http://arxiv.org/abs/2511.17255)
 - 2025-11-26, **$\mathcal{E}_0$ : Enhancing Generalization and Fine-Grained Control in VLA Models via Continuized Discrete Diffusion**, Zhihao Zhan et.al., Paper: [http://arxiv.org/abs/2511.21542](http://arxiv.org/abs/2511.21542)
 
-</details><p align=right>(<a href=#updated-on-20251127>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251128>back to top</a>)</p>
 
 <details>
 
@@ -452,7 +452,7 @@
 - 2025-11-18, **ARC-Chapter: Structuring Hour-Long Videos into Navigable Chapters and Hierarchical Summaries**, Junfu Pu et.al., Paper: [http://arxiv.org/abs/2511.14349](http://arxiv.org/abs/2511.14349)
 - 2025-11-25, **A Reason-then-Describe Instruction Interpreter for Controllable Video Generation**, Shengqiong Wu et.al., Paper: [http://arxiv.org/abs/2511.20563](http://arxiv.org/abs/2511.20563)
 
-</details><p align=right>(<a href=#updated-on-20251127>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251128>back to top</a>)</p>
 
 Notes: 
 
