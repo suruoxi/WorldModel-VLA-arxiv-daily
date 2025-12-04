@@ -3,7 +3,7 @@ layout: default
 ---
 
 # World Model and Embodied AI arxiv Papers
-### Updated on 2025.12.03
+### Updated on 2025.12.04
 <details>
 
 <summary> 1-World Model </summary>
@@ -12,6 +12,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-03**|**Unique Lives, Shared World: Learning from Single-Life Videos**|Tengda Han et.al.|[2512.04085](http://arxiv.org/abs/2512.04085)|null|
+|**2025-12-03**|**SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL**|Siyi Chen et.al.|[2512.04069](http://arxiv.org/abs/2512.04069)|null|
+|**2025-12-03**|**RELIC: Interactive Video World Model with Long-Horizon Memory**|Yicong Hong et.al.|[2512.04040](http://arxiv.org/abs/2512.04040)|null|
+|**2025-12-03**|**Fast & Efficient Normalizing Flows and Applications of Image Generative Models**|Sandeep Nagar et.al.|[2512.04039](http://arxiv.org/abs/2512.04039)|null|
+|**2025-12-03**|**On the Temporality for Sketch Representation Learning**|Marcelo Isaias de Moraes Junior et.al.|[2512.04007](http://arxiv.org/abs/2512.04007)|null|
+|**2025-12-03**|**DIQ-H: Evaluating Hallucination Persistence in VLMs Under Temporal Visual Degradation**|Zexin Lin et.al.|[2512.03992](http://arxiv.org/abs/2512.03992)|null|
+|**2025-12-03**|**DirectDrag: High-Fidelity, Mask-Free, Prompt-Free Drag-based Image Editing via Readout-Guided Feature Alignment**|Sheng-Hao Liao et.al.|[2512.03981](http://arxiv.org/abs/2512.03981)|null|
+|**2025-12-03**|**Technical Report on Text Dataset Distillation**|Keith Ando Ogawa et.al.|[2512.03967](http://arxiv.org/abs/2512.03967)|null|
+|**2025-12-03**|**DSP: A Statistically-Principled Structural Polarization Measure**|Giulia Preti et.al.|[2512.03937](http://arxiv.org/abs/2512.03937)|null|
+|**2025-12-03**|**Beyond the Ground Truth: Enhanced Supervision for Image Restoration**|Donghun Ryou et.al.|[2512.03932](http://arxiv.org/abs/2512.03932)|null|
+|**2025-12-03**|**OmniDexVLG: Learning Dexterous Grasp Generation from Vision Language Model-Guided Grasp Semantics, Taxonomy and Functional Affordance**|Lei Zhang et.al.|[2512.03874](http://arxiv.org/abs/2512.03874)|null|
+|**2025-12-03**|**DVPO: Distributional Value Modeling-based Policy Optimization for LLM Post-Training**|Dingwei Zhu et.al.|[2512.03847](http://arxiv.org/abs/2512.03847)|null|
+|**2025-12-03**|**Training and Evaluation of Guideline-Based Medical Reasoning in LLMs**|Michael Staniek et.al.|[2512.03838](http://arxiv.org/abs/2512.03838)|null|
+|**2025-12-03**|**ExOAR: Expert-Guided Object and Activity Recognition from Textual Data**|Iris Beerepoot et.al.|[2512.03790](http://arxiv.org/abs/2512.03790)|null|
+|**2025-12-03**|**"MCP Does Not Stand for Misuse Cryptography Protocol": Uncovering Cryptographic Misuse in Model Context Protocol at Scale**|Biwei Yan et.al.|[2512.03775](http://arxiv.org/abs/2512.03775)|null|
+|**2025-12-03**|**Using functional information for binary classifications**|Pablo Martinez-Camblor et.al.|[2512.03761](http://arxiv.org/abs/2512.03761)|null|
+|**2025-12-03**|**Thinking with Programming Vision: Towards a Unified View for Thinking with Images**|Zirun Guo et.al.|[2512.03746](http://arxiv.org/abs/2512.03746)|null|
+|**2025-12-03**|**Cross-embodied Co-design for Dexterous Hands**|Kehlani Fay et.al.|[2512.03743](http://arxiv.org/abs/2512.03743)|null|
+|**2025-12-03**|**AR-Med: Automated Relevance Enhancement in Medical Search via LLM-Driven Information Augmentation**|Chuyue Wang et.al.|[2512.03737](http://arxiv.org/abs/2512.03737)|null|
+|**2025-12-03**|**PosA-VLA: Enhancing Action Generation via Pose-Conditioned Anchor Attention**|Ziwen Li et.al.|[2512.03724](http://arxiv.org/abs/2512.03724)|null|
 |**2025-12-02**|**Video2Act: A Dual-System Video Diffusion Policy with Robotic Spatio-Motional Modeling**|Yueru Jia et.al.|[2512.03044](http://arxiv.org/abs/2512.03044)|null|
 |**2025-12-02**|**ViSAudio: End-to-End Video-Driven Binaural Spatial Audio Generation**|Mengchen Zhang et.al.|[2512.03036](http://arxiv.org/abs/2512.03036)|null|
 |**2025-12-02**|**Semiparametric Robust Estimation of Population Location**|Ananyabrata Barua et.al.|[2512.03021](http://arxiv.org/abs/2512.03021)|null|
@@ -221,6 +241,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-03**|**SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL**|Siyi Chen et.al.|[2512.04069](http://arxiv.org/abs/2512.04069)|null|
+|**2025-12-03**|**Stable Signer: Hierarchical Sign Language Generative Model**|Sen Fang et.al.|[2512.04048](http://arxiv.org/abs/2512.04048)|null|
+|**2025-12-03**|**Jina-VLM: Small Multilingual Vision Language Model**|Andreas Koukounas et.al.|[2512.04032](http://arxiv.org/abs/2512.04032)|null|
+|**2025-12-03**|**DIQ-H: Evaluating Hallucination Persistence in VLMs Under Temporal Visual Degradation**|Zexin Lin et.al.|[2512.03992](http://arxiv.org/abs/2512.03992)|null|
+|**2025-12-03**|**TempR1: Improving Temporal Understanding of MLLMs via Temporal-Aware Multi-Task Reinforcement Learning**|Tao Wu et.al.|[2512.03963](http://arxiv.org/abs/2512.03963)|null|
+|**2025-12-03**|**Hierarchical Vision Language Action Model Using Success and Failure Demonstrations**|Jeongeun Park et.al.|[2512.03913](http://arxiv.org/abs/2512.03913)|null|
+|**2025-12-03**|**OmniDexVLG: Learning Dexterous Grasp Generation from Vision Language Model-Guided Grasp Semantics, Taxonomy and Functional Affordance**|Lei Zhang et.al.|[2512.03874](http://arxiv.org/abs/2512.03874)|null|
+|**2025-12-03**|**PULSE: A Unified Multi-Task Architecture for Cardiac Segmentation, Diagnosis, and Few-Shot Cross-Modality Clinical Adaptation**|Hania Ghouse et.al.|[2512.03848](http://arxiv.org/abs/2512.03848)|null|
+|**2025-12-03**|**AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition**|Zichuan Lin et.al.|[2512.03794](http://arxiv.org/abs/2512.03794)|null|
+|**2025-12-03**|**Universally Converging Representations of Matter Across Scientific Foundation Models**|Sathya Edamadaka et.al.|[2512.03750](http://arxiv.org/abs/2512.03750)|null|
+|**2025-12-03**|**Thinking with Programming Vision: Towards a Unified View for Thinking with Images**|Zirun Guo et.al.|[2512.03746](http://arxiv.org/abs/2512.03746)|null|
+|**2025-12-03**|**Cross-embodied Co-design for Dexterous Hands**|Kehlani Fay et.al.|[2512.03743](http://arxiv.org/abs/2512.03743)|null|
+|**2025-12-03**|**PosA-VLA: Enhancing Action Generation via Pose-Conditioned Anchor Attention**|Ziwen Li et.al.|[2512.03724](http://arxiv.org/abs/2512.03724)|null|
+|**2025-12-03**|**ConvRot: Rotation-Based Plug-and-Play 4-bit Quantization for Diffusion Transformers**|Feice Huang et.al.|[2512.03673](http://arxiv.org/abs/2512.03673)|null|
+|**2025-12-03**|**Colon-X: Advancing Intelligent Colonoscopy from Multimodal Understanding to Clinical Reasoning**|Ge-Peng Ji et.al.|[2512.03667](http://arxiv.org/abs/2512.03667)|null|
+|**2025-12-03**|**ToG-Bench: Task-Oriented Spatio-Temporal Grounding in Egocentric Videos**|Qi'ao Xu et.al.|[2512.03666](http://arxiv.org/abs/2512.03666)|null|
+|**2025-12-03**|**Optical Context Compression Is Just (Bad) Autoencoding**|Ivan Yee Lee et.al.|[2512.03643](http://arxiv.org/abs/2512.03643)|null|
+|**2025-12-03**|**MemVerse: Multimodal Memory for Lifelong Learning Agents**|Junming Liu et.al.|[2512.03627](http://arxiv.org/abs/2512.03627)|null|
+|**2025-12-03**|**The promising potential of vision language models for the generation of textual weather forecasts**|Edward C. C. Steele et.al.|[2512.03623](http://arxiv.org/abs/2512.03623)|null|
+|**2025-12-03**|**CartoMapQA: A Fundamental Benchmark Dataset Evaluating Vision-Language Models on Cartographic Map Understanding**|Huy Quang Ung et.al.|[2512.03558](http://arxiv.org/abs/2512.03558)|null|
 |**2025-12-02**|**OneThinker: All-in-one Reasoning Model for Image and Video**|Kaituo Feng et.al.|[2512.03043](http://arxiv.org/abs/2512.03043)|null|
 |**2025-12-02**|**DynamicVerse: A Physically-Aware Multimodal Framework for 4D World Modeling**|Kairun Wen et.al.|[2512.03000](http://arxiv.org/abs/2512.03000)|null|
 |**2025-12-02**|**U4D: Uncertainty-Aware 4D World Modeling from LiDAR Sequences**|Xiang Xu et.al.|[2512.02982](http://arxiv.org/abs/2512.02982)|null|
@@ -430,6 +470,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-03**|**Stable Signer: Hierarchical Sign Language Generative Model**|Sen Fang et.al.|[2512.04048](http://arxiv.org/abs/2512.04048)|null|
+|**2025-12-03**|**RELIC: Interactive Video World Model with Long-Horizon Memory**|Yicong Hong et.al.|[2512.04040](http://arxiv.org/abs/2512.04040)|null|
+|**2025-12-03**|**PSA: Pyramid Sparse Attention for Efficient Video Understanding and Generation**|Xiaolong Li et.al.|[2512.04025](http://arxiv.org/abs/2512.04025)|null|
+|**2025-12-03**|**TempR1: Improving Temporal Understanding of MLLMs via Temporal-Aware Multi-Task Reinforcement Learning**|Tao Wu et.al.|[2512.03963](http://arxiv.org/abs/2512.03963)|null|
+|**2025-12-03**|**UniMo: Unifying 2D Video and 3D Human Motion with an Autoregressive Framework**|Youxin Pang et.al.|[2512.03918](http://arxiv.org/abs/2512.03918)|null|
+|**2025-12-03**|**Zero-Shot Video Translation and Editing with Frame Spatial-Temporal Correspondence**|Shuai Yang et.al.|[2512.03905](http://arxiv.org/abs/2512.03905)|null|
+|**2025-12-03**|**ToG-Bench: Task-Oriented Spatio-Temporal Grounding in Egocentric Videos**|Qi'ao Xu et.al.|[2512.03666](http://arxiv.org/abs/2512.03666)|null|
+|**2025-12-03**|**The promising potential of vision language models for the generation of textual weather forecasts**|Edward C. C. Steele et.al.|[2512.03623](http://arxiv.org/abs/2512.03623)|null|
+|**2025-12-03**|**ReCamDriving: LiDAR-Free Camera-Controlled Novel Trajectory Video Generation**|Yaokun Li et.al.|[2512.03621](http://arxiv.org/abs/2512.03621)|null|
+|**2025-12-03**|**LAMP: Language-Assisted Motion Planning for Controllable Video Generation**|Muhammed Burak Kizil et.al.|[2512.03619](http://arxiv.org/abs/2512.03619)|null|
+|**2025-12-03**|**Motion4D: Learning 3D-Consistent Motion and Semantics for 4D Scene Understanding**|Haoran Zhou et.al.|[2512.03601](http://arxiv.org/abs/2512.03601)|null|
+|**2025-12-03**|**Beyond Boundary Frames: Audio-Visual Semantic Guidance for Context-Aware Video Interpolation**|Yuchen Deng et.al.|[2512.03590](http://arxiv.org/abs/2512.03590)|null|
+|**2025-12-03**|**Dynamic Optical Test for Bot Identification (DOT-BI): A simple check to identify bots in surveys and online processes**|Malte Bleeker et.al.|[2512.03580](http://arxiv.org/abs/2512.03580)|null|
+|**2025-12-03**|**Dynamic Content Moderation in Livestreams: Combining Supervised Classification with MLLM-Boosted Similarity Matching**|Wei Chee Yew et.al.|[2512.03553](http://arxiv.org/abs/2512.03553)|null|
+|**2025-12-03**|**Rethinking Prompt Design for Inference-time Scaling in Text-to-Visual Generation**|Subin Kim et.al.|[2512.03534](http://arxiv.org/abs/2512.03534)|null|
+|**2025-12-03**|**FloodDiffusion: Tailored Diffusion Forcing for Streaming Motion Generation**|Yiyi Cai et.al.|[2512.03520](http://arxiv.org/abs/2512.03520)|null|
+|**2025-12-03**|**Towards Object-centric Understanding for Instructional Videos**|Wenliang Guo et.al.|[2512.03479](http://arxiv.org/abs/2512.03479)|null|
+|**2025-12-03**|**GeoVideo: Introducing Geometric Regularization into Video Generation Model**|Yunpeng Bai et.al.|[2512.03453](http://arxiv.org/abs/2512.03453)|null|
+|**2025-12-03**|**GalaxyDiT: Efficient Video Generation with Guidance Alignment and Adaptive Proxy in Diffusion Transformers**|Zhiye Song et.al.|[2512.03451](http://arxiv.org/abs/2512.03451)|null|
+|**2025-12-03**|**FireSentry: A Multi-Modal Spatio-temporal Benchmark Dataset for Fine-Grained Wildfire Spread Forecasting**|Nan Zhou et.al.|[2512.03369](http://arxiv.org/abs/2512.03369)|null|
 |**2025-12-02**|**Video2Act: A Dual-System Video Diffusion Policy with Robotic Spatio-Motional Modeling**|Yueru Jia et.al.|[2512.03044](http://arxiv.org/abs/2512.03044)|null|
 |**2025-12-02**|**OneThinker: All-in-one Reasoning Model for Image and Video**|Kaituo Feng et.al.|[2512.03043](http://arxiv.org/abs/2512.03043)|null|
 |**2025-12-02**|**MultiShotMaster: A Controllable Multi-Shot Video Generation Framework**|Qinghe Wang et.al.|[2512.03041](http://arxiv.org/abs/2512.03041)|null|
