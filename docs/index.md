@@ -3,7 +3,7 @@ layout: default
 ---
 
 # World Model and Embodied AI arxiv Papers
-### Updated on 2025.12.04
+### Updated on 2025.12.05
 <details>
 
 <summary> 1-World Model </summary>
@@ -12,6 +12,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-04**|**Light-X: Generative 4D Video Rendering with Camera and Illumination Control**|Tianqi Liu et.al.|[2512.05115](http://arxiv.org/abs/2512.05115)|null|
+|**2025-12-04**|**TV2TV: A Unified Framework for Interleaved Language and Video Generation**|Xiaochuang Han et.al.|[2512.05103](http://arxiv.org/abs/2512.05103)|null|
+|**2025-12-04**|**The Geometry of Intelligence: Deterministic Functional Topology as a Foundation for Real-World Perception**|Eduardo Di Santi et.al.|[2512.05089](http://arxiv.org/abs/2512.05089)|null|
+|**2025-12-04**|**Object Reconstruction under Occlusion with Generative Priors and Contact-induced Constraints**|Minghan Zhu et.al.|[2512.05079](http://arxiv.org/abs/2512.05079)|null|
+|**2025-12-04**|**BulletTime: Decoupled Control of Time and Camera Pose for Video Generation**|Yiming Wang et.al.|[2512.05076](http://arxiv.org/abs/2512.05076)|null|
+|**2025-12-04**|**Multi-LLM Collaboration for Medication Recommendation**|Huascar Sanchez et.al.|[2512.05066](http://arxiv.org/abs/2512.05066)|null|
+|**2025-12-04**|**QKAN-LSTM: Quantum-inspired Kolmogorov-Arnold Long Short-term Memory**|Yu-Chao Hsu et.al.|[2512.05049](http://arxiv.org/abs/2512.05049)|null|
+|**2025-12-04**|**On random matrix statistics of 3d gravity**|Daniel L. Jafferis et.al.|[2512.05045](http://arxiv.org/abs/2512.05045)|null|
+|**2025-12-04**|**Strategic Self-Improvement for Competitive Agents in AI Labour Markets**|Christopher Chiu et.al.|[2512.04988](http://arxiv.org/abs/2512.04988)|null|
+|**2025-12-04**|**Nex-N1: Agentic Models Trained via a Unified Ecosystem for Large-Scale Environment Construction**|Nex-AGI Team et.al.|[2512.04987](http://arxiv.org/abs/2512.04987)|null|
+|**2025-12-04**|**Multipole decomposition of the gravitational field of a point mass at the black hole horizon**|João P. B. Brito et.al.|[2512.04976](http://arxiv.org/abs/2512.04976)|null|
+|**2025-12-04**|**Rethinking the Use of Vision Transformers for AI-Generated Image Detection**|NaHyeon Park et.al.|[2512.04969](http://arxiv.org/abs/2512.04969)|null|
+|**2025-12-04**|**Hybrid-Diffusion Models: Combining Open-loop Routines with Visuomotor Diffusion Policies**|Jonne Van Haastregt et.al.|[2512.04960](http://arxiv.org/abs/2512.04960)|null|
+|**2025-12-04**|**FASTer: Toward Efficient Autoregressive Vision Language Action Modeling via neural Action Tokenization**|Yicheng Liu et.al.|[2512.04952](http://arxiv.org/abs/2512.04952)|null|
+|**2025-12-04**|**TripleC Learning and Lightweight Speech Enhancement for Multi-Condition Target Speech Extraction**|Ziling Huang et.al.|[2512.04945](http://arxiv.org/abs/2512.04945)|null|
+|**2025-12-04**|**Logic-Driven Cybersecurity: A Novel Framework for System Log Anomaly Detection using Answer Set Programming**|Fang Li et.al.|[2512.04908](http://arxiv.org/abs/2512.04908)|null|
+|**2025-12-04**|**Stability-Guaranteed Dual Kalman Filtering for Electrochemical Battery State Estimation**|Feng Guo et.al.|[2512.04885](http://arxiv.org/abs/2512.04885)|null|
+|**2025-12-04**|**SDG-Track: A Heterogeneous Observer-Follower Framework for High-Resolution UAV Tracking on Embedded Platforms**|Jiawen Wen et.al.|[2512.04883](http://arxiv.org/abs/2512.04883)|null|
+|**2025-12-04**|**A Sanity Check for Multi-In-Domain Face Forgery Detection in the Real World**|Jikang Cheng et.al.|[2512.04837](http://arxiv.org/abs/2512.04837)|null|
+|**2025-12-04**|**Clustering country-level all-cause mortality data: a review**|Pedro Menezes de Araujo et.al.|[2512.04831](http://arxiv.org/abs/2512.04831)|null|
 |**2025-12-03**|**Unique Lives, Shared World: Learning from Single-Life Videos**|Tengda Han et.al.|[2512.04085](http://arxiv.org/abs/2512.04085)|null|
 |**2025-12-03**|**SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL**|Siyi Chen et.al.|[2512.04069](http://arxiv.org/abs/2512.04069)|null|
 |**2025-12-03**|**RELIC: Interactive Video World Model with Long-Horizon Memory**|Yicong Hong et.al.|[2512.04040](http://arxiv.org/abs/2512.04040)|null|
@@ -241,6 +261,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-04**|**DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation**|Dongzhi Jiang et.al.|[2512.05112](http://arxiv.org/abs/2512.05112)|null|
+|**2025-12-04**|**ARM-Thinker: Reinforcing Multimodal Generative Reward Models with Agentic Tool Use and Visual Reasoning**|Shengyuan Ding et.al.|[2512.05111](http://arxiv.org/abs/2512.05111)|null|
+|**2025-12-04**|**STARE-VLA: Progressive Stage-Aware Reinforcement for Fine-Tuning Vision-Language-Action Models**|Feng Xu et.al.|[2512.05107](http://arxiv.org/abs/2512.05107)|null|
+|**2025-12-04**|**TV2TV: A Unified Framework for Interleaved Language and Video Generation**|Xiaochuang Han et.al.|[2512.05103](http://arxiv.org/abs/2512.05103)|null|
+|**2025-12-04**|**Visual Reasoning Tracer: Object-Level Grounded Reasoning Benchmark**|Haobo Yuan et.al.|[2512.05091](http://arxiv.org/abs/2512.05091)|null|
+|**2025-12-04**|**4DLangVGGT: 4D Language-Visual Geometry Grounded Transformer**|Xianfeng Wu et.al.|[2512.05060](http://arxiv.org/abs/2512.05060)|null|
+|**2025-12-04**|**Aligned but Stereotypical? The Hidden Influence of System Prompts on Social Bias in LVLM-Based Text-to-Image Models**|NaHyeon Park et.al.|[2512.04981](http://arxiv.org/abs/2512.04981)|null|
+|**2025-12-04**|**FASTer: Toward Efficient Autoregressive Vision Language Action Modeling via neural Action Tokenization**|Yicheng Liu et.al.|[2512.04952](http://arxiv.org/abs/2512.04952)|null|
+|**2025-12-04**|**Chameleon: Adaptive Adversarial Agents for Scaling-Based Visual Prompt Injection in Multimodal AI Systems**|M Zeeshan et.al.|[2512.04895](http://arxiv.org/abs/2512.04895)|null|
+|**2025-12-04**|**Hoi! - A Multimodal Dataset for Force-Grounded, Cross-View Articulated Manipulation**|Tim Engelbracht et.al.|[2512.04884](http://arxiv.org/abs/2512.04884)|null|
+|**2025-12-04**|**SIMA 2: A Generalist Embodied Agent for Virtual Worlds**|SIMA team et.al.|[2512.04797](http://arxiv.org/abs/2512.04797)|null|
+|**2025-12-04**|**ASTRIDE: A Security Threat Modeling Platform for Agentic-AI Applications**|Eranga Bandara et.al.|[2512.04785](http://arxiv.org/abs/2512.04785)|null|
+|**2025-12-04**|**Embodied Co-Design for Rapidly Evolving Agents: Taxonomy, Frontiers, and Challenges**|Yuxing Wang et.al.|[2512.04770](http://arxiv.org/abs/2512.04770)|null|
+|**2025-12-04**|**MemLoRA: Distilling Expert Adapters for On-Device Memory Systems**|Massimo Bini et.al.|[2512.04763](http://arxiv.org/abs/2512.04763)|null|
+|**2025-12-04**|**E3AD: An Emotion-Aware Vision-Language-Action Model for Human-Centric End-to-End Autonomous Driving**|Yihong Tang et.al.|[2512.04733](http://arxiv.org/abs/2512.04733)|null|
+|**2025-12-04**|**Measuring the Unspoken: A Disentanglement Model and Benchmark for Psychological Analysis in the Wild**|Yigui Feng et.al.|[2512.04728](http://arxiv.org/abs/2512.04728)|null|
+|**2025-12-04**|**Towards Cross-View Point Correspondence in Vision-Language Models**|Yipu Wang et.al.|[2512.04686](http://arxiv.org/abs/2512.04686)|null|
+|**2025-12-04**|**Reward Forcing: Efficient Streaming Video Generation with Rewarded Distribution Matching Distillation**|Yunhong Lu et.al.|[2512.04678](http://arxiv.org/abs/2512.04678)|null|
+|**2025-12-04**|**Turbo-Muon: Accelerating Orthogonality-Based Optimization with Pre-Conditioning**|Thibaut Boissin et.al.|[2512.04632](http://arxiv.org/abs/2512.04632)|null|
+|**2025-12-04**|**Neural Decoding of Overt Speech from ECoG Using Vision Transformers and Contrastive Representation Learning**|Mohamed Baha Ben Ticha et.al.|[2512.04618](http://arxiv.org/abs/2512.04618)|null|
 |**2025-12-03**|**SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL**|Siyi Chen et.al.|[2512.04069](http://arxiv.org/abs/2512.04069)|null|
 |**2025-12-03**|**Stable Signer: Hierarchical Sign Language Generative Model**|Sen Fang et.al.|[2512.04048](http://arxiv.org/abs/2512.04048)|null|
 |**2025-12-03**|**Jina-VLM: Small Multilingual Vision Language Model**|Andreas Koukounas et.al.|[2512.04032](http://arxiv.org/abs/2512.04032)|null|
@@ -470,6 +510,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-04**|**Light-X: Generative 4D Video Rendering with Camera and Illumination Control**|Tianqi Liu et.al.|[2512.05115](http://arxiv.org/abs/2512.05115)|null|
+|**2025-12-04**|**NeuralRemaster: Phase-Preserving Diffusion for Structure-Aligned Generation**|Yu Zeng et.al.|[2512.05106](http://arxiv.org/abs/2512.05106)|null|
+|**2025-12-04**|**TV2TV: A Unified Framework for Interleaved Language and Video Generation**|Xiaochuang Han et.al.|[2512.05103](http://arxiv.org/abs/2512.05103)|null|
+|**2025-12-04**|**From Generated Human Videos to Physically Plausible Robot Trajectories**|James Ni et.al.|[2512.05094](http://arxiv.org/abs/2512.05094)|null|
+|**2025-12-04**|**Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression**|Jung Yi et.al.|[2512.05081](http://arxiv.org/abs/2512.05081)|null|
+|**2025-12-04**|**Object Reconstruction under Occlusion with Generative Priors and Contact-induced Constraints**|Minghan Zhu et.al.|[2512.05079](http://arxiv.org/abs/2512.05079)|null|
+|**2025-12-04**|**BulletTime: Decoupled Control of Time and Camera Pose for Video Generation**|Yiming Wang et.al.|[2512.05076](http://arxiv.org/abs/2512.05076)|null|
+|**2025-12-04**|**Joint 3D Geometry Reconstruction and Motion Generation for 4D Synthesis from a Single Image**|Yanran Zhang et.al.|[2512.05044](http://arxiv.org/abs/2512.05044)|null|
+|**2025-12-04**|**Generative Neural Video Compression via Video Diffusion Prior**|Qi Mao et.al.|[2512.05016](http://arxiv.org/abs/2512.05016)|null|
+|**2025-12-04**|**Exploring YouTube's Political Communication Networks during the 2024 French Elections**|Caroline Violot et.al.|[2512.04971](http://arxiv.org/abs/2512.04971)|null|
+|**2025-12-04**|**Contact-Aware Refinement of Human Pose Pseudo-Ground Truth via Bioimpedance Sensing**|Maria-Paola Forte et.al.|[2512.04862](http://arxiv.org/abs/2512.04862)|null|
+|**2025-12-04**|**Multi Task Denoiser Training for Solving Linear Inverse Problems**|Clément Bled et.al.|[2512.04709](http://arxiv.org/abs/2512.04709)|null|
+|**2025-12-04**|**Reward Forcing: Efficient Streaming Video Generation with Rewarded Distribution Matching Distillation**|Yunhong Lu et.al.|[2512.04678](http://arxiv.org/abs/2512.04678)|null|
+|**2025-12-04**|**Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length**|Yubo Huang et.al.|[2512.04677](http://arxiv.org/abs/2512.04677)|null|
+|**2025-12-04**|**SEASON: Mitigating Temporal Hallucination in Video Large Language Models via Self-Diagnostic Contrastive Decoding**|Chang-Hsun Wu et.al.|[2512.04643](http://arxiv.org/abs/2512.04643)|null|
+|**2025-12-04**|**VideoMem: Enhancing Ultra-Long Video Understanding via Adaptive Memory Management**|Hongbo Jin et.al.|[2512.04540](http://arxiv.org/abs/2512.04540)|null|
+|**2025-12-04**|**X-Humanoid: Robotize Human Videos to Generate Humanoid Videos at Scale**|Pei Yang et.al.|[2512.04537](http://arxiv.org/abs/2512.04537)|null|
+|**2025-12-04**|**PhyVLLM: Physics-Guided Video Language Model with Motion-Appearance Disentanglement**|Yu-Wei Zhan et.al.|[2512.04532](http://arxiv.org/abs/2512.04532)|null|
+|**2025-12-04**|**VideoSSM: Autoregressive Long Video Generation with Hybrid State-Space Memory**|Yifei Yu et.al.|[2512.04519](http://arxiv.org/abs/2512.04519)|null|
+|**2025-12-04**|**EgoLCD: Egocentric Video Generation with Long Context Diffusion**|Liuzhou Zhang et.al.|[2512.04515](http://arxiv.org/abs/2512.04515)|null|
 |**2025-12-03**|**Stable Signer: Hierarchical Sign Language Generative Model**|Sen Fang et.al.|[2512.04048](http://arxiv.org/abs/2512.04048)|null|
 |**2025-12-03**|**RELIC: Interactive Video World Model with Long-Horizon Memory**|Yicong Hong et.al.|[2512.04040](http://arxiv.org/abs/2512.04040)|null|
 |**2025-12-03**|**PSA: Pyramid Sparse Attention for Efficient Video Understanding and Generation**|Xiaolong Li et.al.|[2512.04025](http://arxiv.org/abs/2512.04025)|null|
