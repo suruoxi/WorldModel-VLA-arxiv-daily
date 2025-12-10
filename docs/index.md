@@ -3,7 +3,7 @@ layout: default
 ---
 
 # World Model and Embodied AI arxiv Papers
-### Updated on 2025.12.09
+### Updated on 2025.12.10
 <details>
 
 <summary> 1-World Model </summary>
@@ -12,6 +12,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-09**|**Astra: General Interactive World Model with Autoregressive Denoising**|Yixuan Zhu et.al.|[2512.08931](http://arxiv.org/abs/2512.08931)|null|
+|**2025-12-09**|**Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform**|Yuning Gong et.al.|[2512.08478](http://arxiv.org/abs/2512.08478)|null|
+|**2025-12-09**|**Prismatic World Model: Learning Compositional Dynamics for Planning in Hybrid Systems**|Mingwei Li et.al.|[2512.08411](http://arxiv.org/abs/2512.08411)|null|
+|**2025-12-09**|**Learning Robot Manipulation from Audio World Models**|Fan Zhang et.al.|[2512.08405](http://arxiv.org/abs/2512.08405)|null|
+|**2025-12-09**|**Zero-Splat TeleAssist: A Zero-Shot Pose Estimation Framework for Semantic Teleoperation**|Srijan Dokania et.al.|[2512.08271](http://arxiv.org/abs/2512.08271)|null|
+|**2025-12-09**|**Empowerment Gain and Causal Model Construction: Children and adults are sensitive to controllability and variability in their causal interventions**|Eunice Yiu et.al.|[2512.08230](http://arxiv.org/abs/2512.08230)|null|
+|**2025-12-09**|**Embodied Tree of Thoughts: Deliberate Manipulation Planning with Embodied World Model**|Wenjiang Xu et.al.|[2512.08188](http://arxiv.org/abs/2512.08188)|null|
+|**2025-12-08**|**CLARITY: Medical World Model for Guiding Treatment Decisions by Modeling Context-Aware Disease Trajectories in Latent Space**|Tianxingjian Ding et.al.|[2512.08029](http://arxiv.org/abs/2512.08029)|null|
 |**2025-12-08**|**WorldReel: 4D Video Generation with Consistent Geometry and Motion Modeling**|Shaoheng Fang et.al.|[2512.07821](http://arxiv.org/abs/2512.07821)|null|
 |**2025-12-08**|**SpatialDreamer: Incentivizing Spatial Reasoning via Active Mental Imagery**|Meng Cao et.al.|[2512.07733](http://arxiv.org/abs/2512.07733)|null|
 |**2025-12-08**|**KAN-Dreamer: Benchmarking Kolmogorov-Arnold Networks as Function Approximators in World Models**|Chenwei Shi et.al.|[2512.07437](http://arxiv.org/abs/2512.07437)|null|
@@ -296,6 +304,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-09**|**Unified Diffusion Transformer for High-fidelity Text-Aware Image Restoration**|Jin Hyeon Kim et.al.|[2512.08922](http://arxiv.org/abs/2512.08922)|null|
+|**2025-12-09**|**SATGround: A Spatially-Aware Approach for Visual Grounding in Remote Sensing**|Aysim Toker et.al.|[2512.08881](http://arxiv.org/abs/2512.08881)|null|
+|**2025-12-09**|**Tri-Bench: Stress-Testing VLM Reliability on Spatial Reasoning under Camera Tilt and Object Interference**|Amit Bendkhale et.al.|[2512.08860](http://arxiv.org/abs/2512.08860)|null|
+|**2025-12-09**|**InfiniteVL: Synergizing Linear and Sparse Attention for Highly-Efficient, Unlimited-Input Vision-Language Models**|Hongyuan Tao et.al.|[2512.08829](http://arxiv.org/abs/2512.08829)|null|
+|**2025-12-09**|**Training-Free Dual Hyperbolic Adapters for Better Cross-Modal Reasoning**|Yi Zhang et.al.|[2512.08820](http://arxiv.org/abs/2512.08820)|null|
+|**2025-12-09**|**Aerial Vision-Language Navigation with a Unified Framework for Spatial, Temporal and Embodied Reasoning**|Huilin Xu et.al.|[2512.08639](http://arxiv.org/abs/2512.08639)|null|
+|**2025-12-09**|**See-Control: A Multimodal Agent Framework for Smartphone Interaction with a Robotic Arm**|Haoyu Zhao et.al.|[2512.08629](http://arxiv.org/abs/2512.08629)|null|
+|**2025-12-09**|**Trajectory Densification and Depth from Perspective-based Blur**|Tianchen Qiu et.al.|[2512.08627](http://arxiv.org/abs/2512.08627)|null|
+|**2025-12-09**|**Mind to Hand: Purposeful Robotic Control via Embodied Reasoning**|Peijun Tang et.al.|[2512.08580](http://arxiv.org/abs/2512.08580)|null|
+|**2025-12-09**|**Beyond Real Weights: Hypercomplex Representations for Stable Quantization**|Jawad Ibn Ahad et.al.|[2512.08524](http://arxiv.org/abs/2512.08524)|null|
+|**2025-12-09**|**OpenSubject: Leveraging Video-Derived Identity and Diversity Priors for Subject-driven Image Generation and Manipulation**|Yexin Liu et.al.|[2512.08294](http://arxiv.org/abs/2512.08294)|null|
+|**2025-12-09**|**PAVAS: Physics-Aware Video-to-Audio Synthesis**|Oh Hyun-Bin et.al.|[2512.08282](http://arxiv.org/abs/2512.08282)|null|
+|**2025-12-09**|**HybridToken-VLM: Hybrid Token Compression for Vision-Language Models**|Jusheng Zhang et.al.|[2512.08240](http://arxiv.org/abs/2512.08240)|null|
+|**2025-12-09**|**Semantic-Metric Bayesian Risk Fields: Learning Robot Safety from Human Videos with a VLM Prior**|Timothy Chen et.al.|[2512.08233](http://arxiv.org/abs/2512.08233)|null|
+|**2025-12-09**|**MM-CoT:A Benchmark for Probing Visual Chain-of-Thought Reasoning in Multimodal Models**|Jusheng Zhang et.al.|[2512.08228](http://arxiv.org/abs/2512.08228)|null|
+|**2025-12-09**|**Ground Slow, Move Fast: A Dual-System Foundation Model for Generalizable Vision-and-Language Navigation**|Meng Wei et.al.|[2512.08186](http://arxiv.org/abs/2512.08186)|null|
+|**2025-12-08**|**An Introduction to Deep Reinforcement and Imitation Learning**|Pedro Santana et.al.|[2512.08052](http://arxiv.org/abs/2512.08052)|null|
+|**2025-12-08**|**FRIEDA: Benchmarking Multi-Step Cartographic Reasoning in Vision-Language Models**|Jiyoon Pyo et.al.|[2512.08016](http://arxiv.org/abs/2512.08016)|null|
 |**2025-12-08**|**Relational Visual Similarity**|Thao Nguyen et.al.|[2512.07833](http://arxiv.org/abs/2512.07833)|null|
 |**2025-12-08**|**Online Segment Any 3D Thing as Instance Tracking**|Hanshi Wang et.al.|[2512.07599](http://arxiv.org/abs/2512.07599)|null|
 |**2025-12-08**|**Toward More Reliable Artificial Intelligence: Reducing Hallucinations in Vision-Language Models**|Kassoum Sanogo et.al.|[2512.07564](http://arxiv.org/abs/2512.07564)|null|
@@ -585,10 +611,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-09**|**Astra: General Interactive World Model with Autoregressive Denoising**|Yixuan Zhu et.al.|[2512.08931](http://arxiv.org/abs/2512.08931)|null|
+|**2025-12-09**|**Self-Evolving 3D Scene Generation from a Single Image**|Kaizhi Zheng et.al.|[2512.08905](http://arxiv.org/abs/2512.08905)|null|
+|**2025-12-09**|**Wan-Move: Motion-controllable Video Generation via Latent Trajectory Guidance**|Ruihang Chu et.al.|[2512.08765](http://arxiv.org/abs/2512.08765)|null|
+|**2025-12-09**|**Disturbance-Free Surgical Video Generation from Multi-Camera Shadowless Lamps for Open Surgery**|Yuna Kato et.al.|[2512.08577](http://arxiv.org/abs/2512.08577)|null|
+|**2025-12-09**|**GeoDiffMM: Geometry-Guided Conditional Diffusion for Motion Magnification**|Xuedeng Liu et.al.|[2512.08325](http://arxiv.org/abs/2512.08325)|null|
+|**2025-12-09**|**EgoX: Egocentric Video Generation from a Single Exocentric Video**|Taewoong Kang et.al.|[2512.08269](http://arxiv.org/abs/2512.08269)|null|
+|**2025-12-09**|**Embodied Tree of Thoughts: Deliberate Manipulation Planning with Embodied World Model**|Wenjiang Xu et.al.|[2512.08188](http://arxiv.org/abs/2512.08188)|null|
+|**2025-12-09**|**ViSA: 3D-Aware Video Shading for Real-Time Upper-Body Avatar Creation**|Fan Yang et.al.|[2512.07720](http://arxiv.org/abs/2512.07720)|null|
 |**2025-12-08**|**UnityVideo: Unified Multi-Modal Multi-Task Learning for Enhancing World-Aware Video Generation**|Jiehui Huang et.al.|[2512.07831](http://arxiv.org/abs/2512.07831)|null|
 |**2025-12-08**|**WorldReel: 4D Video Generation with Consistent Geometry and Motion Modeling**|Shaoheng Fang et.al.|[2512.07821](http://arxiv.org/abs/2512.07821)|null|
 |**2025-12-08**|**OneStory: Coherent Multi-Shot Video Generation with Adaptive Memory**|Zhaochong An et.al.|[2512.07802](http://arxiv.org/abs/2512.07802)|null|
-|**2025-12-08**|**ViSA: 3D-Aware Video Shading for Real-Time Upper-Body Avatar Creation**|Fan Yang et.al.|[2512.07720](http://arxiv.org/abs/2512.07720)|null|
 |**2025-12-08**|**Communication-Efficient Serving for Video Diffusion Models with Latent Parallelism**|Zhiyuan Wu et.al.|[2512.07350](http://arxiv.org/abs/2512.07350)|null|
 |**2025-12-08**|**ContextAnyone: Context-Aware Diffusion for Character-Consistent Text-to-Video Generation**|Ziyang Mai et.al.|[2512.07328](http://arxiv.org/abs/2512.07328)|null|
 |**2025-12-08**|**Unified Camera Positional Encoding for Controlled Video Generation**|Cheng Zhang et.al.|[2512.07237](http://arxiv.org/abs/2512.07237)|null|
