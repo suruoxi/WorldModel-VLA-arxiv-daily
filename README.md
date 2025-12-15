@@ -1,5 +1,5 @@
 # World Model and Embodied AI arxiv Papers
-### Updated on 2025.12.14
+### Updated on 2025.12.15
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#1-world-model>1-World Model</a></li>
@@ -16,6 +16,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-12**|**AnchorDream: Repurposing Video Diffusion for Embodiment-Aware Robot Data Synthesis**|Junjie Ye et.al.|[2512.11797](http://arxiv.org/abs/2512.11797)|null|
+|**2025-12-12**|**FutureX: Enhance End-to-End Autonomous Driving via Latent Chain-of-Thought World Model**|Hongbin Lin et.al.|[2512.11226](http://arxiv.org/abs/2512.11226)|null|
+|**2025-12-12**|**VFMF: World Modeling by Forecasting Vision Foundation Model Features**|Gabrijel Boduljak et.al.|[2512.11225](http://arxiv.org/abs/2512.11225)|null|
+|**2025-12-11**|**VDAWorld: World Modelling via VLM-Directed Abstraction and Simulation**|Felix O'Mahony et.al.|[2512.11061](http://arxiv.org/abs/2512.11061)|null|
 |**2025-12-11**|**WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World**|Ao Liang et.al.|[2512.10958](http://arxiv.org/abs/2512.10958)|null|
 |**2025-12-11**|**Generalized Spherical Neural Operators: Green's Function Formulation**|Hao Tang et.al.|[2512.10723](http://arxiv.org/abs/2512.10723)|null|
 |**2025-12-11**|**Evaluating Gemini Robotics Policies in a Veo World Simulator**|Gemini Robotics Team et.al.|[2512.10675](http://arxiv.org/abs/2512.10675)|null|
@@ -308,7 +312,7 @@
 |**2025-11-19**|**Zero-Shot Open-Vocabulary Human Motion Grounding with Test-Time Training**|Yunjiao Zhou et.al.|[2511.15379](http://arxiv.org/abs/2511.15379)|null|
 |**2025-11-19**|**Towards Evolutionary Optimization Using the Ising Model**|Simon Klüttermann et.al.|[2511.15377](http://arxiv.org/abs/2511.15377)|null|
 
-</details><p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
 
 <details>
 
@@ -318,6 +322,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-12**|**Embodied Image Compression**|Chunyi Li et.al.|[2512.11612](http://arxiv.org/abs/2512.11612)|null|
+|**2025-12-12**|**Extending a Parliamentary Corpus with MPs' Tweets: Automatic Annotation and Evaluation Using MultiParTweet**|Mevlüt Bagci et.al.|[2512.11567](http://arxiv.org/abs/2512.11567)|null|
+|**2025-12-12**|**VLM2GeoVec: Toward Universal Multimodal Embeddings for Remote Sensing**|Emanuel Sánchez Aimar et.al.|[2512.11490](http://arxiv.org/abs/2512.11490)|null|
+|**2025-12-12**|**Minimal Clips, Maximum Salience: Long Video Summarization via Key Moment Extraction**|Galann Pennec et.al.|[2512.11399](http://arxiv.org/abs/2512.11399)|null|
+|**2025-12-12**|**The N-Body Problem: Parallel Execution from Single-Person Egocentric Video**|Zhifan Zhu et.al.|[2512.11393](http://arxiv.org/abs/2512.11393)|null|
+|**2025-12-12**|**Surveillance Video-Based Traffic Accident Detection Using Transformer Architecture**|Tanu Singh et.al.|[2512.11350](http://arxiv.org/abs/2512.11350)|null|
+|**2025-12-12**|**Benchmarking the Generality of Vision-Language-Action Models**|Pranav Guruprasad et.al.|[2512.11315](http://arxiv.org/abs/2512.11315)|null|
+|**2025-12-12**|**Towards Logic-Aware Manipulation: A Knowledge Primitive for VLM-Based Assistants in Smart Manufacturing**|Suchang Chen et.al.|[2512.11275](http://arxiv.org/abs/2512.11275)|null|
+|**2025-12-12**|**RoomPilot: Controllable Synthesis of Interactive Indoor Environments via Multimodal Semantic Parsing**|Wentang Chen et.al.|[2512.11234](http://arxiv.org/abs/2512.11234)|null|
+|**2025-12-12**|**Seeing to Act, Prompting to Specify: A Bayesian Factorization of Vision Language Action Policy**|Kechun Xu et.al.|[2512.11218](http://arxiv.org/abs/2512.11218)|null|
+|**2025-12-11**|**Image Tiling for High-Resolution Reasoning: Balancing Local Detail with Global Context**|Anatole Jacquin de Margerie et.al.|[2512.11167](http://arxiv.org/abs/2512.11167)|null|
+|**2025-12-11**|**Limits and Gains of Test-Time Scaling in Vision-Language Reasoning**|Mohammadjavad Ahmadpour et.al.|[2512.11109](http://arxiv.org/abs/2512.11109)|null|
+|**2025-12-11**|**Vision-Language Models for Infrared Industrial Sensing in Additive Manufacturing Scene Description**|Nazanin Mahjourian et.al.|[2512.11098](http://arxiv.org/abs/2512.11098)|null|
+|**2025-12-11**|**VDAWorld: World Modelling via VLM-Directed Abstraction and Simulation**|Felix O'Mahony et.al.|[2512.11061](http://arxiv.org/abs/2512.11061)|null|
+|**2025-12-11**|**Synthetic Vasculature and Pathology Enhance Vision-Language Model Reasoning**|Chenjun Li et.al.|[2512.11060](http://arxiv.org/abs/2512.11060)|null|
 |**2025-12-11**|**WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World**|Ao Liang et.al.|[2512.10958](http://arxiv.org/abs/2512.10958)|null|
 |**2025-12-11**|**VL-JEPA: Joint Embedding Predictive Architecture for Vision-language**|Delong Chen et.al.|[2512.10942](http://arxiv.org/abs/2512.10942)|null|
 |**2025-12-11**|**BabyVLM-V2: Toward Developmentally Grounded Pretraining and Benchmarking of Vision Foundation Models**|Shengao Wang et.al.|[2512.10932](http://arxiv.org/abs/2512.10932)|null|
@@ -650,7 +669,7 @@
 |**2025-11-19**|**Context Cascade Compression: Exploring the Upper Limits of Text Compression**|Fanfan Liu et.al.|[2511.15244](http://arxiv.org/abs/2511.15244)|null|
 |**2025-11-19**|**SkinGPT-R1: Adapter-Only Dual Distillation for Efficient Dermatology Reasoning**|Yuhao Shen et.al.|[2511.15242](http://arxiv.org/abs/2511.15242)|null|
 
-</details><p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
 
 <details>
 
@@ -660,6 +679,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-12**|**V-RGBX: Video Editing with Accurate Controls over Intrinsic Properties**|Ye Fang et.al.|[2512.11799](http://arxiv.org/abs/2512.11799)|null|
+|**2025-12-12**|**Structure From Tracking: Distilling Structure-Preserving Motion for Video Generation**|Yang Fei et.al.|[2512.11792](http://arxiv.org/abs/2512.11792)|null|
+|**2025-12-12**|**Exploring MLLM-Diffusion Information Transfer with MetaCanvas**|Han Lin et.al.|[2512.11464](http://arxiv.org/abs/2512.11464)|null|
+|**2025-12-12**|**Flowception: Temporally Expansive Flow Matching for Video Generation**|Tariq Berrada Ifriqi et.al.|[2512.11438](http://arxiv.org/abs/2512.11438)|null|
+|**2025-12-12**|**JoyAvatar: Real-time and Infinite Audio-Driven Avatar Generation with Autoregressive Diffusion**|Chaochao Li et.al.|[2512.11423](http://arxiv.org/abs/2512.11423)|null|
+|**2025-12-12**|**Autoregressive Video Autoencoder with Decoupled Temporal and Spatial Context**|Cuifeng Shen et.al.|[2512.11293](http://arxiv.org/abs/2512.11293)|null|
+|**2025-12-12**|**FilmWeaver: Weaving Consistent Multi-Shot Videos with Cache-Guided Autoregressive Diffusion**|Xiangyang Luo et.al.|[2512.11274](http://arxiv.org/abs/2512.11274)|null|
+|**2025-12-12**|**PersonaLive! Expressive Portrait Image Animation for Live Streaming**|Zhiyuan Li et.al.|[2512.11253](http://arxiv.org/abs/2512.11253)|null|
+|**2025-12-12**|**VFMF: World Modeling by Forecasting Vision Foundation Model Features**|Gabrijel Boduljak et.al.|[2512.11225](http://arxiv.org/abs/2512.11225)|null|
 |**2025-12-11**|**AlcheMinT: Fine-grained Temporal Control for Multi-Reference Consistent Video Generation**|Sharath Girish et.al.|[2512.10943](http://arxiv.org/abs/2512.10943)|null|
 |**2025-12-11**|**OmniView: An All-Seeing Diffusion Model for 3D and 4D View Synthesis**|Xiang Fan et.al.|[2512.10940](http://arxiv.org/abs/2512.10940)|null|
 |**2025-12-11**|**Lang2Motion: Bridging Language and Motion through Joint Embedding Spaces**|Bishoy Galoaa et.al.|[2512.10617](http://arxiv.org/abs/2512.10617)|null|
@@ -946,7 +974,7 @@
 |**2025-11-18**|**FlowRoI A Fast Optical Flow Driven Region of Interest Extraction Framework for High-Throughput Image Compression in Immune Cell Migration Analysis**|Xiaowei Xu et.al.|[2511.14419](http://arxiv.org/abs/2511.14419)|null|
 |**2025-11-18**|**ARC-Chapter: Structuring Hour-Long Videos into Navigable Chapters and Hierarchical Summaries**|Junfu Pu et.al.|[2511.14349](http://arxiv.org/abs/2511.14349)|null|
 
-</details><p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
 
 Notes: 
 
