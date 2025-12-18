@@ -1,5 +1,5 @@
 # World Model and Embodied AI arxiv Papers
-### Updated on 2025.12.17
+### Updated on 2025.12.18
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#1-world-model>1-World Model</a></li>
@@ -16,7 +16,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-12-16**|**MMGR: Multi-Modal Generative Reasoning**|Zefan Cai et.al.|[2512.14691](http://arxiv.org/abs/2512.14691)|null|
+|**2025-12-17**|**End-to-End Training for Autoregressive Video Diffusion via Self-Resampling**|Yuwei Guo et.al.|[2512.15702](http://arxiv.org/abs/2512.15702)|null|
+|**2025-12-17**|**OccSTeP: Benchmarking 4D Occupancy Spatio-Temporal Persistence**|Yu Zheng et.al.|[2512.15621](http://arxiv.org/abs/2512.15621)|null|
+|**2025-12-17**|**Soft Geometric Inductive Bias for Object Centric Dynamics**|Hampus Linander et.al.|[2512.15493](http://arxiv.org/abs/2512.15493)|null|
+|**2025-12-17**|**MMGR: Multi-Modal Generative Reasoning**|Zefan Cai et.al.|[2512.14691](http://arxiv.org/abs/2512.14691)|null|
 |**2025-12-16**|**WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling**|Wenqiang Sun et.al.|[2512.14614](http://arxiv.org/abs/2512.14614)|null|
 |**2025-12-16**|**DRAW2ACT: Turning Depth-Encoded Trajectories into Robotic Demonstration Videos**|Yang Bai et.al.|[2512.14217](http://arxiv.org/abs/2512.14217)|null|
 |**2025-12-16**|**MobileWorldBench: Towards Semantic World Modeling For Mobile Agents**|Shufan Li et.al.|[2512.14014](http://arxiv.org/abs/2512.14014)|null|
@@ -325,7 +328,7 @@
 |**2025-11-19**|**Zero-Shot Open-Vocabulary Human Motion Grounding with Test-Time Training**|Yunjiao Zhou et.al.|[2511.15379](http://arxiv.org/abs/2511.15379)|null|
 |**2025-11-19**|**Towards Evolutionary Optimization Using the Ising Model**|Simon Klüttermann et.al.|[2511.15377](http://arxiv.org/abs/2511.15377)|null|
 
-</details><p align=right>(<a href=#updated-on-20251217>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251218>back to top</a>)</p>
 
 <details>
 
@@ -335,6 +338,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-17**|**DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models**|Lunbin Zeng et.al.|[2512.15713](http://arxiv.org/abs/2512.15713)|null|
+|**2025-12-17**|**VLIC: Vision-Language Models As Perceptual Judges for Human-Aligned Image Compression**|Kyle Sargent et.al.|[2512.15701](http://arxiv.org/abs/2512.15701)|null|
+|**2025-12-17**|**VTCBench: Can Vision-Language Models Understand Long Context with Vision-Text Compression?**|Hongbo Zhao et.al.|[2512.15649](http://arxiv.org/abs/2512.15649)|null|
+|**2025-12-17**|**Image Complexity-Aware Adaptive Retrieval for Efficient Vision-Language Models**|Mikel Williams-Lekuona et.al.|[2512.15372](http://arxiv.org/abs/2512.15372)|null|
+|**2025-12-17**|**SynthSeg-Agents: Multi-Agent Synthetic Data Generation for Zero-Shot Weakly Supervised Semantic Segmentation**|Wangyu Wu et.al.|[2512.15310](http://arxiv.org/abs/2512.15310)|null|
+|**2025-12-17**|**Assessing the Visual Enumeration Abilities of Specialized Counting Architectures and Vision-Language Models**|Kuinan Hou et.al.|[2512.15254](http://arxiv.org/abs/2512.15254)|null|
+|**2025-12-17**|**Intersectional Fairness in Vision-Language Models for Medical Image Disease Classification**|Yupeng Zhang et.al.|[2512.15249](http://arxiv.org/abs/2512.15249)|null|
+|**2025-12-17**|**EagleVision: A Dual-Stage Framework with BEV-grounding-based Chain-of-Thought for Spatial Intelligence**|Jiaxu Wan et.al.|[2512.15160](http://arxiv.org/abs/2512.15160)|null|
+|**2025-12-16**|**Puzzle Curriculum GRPO for Vision-Centric Reasoning**|Ahmadreza Jeddi et.al.|[2512.14944](http://arxiv.org/abs/2512.14944)|null|
+|**2025-12-16**|**Parameter Efficient Multimodal Instruction Tuning for Romanian Vision Language Models**|George-Andrei Dima et.al.|[2512.14926](http://arxiv.org/abs/2512.14926)|null|
+|**2025-12-16**|**Improving VQA Reliability: A Dual-Assessment Approach with Self-Reflection and Cross-Model Verification**|Xixian Wu et.al.|[2512.14770](http://arxiv.org/abs/2512.14770)|null|
 |**2025-12-16**|**Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models**|Chiyue Wei et.al.|[2512.14661](http://arxiv.org/abs/2512.14661)|null|
 |**2025-12-16**|**A4-Agent: An Agentic Framework for Zero-Shot Affordance Reasoning**|Zixin Zhang et.al.|[2512.14442](http://arxiv.org/abs/2512.14442)|null|
 |**2025-12-16**|**DISCODE: Distribution-Aware Score Decoder for Robust Automatic Evaluation of Image Captioning**|Nakamasa Inoue et.al.|[2512.14420](http://arxiv.org/abs/2512.14420)|null|
@@ -717,7 +731,7 @@
 |**2025-11-19**|**Context Cascade Compression: Exploring the Upper Limits of Text Compression**|Fanfan Liu et.al.|[2511.15244](http://arxiv.org/abs/2511.15244)|null|
 |**2025-11-19**|**SkinGPT-R1: Adapter-Only Dual Distillation for Efficient Dermatology Reasoning**|Yuhao Shen et.al.|[2511.15242](http://arxiv.org/abs/2511.15242)|null|
 
-</details><p align=right>(<a href=#updated-on-20251217>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251218>back to top</a>)</p>
 
 <details>
 
@@ -727,6 +741,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-17**|**Spatia: Video Generation with Updatable Spatial Memory**|Jinjing Zhao et.al.|[2512.15716](http://arxiv.org/abs/2512.15716)|null|
+|**2025-12-17**|**Skyra: AI-Generated Video Detection via Grounded Artifact Reasoning**|Yifei Li et.al.|[2512.15693](http://arxiv.org/abs/2512.15693)|null|
+|**2025-12-17**|**GRAN-TED: Generating Robust, Aligned, and Nuanced Text Embedding for Diffusion Models**|Bozhou Li et.al.|[2512.15560](http://arxiv.org/abs/2512.15560)|null|
+|**2025-12-17**|**DeX-Portrait: Disentangled and Expressive Portrait Animation via Explicit and Latent Motion Representations**|Yuxiang Shi et.al.|[2512.15524](http://arxiv.org/abs/2512.15524)|null|
+|**2025-12-17**|**3DProxyImg: Controllable 3D-Aware Animation Synthesis from Single Image via 2D-3D Aligned Proxy Embedding**|Yupeng Zhu et.al.|[2512.15126](http://arxiv.org/abs/2512.15126)|null|
+|**2025-12-16**|**TalkVerse: Democratizing Minute-Long Audio-Driven Video Generation**|Zhenzhi Wang et.al.|[2512.14938](http://arxiv.org/abs/2512.14938)|null|
 |**2025-12-16**|**MemFlow: Flowing Adaptive Memory for Consistent and Efficient Long Video Narratives**|Sihui Ji et.al.|[2512.14699](http://arxiv.org/abs/2512.14699)|null|
 |**2025-12-16**|**S2D: Sparse-To-Dense Keymask Distillation for Unsupervised Video Instance Segmentation**|Leon Sick et.al.|[2512.14440](http://arxiv.org/abs/2512.14440)|null|
 |**2025-12-16**|**SS4D: Native 4D Generative Model via Structured Spacetime Latents**|Zhibing Li et.al.|[2512.14284](http://arxiv.org/abs/2512.14284)|null|
@@ -1045,7 +1065,7 @@
 |**2025-11-18**|**FlowRoI A Fast Optical Flow Driven Region of Interest Extraction Framework for High-Throughput Image Compression in Immune Cell Migration Analysis**|Xiaowei Xu et.al.|[2511.14419](http://arxiv.org/abs/2511.14419)|null|
 |**2025-11-18**|**ARC-Chapter: Structuring Hour-Long Videos into Navigable Chapters and Hierarchical Summaries**|Junfu Pu et.al.|[2511.14349](http://arxiv.org/abs/2511.14349)|null|
 
-</details><p align=right>(<a href=#updated-on-20251217>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251218>back to top</a>)</p>
 
 Notes: 
 
