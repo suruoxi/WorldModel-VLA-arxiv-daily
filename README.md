@@ -1,5 +1,5 @@
 # World Model and Embodied AI arxiv Papers
-### Updated on 2025.12.18
+### Updated on 2025.12.19
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#1-world-model>1-World Model</a></li>
@@ -16,6 +16,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-18**|**The World is Your Canvas: Painting Promptable Events with Reference Images, Trajectories, and Text**|Hanlin Wang et.al.|[2512.16924](http://arxiv.org/abs/2512.16924)|null|
+|**2025-12-18**|**Kling-Omni Technical Report**|Kling Team et.al.|[2512.16776](http://arxiv.org/abs/2512.16776)|null|
+|**2025-12-18**|**SNOW: Spatio-Temporal Scene Understanding with World Knowledge for Open-World Embodied Reasoning**|Tin Stribor Sohn et.al.|[2512.16461](http://arxiv.org/abs/2512.16461)|null|
+|**2025-12-17**|**AIE4ML: An End-to-End Framework for Compiling Neural Networks for the Next Generation of AMD AI Engines**|Dimitrios Danopoulos et.al.|[2512.15946](http://arxiv.org/abs/2512.15946)|null|
+|**2025-12-17**|**R4: Retrieval-Augmented Reasoning for Vision-Language Models in 4D Spatio-Temporal Space**|Tin Stribor Sohn et.al.|[2512.15940](http://arxiv.org/abs/2512.15940)|null|
 |**2025-12-17**|**End-to-End Training for Autoregressive Video Diffusion via Self-Resampling**|Yuwei Guo et.al.|[2512.15702](http://arxiv.org/abs/2512.15702)|null|
 |**2025-12-17**|**OccSTeP: Benchmarking 4D Occupancy Spatio-Temporal Persistence**|Yu Zheng et.al.|[2512.15621](http://arxiv.org/abs/2512.15621)|null|
 |**2025-12-17**|**Soft Geometric Inductive Bias for Object Centric Dynamics**|Hampus Linander et.al.|[2512.15493](http://arxiv.org/abs/2512.15493)|null|
@@ -328,7 +333,7 @@
 |**2025-11-19**|**Zero-Shot Open-Vocabulary Human Motion Grounding with Test-Time Training**|Yunjiao Zhou et.al.|[2511.15379](http://arxiv.org/abs/2511.15379)|null|
 |**2025-11-19**|**Towards Evolutionary Optimization Using the Ising Model**|Simon Klüttermann et.al.|[2511.15377](http://arxiv.org/abs/2511.15377)|null|
 
-</details><p align=right>(<a href=#updated-on-20251218>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251219>back to top</a>)</p>
 
 <details>
 
@@ -338,6 +343,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-18**|**MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning**|Yuanchen Ju et.al.|[2512.16909](http://arxiv.org/abs/2512.16909)|null|
+|**2025-12-18**|**OPENTOUCH: Bringing Full-Hand Touch to Real-World Interaction**|Yuxin Ray Song et.al.|[2512.16842](http://arxiv.org/abs/2512.16842)|null|
+|**2025-12-18**|**PhysBrain: Human Egocentric Data as a Bridge from Vision Language Models to Physical Intelligence**|Xiaopeng Lin et.al.|[2512.16793](http://arxiv.org/abs/2512.16793)|null|
+|**2025-12-18**|**CitySeeker: How Do VLMS Explore Embodied Urban Navigation With Implicit Human Needs?**|Siqi Wang et.al.|[2512.16755](http://arxiv.org/abs/2512.16755)|null|
+|**2025-12-18**|**N3D-VLM: Native 3D Grounding Enables Accurate Spatial Reasoning in Vision-Language Models**|Yuxin Wang et.al.|[2512.16561](http://arxiv.org/abs/2512.16561)|null|
+|**2025-12-18**|**Scaling Laws for Energy Efficiency of Local LLMs**|Ander Alvarez et.al.|[2512.16531](http://arxiv.org/abs/2512.16531)|null|
+|**2025-12-18**|**TTP: Test-Time Padding for Adversarial Detection and Robust Adaptation on Vision-Language Models**|Zhiwei Li et.al.|[2512.16523](http://arxiv.org/abs/2512.16523)|null|
+|**2025-12-18**|**SNOW: Spatio-Temporal Scene Understanding with World Knowledge for Open-World Embodied Reasoning**|Tin Stribor Sohn et.al.|[2512.16461](http://arxiv.org/abs/2512.16461)|null|
+|**2025-12-18**|**E-SDS: Environment-aware See it, Do it, Sorted - Automated Environment-Aware Reinforcement Learning for Humanoid Locomotion**|Enis Yalcin et.al.|[2512.16446](http://arxiv.org/abs/2512.16446)|null|
+|**2025-12-18**|**Collaborative Edge-to-Server Inference for Vision-Language Models**|Soochang Song et.al.|[2512.16349](http://arxiv.org/abs/2512.16349)|null|
+|**2025-12-18**|**ManiLong-Shot: Interaction-Aware One-Shot Imitation Learning for Long-Horizon Manipulation**|Zixuan Chen et.al.|[2512.16302](http://arxiv.org/abs/2512.16302)|null|
+|**2025-12-18**|**Scaling Spatial Reasoning in MLLMs through Programmatic Data Synthesis**|Zhi Helu et.al.|[2512.16237](http://arxiv.org/abs/2512.16237)|null|
+|**2025-12-18**|**Visual Alignment of Medical Vision-Language Models for Grounded Radiology Report Generation**|Sarosij Bose et.al.|[2512.16201](http://arxiv.org/abs/2512.16201)|null|
+|**2025-12-18**|**C-DGPA: Class-Centric Dual-Alignment Generative Prompt Adaptation**|Chao Li et.al.|[2512.16164](http://arxiv.org/abs/2512.16164)|null|
+|**2025-12-18**|**MRG-R1: Reinforcement Learning for Clinically Aligned Medical Report Generation**|Pengyu Wang et.al.|[2512.16145](http://arxiv.org/abs/2512.16145)|null|
+|**2025-12-18**|**Auto-Vocabulary 3D Object Detection**|Haomeng Zhang et.al.|[2512.16077](http://arxiv.org/abs/2512.16077)|null|
+|**2025-12-17**|**Are vision-language models ready to zero-shot replace supervised classification models in agriculture?**|Earl Ranario et.al.|[2512.15977](http://arxiv.org/abs/2512.15977)|null|
+|**2025-12-17**|**From Words to Wavelengths: VLMs for Few-Shot Multispectral Object Detection**|Manuel Nkegoum et.al.|[2512.15971](http://arxiv.org/abs/2512.15971)|null|
+|**2025-12-17**|**Seeing is Believing (and Predicting): Context-Aware Multi-Human Behavior Prediction with Vision Language Models**|Utsav Panchal et.al.|[2512.15957](http://arxiv.org/abs/2512.15957)|null|
+|**2025-12-17**|**R4: Retrieval-Augmented Reasoning for Vision-Language Models in 4D Spatio-Temporal Space**|Tin Stribor Sohn et.al.|[2512.15940](http://arxiv.org/abs/2512.15940)|null|
 |**2025-12-17**|**DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models**|Lunbin Zeng et.al.|[2512.15713](http://arxiv.org/abs/2512.15713)|null|
 |**2025-12-17**|**VLIC: Vision-Language Models As Perceptual Judges for Human-Aligned Image Compression**|Kyle Sargent et.al.|[2512.15701](http://arxiv.org/abs/2512.15701)|null|
 |**2025-12-17**|**VTCBench: Can Vision-Language Models Understand Long Context with Vision-Text Compression?**|Hongbo Zhao et.al.|[2512.15649](http://arxiv.org/abs/2512.15649)|null|
@@ -731,7 +756,7 @@
 |**2025-11-19**|**Context Cascade Compression: Exploring the Upper Limits of Text Compression**|Fanfan Liu et.al.|[2511.15244](http://arxiv.org/abs/2511.15244)|null|
 |**2025-11-19**|**SkinGPT-R1: Adapter-Only Dual Distillation for Efficient Dermatology Reasoning**|Yuhao Shen et.al.|[2511.15242](http://arxiv.org/abs/2511.15242)|null|
 
-</details><p align=right>(<a href=#updated-on-20251218>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251219>back to top</a>)</p>
 
 <details>
 
@@ -741,6 +766,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-18**|**Kling-Omni Technical Report**|Kling Team et.al.|[2512.16776](http://arxiv.org/abs/2512.16776)|null|
+|**2025-12-18**|**Factorized Video Generation: Decoupling Scene Construction and Temporal Synthesis in Text-to-Video Diffusion Models**|Mariam Hassan et.al.|[2512.16371](http://arxiv.org/abs/2512.16371)|null|
+|**2025-12-18**|**TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times**|Jintao Zhang et.al.|[2512.16093](http://arxiv.org/abs/2512.16093)|null|
 |**2025-12-17**|**Spatia: Video Generation with Updatable Spatial Memory**|Jinjing Zhao et.al.|[2512.15716](http://arxiv.org/abs/2512.15716)|null|
 |**2025-12-17**|**Skyra: AI-Generated Video Detection via Grounded Artifact Reasoning**|Yifei Li et.al.|[2512.15693](http://arxiv.org/abs/2512.15693)|null|
 |**2025-12-17**|**GRAN-TED: Generating Robust, Aligned, and Nuanced Text Embedding for Diffusion Models**|Bozhou Li et.al.|[2512.15560](http://arxiv.org/abs/2512.15560)|null|
@@ -1065,7 +1093,7 @@
 |**2025-11-18**|**FlowRoI A Fast Optical Flow Driven Region of Interest Extraction Framework for High-Throughput Image Compression in Immune Cell Migration Analysis**|Xiaowei Xu et.al.|[2511.14419](http://arxiv.org/abs/2511.14419)|null|
 |**2025-11-18**|**ARC-Chapter: Structuring Hour-Long Videos into Navigable Chapters and Hierarchical Summaries**|Junfu Pu et.al.|[2511.14349](http://arxiv.org/abs/2511.14349)|null|
 
-</details><p align=right>(<a href=#updated-on-20251218>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20251219>back to top</a>)</p>
 
 Notes: 
 
