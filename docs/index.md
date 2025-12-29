@@ -3,7 +3,7 @@ layout: default
 ---
 
 # World Model and Embodied AI arxiv Papers
-### Updated on 2025.12.28
+### Updated on 2025.12.29
 <details>
 
 <summary> 1-World Model </summary>
@@ -12,6 +12,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-26**|**Aerial World Model for Long-horizon Visual Generation and Navigation in 3D Space**|Weichen Zhang et.al.|[2512.21887](http://arxiv.org/abs/2512.21887)|null|
+|**2025-12-25**|**AstraNav-World: World Model for Foresight Control and Consistency**|Junjun Hu et.al.|[2512.21714](http://arxiv.org/abs/2512.21714)|null|
+|**2025-12-25**|**A Unified Definition of Hallucination, Or: It's the World Model, Stupid**|Emmy Liu et.al.|[2512.21577](http://arxiv.org/abs/2512.21577)|null|
 |**2025-12-24**|**Schrödinger's Navigator: Imagining an Ensemble of Futures for Zero-Shot Object Navigation**|Yu He et.al.|[2512.21201](http://arxiv.org/abs/2512.21201)|null|
 |**2025-12-24**|**Active inference and artificial reasoning**|Karl Friston et.al.|[2512.21129](http://arxiv.org/abs/2512.21129)|null|
 |**2025-12-23**|**FEM-Bench: A Structured Scientific Reasoning Benchmark for Evaluating Code-Generating LLMs**|Saeed Mohammadzadeh et.al.|[2512.20732](http://arxiv.org/abs/2512.20732)|null|
@@ -359,6 +362,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-26**|**See Less, See Right: Bi-directional Perceptual Shaping For Multimodal Reasoning**|Shuoshuo Zhang et.al.|[2512.22120](http://arxiv.org/abs/2512.22120)|null|
+|**2025-12-26**|**Look Closer! An Adversarial Parametric Editing Framework for Hallucination Mitigation in VLMs**|Jiayu Hu et.al.|[2512.21999](http://arxiv.org/abs/2512.21999)|null|
+|**2025-12-26**|**LVLM-Aided Alignment of Task-Specific Vision Models**|Alexander Koebler et.al.|[2512.21985](http://arxiv.org/abs/2512.21985)|null|
+|**2025-12-26**|**Aerial World Model for Long-horizon Visual Generation and Navigation in 3D Space**|Weichen Zhang et.al.|[2512.21887](http://arxiv.org/abs/2512.21887)|null|
+|**2025-12-26**|**Bridging the Copyright Gap: Do Large Vision-Language Models Recognize and Respect Copyrighted Content?**|Naen Xu et.al.|[2512.21871](http://arxiv.org/abs/2512.21871)|null|
+|**2025-12-26**|**Frozen LVLMs for Micro-Video Recommendation: A Systematic Study of Feature Extraction and Fusion**|Huatuan Sun et.al.|[2512.21863](http://arxiv.org/abs/2512.21863)|null|
+|**2025-12-26**|**Training-free Conditional Image Embedding Framework Leveraging Large Vision Language Models**|Masayuki Kawarada et.al.|[2512.21860](http://arxiv.org/abs/2512.21860)|null|
+|**2025-12-26**|**Few Tokens Matter: Entropy Guided Attacks on Vision-Language Models**|Mengqi He et.al.|[2512.21815](http://arxiv.org/abs/2512.21815)|null|
+|**2025-12-25**|**Scene-VLM: Multimodal Video Scene Segmentation via Vision-Language Models**|Nimrod Berman et.al.|[2512.21778](http://arxiv.org/abs/2512.21778)|null|
+|**2025-12-25**|**HELP: Hierarchical Embodied Language Planner for Household Tasks**|Alexandr V. Korchemnyi et.al.|[2512.21723](http://arxiv.org/abs/2512.21723)|null|
+|**2025-12-25**|**MAction-SocialNav: Multi-Action Socially Compliant Navigation via Reasoning-enhanced Prompt Tuning**|Zishuo Wang et.al.|[2512.21722](http://arxiv.org/abs/2512.21722)|null|
+|**2025-12-25**|**AstraNav-World: World Model for Foresight Control and Consistency**|Junjun Hu et.al.|[2512.21714](http://arxiv.org/abs/2512.21714)|null|
+|**2025-12-25**|**RAPTOR: Real-Time High-Resolution UAV Video Prediction with Efficient Video Attention**|Zhan Chen et.al.|[2512.21710](http://arxiv.org/abs/2512.21710)|null|
+|**2025-12-25**|**Towards Responsible and Explainable AI Agents with Consensus-Driven Reasoning**|Eranga Bandara et.al.|[2512.21699](http://arxiv.org/abs/2512.21699)|null|
+|**2025-12-25**|**SlideChain: Semantic Provenance for Lecture Understanding via Blockchain Registration**|Md Motaleb Hossen Manik et.al.|[2512.21684](http://arxiv.org/abs/2512.21684)|null|
+|**2025-12-25**|**The Deepfake Detective: Interpreting Neural Forensics Through Sparse Features and Manifolds**|Subramanyam Sahoo et.al.|[2512.21670](http://arxiv.org/abs/2512.21670)|null|
+|**2025-12-25**|**Training-Free Disentangled Text-Guided Image Editing via Sparse Latent Constraints**|Mutiara Shabrina et.al.|[2512.21637](http://arxiv.org/abs/2512.21637)|null|
+|**2025-12-25**|**AstraNav-Memory: Contexts Compression for Long Memory**|Botao Ren et.al.|[2512.21627](http://arxiv.org/abs/2512.21627)|null|
+|**2025-12-25**|**A Medical Multimodal Diagnostic Framework Integrating Vision-Language Models and Logic Tree Reasoning**|Zelin Zang et.al.|[2512.21583](http://arxiv.org/abs/2512.21583)|null|
+|**2025-12-25**|**Towards Long-window Anchoring in Vision-Language Model Distillation**|Haoyi Zhou et.al.|[2512.21576](http://arxiv.org/abs/2512.21576)|null|
 |**2025-12-24**|**Beyond Memorization: A Multi-Modal Ordinal Regression Benchmark to Expose Popularity Bias in Vision-Language Models**|Li-Zhong Szu-Tu et.al.|[2512.21337](http://arxiv.org/abs/2512.21337)|null|
 |**2025-12-24**|**Your Reasoning Benchmark May Not Test Reasoning: Revealing Perception Bottleneck in Abstract Reasoning Benchmarks**|Xinhe Wang et.al.|[2512.21329](http://arxiv.org/abs/2512.21329)|null|
 |**2025-12-24**|**LookPlanGraph: Embodied Instruction Following Method with VLM Graph Augmentation**|Anatoly O. Onishchenko et.al.|[2512.21243](http://arxiv.org/abs/2512.21243)|null|
@@ -851,11 +874,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-24**|**HiStream: Efficient High-Resolution Video Generation via Redundancy-Eliminated Streaming**|Haonan Qiu et.al.|[2512.21338](http://arxiv.org/abs/2512.21338)|null|
+|**2025-12-26**|**Yume-1.5: A Text-Controlled Interactive World Generation Model**|Xiaofeng Mao et.al.|[2512.22096](http://arxiv.org/abs/2512.22096)|null|
+|**2025-12-26**|**High-Fidelity and Long-Duration Human Image Animation with Diffusion Transformer**|Shen Zheng et.al.|[2512.21905](http://arxiv.org/abs/2512.21905)|null|
+|**2025-12-25**|**Inference-based GAN Video Generation**|Jingbo Yang et.al.|[2512.21776](http://arxiv.org/abs/2512.21776)|null|
+|**2025-12-25**|**Knot Forcing: Taming Autoregressive Video Diffusion Models for Real-time Infinite Interactive Portrait Animation**|Steven Xiao et.al.|[2512.21734](http://arxiv.org/abs/2512.21734)|null|
+|**2025-12-25**|**AstraNav-World: World Model for Foresight Control and Consistency**|Junjun Hu et.al.|[2512.21714](http://arxiv.org/abs/2512.21714)|null|
+|**2025-12-25**|**SVBench: Evaluation of Video Generation Models on Social Reasoning**|Wenshuo Peng et.al.|[2512.21507](http://arxiv.org/abs/2512.21507)|null|
+|**2025-12-25**|**HiStream: Efficient High-Resolution Video Generation via Redundancy-Eliminated Streaming**|Haonan Qiu et.al.|[2512.21338](http://arxiv.org/abs/2512.21338)|null|
+|**2025-12-25**|**DreaMontage: Arbitrary Frame-Guided One-Shot Video Generation**|Jiawei Liu et.al.|[2512.21252](http://arxiv.org/abs/2512.21252)|null|
+|**2025-12-25**|**SemanticGen: Video Generation in Semantic Space**|Jianhong Bai et.al.|[2512.20619](http://arxiv.org/abs/2512.20619)|null|
 |**2025-12-24**|**ACD: Direct Conditional Control for Video Diffusion Models via Attention Supervision**|Weiqi Li et.al.|[2512.21268](http://arxiv.org/abs/2512.21268)|null|
-|**2025-12-24**|**DreaMontage: Arbitrary Frame-Guided One-Shot Video Generation**|Jiawei Liu et.al.|[2512.21252](http://arxiv.org/abs/2512.21252)|null|
 |**2025-12-24**|**T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation**|Zhe Cao et.al.|[2512.21094](http://arxiv.org/abs/2512.21094)|null|
-|**2025-12-24**|**SemanticGen: Video Generation in Semantic Space**|Jianhong Bai et.al.|[2512.20619](http://arxiv.org/abs/2512.20619)|null|
 |**2025-12-23**|**The devil is in the details: Enhancing Video Virtual Try-On via Keyframe-Driven Details Injection**|Qingdong He et.al.|[2512.20340](http://arxiv.org/abs/2512.20340)|null|
 |**2025-12-23**|**Learning Skills from Action-Free Videos**|Hung-Chieh Fang et.al.|[2512.20052](http://arxiv.org/abs/2512.20052)|null|
 |**2025-12-23**|**Few-Shot-Based Modular Image-to-Video Adapter for Diffusion Models**|Zhenhao Li et.al.|[2512.20000](http://arxiv.org/abs/2512.20000)|null|
