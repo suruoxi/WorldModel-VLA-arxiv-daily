@@ -3,7 +3,7 @@ layout: default
 ---
 
 # World Model and Embodied AI arxiv Papers
-### Updated on 2025.12.30
+### Updated on 2025.12.31
 <details>
 
 <summary> 1-World Model </summary>
