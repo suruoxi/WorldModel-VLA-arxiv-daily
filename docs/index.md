@@ -3,7 +3,7 @@ layout: default
 ---
 
 # World Model and Embodied AI arxiv Papers
-### Updated on 2025.12.31
+### Updated on 2026.01.01
 <details>
 
 <summary> 1-World Model </summary>
@@ -12,11 +12,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-31**|**LSRE: Latent Semantic Rule Encoding for Real-Time Semantic Risk Detection in Autonomous Driving**|Qian Cheng et.al.|[2512.24712](http://arxiv.org/abs/2512.24712)|null|
+|**2025-12-31**|**DriveLaW:Unifying Planning and Video Generation in a Latent Driving World**|Tianze Xia et.al.|[2512.23421](http://arxiv.org/abs/2512.23421)|null|
+|**2025-12-30**|**What Drives Success in Physical Planning with Joint-Embedding Predictive World Models?**|Basile Terver et.al.|[2512.24497](http://arxiv.org/abs/2512.24497)|null|
+|**2025-12-30**|**World model inspired sarcasm reasoning with large language model agents**|Keito Inoshita et.al.|[2512.24329](http://arxiv.org/abs/2512.24329)|null|
+|**2025-12-30**|**Large Emotional World Model**|Changhao Song et.al.|[2512.24149](http://arxiv.org/abs/2512.24149)|null|
+|**2025-12-30**|**PhyAVBench: A Challenging Audio Physics-Sensitivity Benchmark for Physically Grounded Text-to-Audio-Video Generation**|Tianxin Xie et.al.|[2512.23994](http://arxiv.org/abs/2512.23994)|null|
+|**2025-12-30**|**SurgWorld: Learning Surgical Robot Policies from Videos via World Modeling**|Yufan He et.al.|[2512.23162](http://arxiv.org/abs/2512.23162)|null|
+|**2025-12-29**|**Learning to Feel the Future: DreamTacVLA for Contact-Rich Manipulation**|Guo Ye et.al.|[2512.23864](http://arxiv.org/abs/2512.23864)|null|
 |**2025-12-29**|**Web World Models**|Jichen Feng et.al.|[2512.23676](http://arxiv.org/abs/2512.23676)|null|
 |**2025-12-29**|**Act2Goal: From World Model To General Goal-conditioned Policy**|Pengfei Zhou et.al.|[2512.23541](http://arxiv.org/abs/2512.23541)|null|
-|**2025-12-29**|**DriveLaW:Unifying Planning and Video Generation in a Latent Driving World**|Tianze Xia et.al.|[2512.23421](http://arxiv.org/abs/2512.23421)|null|
 |**2025-12-29**|**GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation**|Tianchen Deng et.al.|[2512.23180](http://arxiv.org/abs/2512.23180)|null|
-|**2025-12-29**|**SurgWorld: Learning Surgical Robot Policies from Videos via World Modeling**|Yufan He et.al.|[2512.23162](http://arxiv.org/abs/2512.23162)|null|
 |**2025-12-28**|**YOLO-IOD: Towards Real Time Incremental Object Detection**|Shizhou Zhang et.al.|[2512.22973](http://arxiv.org/abs/2512.22973)|null|
 |**2025-12-27**|**InDRiVE: Reward-Free World-Model Pretraining for Autonomous Driving via Latent Disagreement**|Feeza Khan Khanzada et.al.|[2512.18850](http://arxiv.org/abs/2512.18850)|null|
 |**2025-12-26**|**Agent2World: Learning to Generate Symbolic World Models via Adaptive Multi-Agent Feedback**|Mengkang Hu et.al.|[2512.22336](http://arxiv.org/abs/2512.22336)|null|
@@ -369,6 +375,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-31**|**DarkEQA: Benchmarking Vision-Language Models for Embodied Question Answering in Low-Light Indoor Environments**|Yohan Park et.al.|[2512.24985](http://arxiv.org/abs/2512.24985)|null|
+|**2025-12-31**|**CPJ: Explainable Agricultural Pest Diagnosis via Caption-Prompt-Judge with LLM-Judged Refinement**|Wentao Zhang et.al.|[2512.24947](http://arxiv.org/abs/2512.24947)|null|
+|**2025-12-31**|**VLN-MME: Diagnosing MLLMs as Language-guided Visual Navigation agents**|Xunyi Zhao et.al.|[2512.24851](http://arxiv.org/abs/2512.24851)|null|
+|**2025-12-31**|**Video and Language Alignment in 2D Systems for 3D Multi-object Scenes with Multi-Information Derivative-Free Control**|Jason Armitage et.al.|[2512.24826](http://arxiv.org/abs/2512.24826)|null|
+|**2025-12-31**|**LSRE: Latent Semantic Rule Encoding for Real-Time Semantic Risk Detection in Autonomous Driving**|Qian Cheng et.al.|[2512.24712](http://arxiv.org/abs/2512.24712)|null|
+|**2025-12-31**|**Improving Few-Shot Change Detection Visual Question Answering via Decision-Ambiguity-guided Reinforcement Fine-Tuning**|Fuyu Dong et.al.|[2512.24591](http://arxiv.org/abs/2512.24591)|null|
+|**2025-12-31**|**PhyGDPO: Physics-Aware Groupwise Direct Preference Optimization for Physically Consistent Text-to-Video Generation**|Yuanhao Cai et.al.|[2512.24551](http://arxiv.org/abs/2512.24551)|null|
+|**2025-12-30**|**Foundation models on the bridge: Semantic hazard detection and safety maneuvers for maritime autonomy with vision-language models**|Kim Alexander Christensen et.al.|[2512.24470](http://arxiv.org/abs/2512.24470)|null|
+|**2025-12-30**|**Align While Search: Belief-Guided Exploratory Inference for World-Grounded Embodied Agents**|Seohui Bae et.al.|[2512.24461](http://arxiv.org/abs/2512.24461)|null|
+|**2025-12-30**|**DermaVQA-DAS: Dermatology Assessment Schema (DAS) & Datasets for Closed-Ended Question Answering & Segmentation in Patient-Generated Dermatology Images**|Wen-wai Yim et.al.|[2512.24340](http://arxiv.org/abs/2512.24340)|null|
+|**2025-12-30**|**Spatial-aware Vision Language Model for Autonomous Driving**|Weijie Wei et.al.|[2512.24331](http://arxiv.org/abs/2512.24331)|null|
+|**2025-12-30**|**SenseNova-MARS: Empowering Multimodal Agentic Reasoning and Search via Reinforcement Learning**|Yong Xien Chng et.al.|[2512.24330](http://arxiv.org/abs/2512.24330)|null|
+|**2025-12-30**|**RANGER: A Monocular Zero-Shot Semantic Navigation Framework through Contextual Adaptation**|Ming-Ming Yu et.al.|[2512.24212](http://arxiv.org/abs/2512.24212)|null|
+|**2025-12-30**|**Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training**|Yi Liu et.al.|[2512.24125](http://arxiv.org/abs/2512.24125)|null|
+|**2025-12-30**|**GeoBench: Rethinking Multimodal Geometric Problem-Solving via Hierarchical Evaluation**|Yuan Feng et.al.|[2512.24119](http://arxiv.org/abs/2512.24119)|null|
+|**2025-12-30**|**FUSE-RSVLM: Feature Fusion Vision-Language Model for Remote Sensing**|Yunkai Dang et.al.|[2512.24022](http://arxiv.org/abs/2512.24022)|null|
 |**2025-12-29**|**Same or Not? Enhancing Visual Perception in Vision-Language Models**|Damiano Marsili et.al.|[2512.23592](http://arxiv.org/abs/2512.23592)|null|
 |**2025-12-29**|**Instruction-Following Evaluation of Large Vision-Language Models**|Daiki Shiono et.al.|[2512.23572](http://arxiv.org/abs/2512.23572)|null|
 |**2025-12-29**|**VL-RouterBench: A Benchmark for Vision-Language Model Routing**|Zhehao Huang et.al.|[2512.23562](http://arxiv.org/abs/2512.23562)|null|
@@ -901,8 +923,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-31**|**VIPER: Process-aware Evaluation for Generative Video Reasoning**|Yifan Li et.al.|[2512.24952](http://arxiv.org/abs/2512.24952)|null|
+|**2025-12-31**|**Dream2Flow: Bridging Video Generation and Open-World Manipulation with 3D Object Flow**|Karthik Dharmarajan et.al.|[2512.24766](http://arxiv.org/abs/2512.24766)|null|
+|**2025-12-31**|**FlowBlending: Stage-Aware Multi-Model Sampling for Fast and High-Fidelity Video Generation**|Jibin Song et.al.|[2512.24724](http://arxiv.org/abs/2512.24724)|null|
+|**2025-12-31**|**PhyGDPO: Physics-Aware Groupwise Direct Preference Optimization for Physically Consistent Text-to-Video Generation**|Yuanhao Cai et.al.|[2512.24551](http://arxiv.org/abs/2512.24551)|null|
+|**2025-12-31**|**DriveLaW:Unifying Planning and Video Generation in a Latent Driving World**|Tianze Xia et.al.|[2512.23421](http://arxiv.org/abs/2512.23421)|null|
+|**2025-12-31**|**Inference-based GAN Video Generation**|Jingbo Yang et.al.|[2512.21776](http://arxiv.org/abs/2512.21776)|null|
+|**2025-12-30**|**Taming Hallucinations: Boosting MLLMs' Video Understanding via Counterfactual Video Generation**|Zhe Huang et.al.|[2512.24271](http://arxiv.org/abs/2512.24271)|null|
+|**2025-12-30**|**RainFusion2.0: Temporal-Spatial Awareness and Hardware-Efficient Block-wise Sparse Attention**|Aiyue Chen et.al.|[2512.24086](http://arxiv.org/abs/2512.24086)|null|
+|**2025-12-30**|**PhyAVBench: A Challenging Audio Physics-Sensitivity Benchmark for Physically Grounded Text-to-Audio-Video Generation**|Tianxin Xie et.al.|[2512.23994](http://arxiv.org/abs/2512.23994)|null|
 |**2025-12-29**|**LiveTalk: Real-Time Multimodal Interactive Video Diffusion via Improved On-Policy Distillation**|Ethan Chern et.al.|[2512.23576](http://arxiv.org/abs/2512.23576)|null|
-|**2025-12-29**|**DriveLaW:Unifying Planning and Video Generation in a Latent Driving World**|Tianze Xia et.al.|[2512.23421](http://arxiv.org/abs/2512.23421)|null|
 |**2025-12-29**|**Plug-and-Play Fidelity Optimization for Diffusion Transformer Acceleration via Cumulative Error Minimization**|Tong Shao et.al.|[2512.23258](http://arxiv.org/abs/2512.23258)|null|
 |**2025-12-29**|**Bridging Your Imagination with Audio-Video Generation via a Unified Director**|Jiaxu Zhang et.al.|[2512.23222](http://arxiv.org/abs/2512.23222)|null|
 |**2025-12-29**|**Knot Forcing: Taming Autoregressive Video Diffusion Models for Real-time Infinite Interactive Portrait Animation**|Steven Xiao et.al.|[2512.21734](http://arxiv.org/abs/2512.21734)|null|
@@ -915,7 +945,6 @@ layout: default
 |**2025-12-26**|**Yume-1.5: A Text-Controlled Interactive World Generation Model**|Xiaofeng Mao et.al.|[2512.22096](http://arxiv.org/abs/2512.22096)|null|
 |**2025-12-26**|**High-Fidelity and Long-Duration Human Image Animation with Diffusion Transformer**|Shen Zheng et.al.|[2512.21905](http://arxiv.org/abs/2512.21905)|null|
 |**2025-12-25**|**GeCo: A Differentiable Geometric Consistency Metric for Video Generation**|Leslie Gu et.al.|[2512.22274](http://arxiv.org/abs/2512.22274)|null|
-|**2025-12-25**|**Inference-based GAN Video Generation**|Jingbo Yang et.al.|[2512.21776](http://arxiv.org/abs/2512.21776)|null|
 |**2025-12-25**|**AstraNav-World: World Model for Foresight Control and Consistency**|Junjun Hu et.al.|[2512.21714](http://arxiv.org/abs/2512.21714)|null|
 |**2025-12-25**|**SVBench: Evaluation of Video Generation Models on Social Reasoning**|Wenshuo Peng et.al.|[2512.21507](http://arxiv.org/abs/2512.21507)|null|
 |**2025-12-25**|**HiStream: Efficient High-Resolution Video Generation via Redundancy-Eliminated Streaming**|Haonan Qiu et.al.|[2512.21338](http://arxiv.org/abs/2512.21338)|null|
