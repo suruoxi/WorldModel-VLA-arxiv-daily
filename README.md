@@ -1,5 +1,5 @@
 # World Model and Embodied AI arxiv Papers
-### Updated on 2026.01.07
+### Updated on 2026.01.08
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#1-world-model>1-World Model</a></li>
@@ -16,6 +16,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-07**|**Wow, wo, val! A Comprehensive Embodied World Model Evaluation Turing Test**|Chun-Kai Fan et.al.|[2601.04137](http://arxiv.org/abs/2601.04137)|null|
+|**2026-01-07**|**MobileDreamer: Generative Sketch World Model for GUI Agent**|Yilin Cao et.al.|[2601.04035](http://arxiv.org/abs/2601.04035)|null|
+|**2026-01-07**|**Current Agents Fail to Leverage World Model as Tool for Foresight**|Cheng Qian et.al.|[2601.03905](http://arxiv.org/abs/2601.03905)|null|
+|**2026-01-07**|**PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation**|Wenlong Huang et.al.|[2601.03782](http://arxiv.org/abs/2601.03782)|null|
+|**2026-01-07**|**From Chains to Graphs: Self-Structured Reasoning for General-Domain LLMs**|Yingjian Chen et.al.|[2601.03597](http://arxiv.org/abs/2601.03597)|null|
+|**2026-01-07**|**Can LLMs See Without Pixels? Benchmarking Spatial Intelligence from Textual Descriptions**|Zhongbin Guo et.al.|[2601.03590](http://arxiv.org/abs/2601.03590)|null|
+|**2026-01-07**|**Semantic Belief-State World Model for 3D Human Motion Prediction**|Sarim Chaudhry et.al.|[2601.03517](http://arxiv.org/abs/2601.03517)|null|
 |**2026-01-06**|**Time-Scaling Is What Agents Need Now**|Zhi Liu et.al.|[2601.02714](http://arxiv.org/abs/2601.02714)|null|
 |**2026-01-05**|**InternVLA-A1: Unifying Understanding, Generation and Action for Robotic Manipulation**|Junhao Cai et.al.|[2601.02456](http://arxiv.org/abs/2601.02456)|null|
 |**2026-01-05**|**AI Agent Systems: Architectures, Applications, and Evaluation**|Bin Xu et.al.|[2601.01743](http://arxiv.org/abs/2601.01743)|null|
@@ -384,7 +391,7 @@
 |**2025-11-19**|**Zero-Shot Open-Vocabulary Human Motion Grounding with Test-Time Training**|Yunjiao Zhou et.al.|[2511.15379](http://arxiv.org/abs/2511.15379)|null|
 |**2025-11-19**|**Towards Evolutionary Optimization Using the Ising Model**|Simon Klüttermann et.al.|[2511.15377](http://arxiv.org/abs/2511.15377)|null|
 
-</details><p align=right>(<a href=#updated-on-20260107>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260108>back to top</a>)</p>
 
 <details>
 
@@ -394,6 +401,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-07**|**Scanner-Induced Domain Shifts Undermine the Robustness of Pathology Foundation Models**|Erik Thiringer et.al.|[2601.04163](http://arxiv.org/abs/2601.04163)|null|
+|**2026-01-07**|**Diffusion-DRF: Differentiable Reward Flow for Video Diffusion Fine-Tuning**|Yifan Wang et.al.|[2601.04153](http://arxiv.org/abs/2601.04153)|null|
+|**2026-01-07**|**Wow, wo, val! A Comprehensive Embodied World Model Evaluation Turing Test**|Chun-Kai Fan et.al.|[2601.04137](http://arxiv.org/abs/2601.04137)|null|
+|**2026-01-07**|**GeoReason: Aligning Thinking And Answering In Remote Sensing Vision-Language Models Via Logical Consistency Reinforcement Learning**|Wenshuai Li et.al.|[2601.04118](http://arxiv.org/abs/2601.04118)|null|
+|**2026-01-07**|**CoINS: Counterfactual Interactive Navigation via Skill-Aware VLM**|Kangjie Zhou et.al.|[2601.03956](http://arxiv.org/abs/2601.03956)|null|
+|**2026-01-07**|**FocusUI: Efficient UI Grounding via Position-Preserving Visual Token Selection**|Mingyu Ouyang et.al.|[2601.03928](http://arxiv.org/abs/2601.03928)|null|
+|**2026-01-07**|**Doc-PP: Document Policy Preservation Benchmark for Large Vision-Language Models**|Haeun Jang et.al.|[2601.03926](http://arxiv.org/abs/2601.03926)|null|
+|**2026-01-07**|**HemBLIP: A Vision-Language Model for Interpretable Leukemia Cell Morphology Analysis**|Julie van Logtestijn et.al.|[2601.03915](http://arxiv.org/abs/2601.03915)|null|
+|**2026-01-07**|**Current Agents Fail to Leverage World Model as Tool for Foresight**|Cheng Qian et.al.|[2601.03905](http://arxiv.org/abs/2601.03905)|null|
+|**2026-01-07**|**RadDiff: Describing Differences in Radiology Image Sets with Natural Language**|Xiaoxian Shen et.al.|[2601.03733](http://arxiv.org/abs/2601.03733)|null|
+|**2026-01-07**|**BREATH-VL: Vision-Language-Guided 6-DoF Bronchoscopy Localization via Semantic-Geometric Fusion**|Qingyao Tian et.al.|[2601.03713](http://arxiv.org/abs/2601.03713)|null|
+|**2026-01-07**|**e5-omni: Explicit Cross-modal Alignment for Omni-modal Embeddings**|Haonan Chen et.al.|[2601.03666](http://arxiv.org/abs/2601.03666)|null|
+|**2026-01-07**|**Jailbreaking LLMs & VLMs: Mechanisms, Evaluation, and Unified Defense**|Zejian Chen et.al.|[2601.03594](http://arxiv.org/abs/2601.03594)|null|
+|**2026-01-07**|**Can LLMs See Without Pixels? Benchmarking Spatial Intelligence from Textual Descriptions**|Zhongbin Guo et.al.|[2601.03590](http://arxiv.org/abs/2601.03590)|null|
+|**2026-01-07**|**Persona-aware and Explainable Bikeability Assessment: A Vision-Language Model Approach**|Yilong Dai et.al.|[2601.03534](http://arxiv.org/abs/2601.03534)|null|
+|**2026-01-07**|**SDCD: Structure-Disrupted Contrastive Decoding for Mitigating Hallucinations in Large Vision-Language Models**|Yuxuan Xia et.al.|[2601.03500](http://arxiv.org/abs/2601.03500)|null|
+|**2026-01-06**|**Toward Maturity-Based Certification of Embodied AI: Quantifying Trustworthiness Through Measurement Mechanisms**|Michael C. Darling et.al.|[2601.03470](http://arxiv.org/abs/2601.03470)|null|
+|**2026-01-06**|**FROST-Drive: Scalable and Efficient End-to-End Driving with a Frozen Vision Encoder**|Zeyu Dong et.al.|[2601.03460](http://arxiv.org/abs/2601.03460)|null|
+|**2026-01-06**|**FIRE-VLM: A Vision-Language-Driven Reinforcement Learning Framework for UAV Wildfire Tracking in a Physics-Grounded Fire Digital Twin**|Chris Webb et.al.|[2601.03449](http://arxiv.org/abs/2601.03449)|null|
+|**2026-01-06**|**Eye-Q: A Multilingual Benchmark for Visual Word Puzzle Solving and Image-to-Phrase Reasoning**|Ali Najar et.al.|[2601.03400](http://arxiv.org/abs/2601.03400)|null|
 |**2026-01-06**|**Limited Linguistic Diversity in Embodied AI Datasets**|Selma Wanna et.al.|[2601.03136](http://arxiv.org/abs/2601.03136)|null|
 |**2026-01-06**|**ReCCur: A Recursive Corner-Case Curation Framework for Robust Vision-Language Understanding in Open and Edge Scenarios**|Yihan Wei et.al.|[2601.03011](http://arxiv.org/abs/2601.03011)|null|
 |**2026-01-06**|**Zoom-IQA: Image Quality Assessment with Reliable Region-Aware Reasoning**|Guoqiang Liang et.al.|[2601.02918](http://arxiv.org/abs/2601.02918)|null|
@@ -973,7 +1000,7 @@
 |**2025-11-19**|**Context Cascade Compression: Exploring the Upper Limits of Text Compression**|Fanfan Liu et.al.|[2511.15244](http://arxiv.org/abs/2511.15244)|null|
 |**2025-11-19**|**SkinGPT-R1: Adapter-Only Dual Distillation for Efficient Dermatology Reasoning**|Yuhao Shen et.al.|[2511.15242](http://arxiv.org/abs/2511.15242)|null|
 
-</details><p align=right>(<a href=#updated-on-20260107>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260108>back to top</a>)</p>
 
 <details>
 
@@ -983,6 +1010,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-07**|**Choreographing a World of Dynamic Objects**|Yanzhe Lyu et.al.|[2601.04194](http://arxiv.org/abs/2601.04194)|null|
+|**2026-01-07**|**Klear: Unified Multi-Task Audio-Video Joint Generation**|Jun Wang et.al.|[2601.04151](http://arxiv.org/abs/2601.04151)|null|
+|**2026-01-07**|**Mind the Generative Details: Direct Localized Detail Preference Optimization for Video Diffusion Models**|Zitong Huang et.al.|[2601.04068](http://arxiv.org/abs/2601.04068)|null|
+|**2026-01-07**|**PhysVideoGenerator: Towards Physically Aware Video Generation via Latent Physics Guidance**|Siddarth Nilol Kundur Satish et.al.|[2601.03665](http://arxiv.org/abs/2601.03665)|null|
+|**2026-01-07**|**VideoMemory: Toward Consistent Video Generation via Memory Integration**|Jinsong Zhou et.al.|[2601.03655](http://arxiv.org/abs/2601.03655)|null|
 |**2026-01-06**|**LTX-2: Efficient Joint Audio-Visual Foundation Model**|Yoav HaCohen et.al.|[2601.03233](http://arxiv.org/abs/2601.03233)|null|
 |**2026-01-06**|**DiffBench Meets DiffAgent: End-to-End LLM-Driven Diffusion Acceleration Code Generation**|Jiajun jiao et.al.|[2601.03178](http://arxiv.org/abs/2601.03178)|null|
 |**2026-01-06**|**DreamStyle: A Unified Framework for Video Stylization**|Mengtian Li et.al.|[2601.02785](http://arxiv.org/abs/2601.02785)|null|
@@ -1377,7 +1409,7 @@
 |**2025-11-18**|**FlowRoI A Fast Optical Flow Driven Region of Interest Extraction Framework for High-Throughput Image Compression in Immune Cell Migration Analysis**|Xiaowei Xu et.al.|[2511.14419](http://arxiv.org/abs/2511.14419)|null|
 |**2025-11-18**|**ARC-Chapter: Structuring Hour-Long Videos into Navigable Chapters and Hierarchical Summaries**|Junfu Pu et.al.|[2511.14349](http://arxiv.org/abs/2511.14349)|null|
 
-</details><p align=right>(<a href=#updated-on-20260107>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260108>back to top</a>)</p>
 
 Notes: 
 
