@@ -1,5 +1,5 @@
 # World Model and Embodied AI arxiv Papers
-### Updated on 2026.01.11
+### Updated on 2026.01.12
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#1-world-model>1-World Model</a></li>
@@ -16,6 +16,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-09**|**Can We Predict Before Executing Machine Learning Agents?**|Jingsheng Zheng et.al.|[2601.05930](http://arxiv.org/abs/2601.05930)|null|
+|**2026-01-09**|**Goal Force: Teaching Video Models To Accomplish Physics-Conditioned Goals**|Nate Gillman et.al.|[2601.05848](http://arxiv.org/abs/2601.05848)|null|
+|**2026-01-09**|**EvoQRE: Modeling Bounded Rationality in Safety-Critical Traffic Simulation via Evolutionary Quantal Response Equilibrium**|Phu-Hoa Pham et.al.|[2601.05653](http://arxiv.org/abs/2601.05653)|null|
 |**2026-01-08**|**Learning Latent Action World Models In The Wild**|Quentin Garrido et.al.|[2601.05230](http://arxiv.org/abs/2601.05230)|null|
 |**2026-01-08**|**VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control**|Sixiao Zheng et.al.|[2601.05138](http://arxiv.org/abs/2601.05138)|null|
 |**2026-01-08**|**Tape: A Cellular Automata Benchmark for Evaluating Rule-Shift Generalization in Reinforcement Learning**|Enze Pan et.al.|[2601.04695](http://arxiv.org/abs/2601.04695)|null|
@@ -396,7 +399,7 @@
 |**2025-11-19**|**Zero-Shot Open-Vocabulary Human Motion Grounding with Test-Time Training**|Yunjiao Zhou et.al.|[2511.15379](http://arxiv.org/abs/2511.15379)|null|
 |**2025-11-19**|**Towards Evolutionary Optimization Using the Ising Model**|Simon Klüttermann et.al.|[2511.15377](http://arxiv.org/abs/2511.15377)|null|
 
-</details><p align=right>(<a href=#updated-on-20260111>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
 
 <details>
 
@@ -406,13 +409,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-01-08**|**MineNPC-Task: Task Suite for Memory-Aware Minecraft Agents**|Tamil Sudaravan Mohan Doss et.al.|[2601.05215](http://arxiv.org/abs/2601.05215)|null|
+|**2026-01-09**|**Open-Vocabulary 3D Instruction Ambiguity Detection**|Jiayu Ding et.al.|[2601.05991](http://arxiv.org/abs/2601.05991)|null|
+|**2026-01-09**|**Context-Aware Decoding for Faithful Vision-Language Generation**|Mehrdad Fazli et.al.|[2601.05939](http://arxiv.org/abs/2601.05939)|null|
+|**2026-01-09**|**Router-Suggest: Dynamic Routing for Multimodal Auto-Completion in Visually-Grounded Dialogs**|Sandeep Mishra et.al.|[2601.05851](http://arxiv.org/abs/2601.05851)|null|
+|**2026-01-09**|**SceneFoundry: Generating Interactive Infinite 3D Worlds**|ChunTeng Chen et.al.|[2601.05810](http://arxiv.org/abs/2601.05810)|null|
+|**2026-01-09**|**From Off-Policy to On-Policy: Enhancing GUI Agents via Bi-level Expert-to-Policy Assimilation**|Zezhou Wang et.al.|[2601.05787](http://arxiv.org/abs/2601.05787)|null|
+|**2026-01-09**|**PII-VisBench: Evaluating Personally Identifiable Information Safety in Vision Language Models Along a Continuum of Visibility**|G M Shahariar et.al.|[2601.05739](http://arxiv.org/abs/2601.05739)|null|
+|**2026-01-09**|**SGDrive: Scene-to-Goal Hierarchical World Cognition for Autonomous Driving**|Jingyu Li et.al.|[2601.05640](http://arxiv.org/abs/2601.05640)|null|
+|**2026-01-09**|**LatentVLA: Efficient Vision-Language Models for Autonomous Driving via Latent Action Prediction**|Chengen Xie et.al.|[2601.05611](http://arxiv.org/abs/2601.05611)|null|
+|**2026-01-09**|**VIB-Probe: Detecting and Mitigating Hallucinations in Vision-Language Models via Variational Information Bottleneck**|Feiran Zhang et.al.|[2601.05547](http://arxiv.org/abs/2601.05547)|null|
+|**2026-01-09**|**Safety Not Found (404): Hidden Risks of LLM-Based Robotics Decision Making**|Jua Han et.al.|[2601.05529](http://arxiv.org/abs/2601.05529)|null|
+|**2026-01-09**|**MineNPC-Task: Task Suite for Memory-Aware Minecraft Agents**|Tamil Sudaravan Mohan Doss et.al.|[2601.05215](http://arxiv.org/abs/2601.05215)|null|
+|**2026-01-09**|**CoV: Chain-of-View Prompting for Spatial Reasoning**|Haoyu Zhao et.al.|[2601.05172](http://arxiv.org/abs/2601.05172)|null|
+|**2026-01-09**|**SOVABench: A Vehicle Surveillance Action Retrieval Benchmark for Multimodal Large Language Models**|Oriol Rabasseda et.al.|[2601.04824](http://arxiv.org/abs/2601.04824)|null|
+|**2026-01-08**|**Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization**|Yuxiang Ji et.al.|[2601.05432](http://arxiv.org/abs/2601.05432)|null|
+|**2026-01-08**|**Coding the Visual World: From Image to Simulation Using Vision Language Models**|Sagi Eppel et.al.|[2601.05344](http://arxiv.org/abs/2601.05344)|null|
+|**2026-01-08**|**Intent at a Glance: Gaze-Guided Robotic Manipulation via Foundation Models**|Tracey Yee Hsin Tay et.al.|[2601.05336](http://arxiv.org/abs/2601.05336)|null|
 |**2026-01-08**|**Mechanisms of Prompt-Induced Hallucination in Vision-Language Models**|William Rudman et.al.|[2601.05201](http://arxiv.org/abs/2601.05201)|null|
-|**2026-01-08**|**CoV: Chain-of-View Prompting for Spatial Reasoning**|Haoyu Zhao et.al.|[2601.05172](http://arxiv.org/abs/2601.05172)|null|
 |**2026-01-08**|**VERSE: Visual Embedding Reduction and Space Exploration. Clustering-Guided Insights for Training Data Enhancement in Visually-Rich Document Understanding**|Ignacio de Rodrigo et.al.|[2601.05125](http://arxiv.org/abs/2601.05125)|null|
 |**2026-01-08**|**From Understanding to Engagement: Personalized pharmacy Video Clips via Vision Language Models (VLMs)**|Suyash Mishra et.al.|[2601.05059](http://arxiv.org/abs/2601.05059)|null|
 |**2026-01-08**|**Scaling Vision Language Models for Pharmaceutical Long Form Video Reasoning on Industrial GenAI Platform**|Suyash Mishra et.al.|[2601.04891](http://arxiv.org/abs/2601.04891)|null|
-|**2026-01-08**|**SOVABench: A Vehicle Surveillance Action Retrieval Benchmark for Multimodal Large Language Models**|Oriol Rabasseda et.al.|[2601.04824](http://arxiv.org/abs/2601.04824)|null|
 |**2026-01-08**|**AECV-Bench: Benchmarking Multimodal Models on Architectural and Engineering Drawings Understanding**|Aleksei Kondratenko et.al.|[2601.04819](http://arxiv.org/abs/2601.04819)|null|
 |**2026-01-08**|**Skeletonization-Based Adversarial Perturbations on Large Vision Language Model's Mathematical Text Recognition**|Masatomo Yoshida et.al.|[2601.04752](http://arxiv.org/abs/2601.04752)|null|
 |**2026-01-08**|**Agri-R1: Empowering Generalizable Agricultural Reasoning in Vision-Language Models with Reinforcement Learning**|Wentao Zhang et.al.|[2601.04672](http://arxiv.org/abs/2601.04672)|null|
@@ -1020,7 +1036,7 @@
 |**2025-11-19**|**Context Cascade Compression: Exploring the Upper Limits of Text Compression**|Fanfan Liu et.al.|[2511.15244](http://arxiv.org/abs/2511.15244)|null|
 |**2025-11-19**|**SkinGPT-R1: Adapter-Only Dual Distillation for Efficient Dermatology Reasoning**|Yuhao Shen et.al.|[2511.15242](http://arxiv.org/abs/2511.15242)|null|
 
-</details><p align=right>(<a href=#updated-on-20260111>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
 
 <details>
 
@@ -1030,6 +1046,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-09**|**VideoAR: Autoregressive Video Generation via Next-Frame & Scale Prediction**|Longbin Ji et.al.|[2601.05966](http://arxiv.org/abs/2601.05966)|null|
+|**2026-01-09**|**Goal Force: Teaching Video Models To Accomplish Physics-Conditioned Goals**|Nate Gillman et.al.|[2601.05848](http://arxiv.org/abs/2601.05848)|null|
+|**2026-01-09**|**TAGRPO: Boosting GRPO on Image-to-Video Generation with Direct Trajectory Alignment**|Jin Wang et.al.|[2601.05729](http://arxiv.org/abs/2601.05729)|null|
+|**2026-01-09**|**Rotate Your Character: Revisiting Video Diffusion Models for High-Quality 3D Character Generation**|Jin Wang et.al.|[2601.05722](http://arxiv.org/abs/2601.05722)|null|
+|**2026-01-09**|**GaussianSwap: Animatable Video Face Swapping with 3D Gaussian Splatting**|Xuan Cheng et.al.|[2601.05511](http://arxiv.org/abs/2601.05511)|null|
 |**2026-01-08**|**RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation**|Boyang Wang et.al.|[2601.05241](http://arxiv.org/abs/2601.05241)|null|
 |**2026-01-08**|**Plenoptic Video Generation**|Xiao Fu et.al.|[2601.05239](http://arxiv.org/abs/2601.05239)|null|
 |**2026-01-08**|**CounterVid: Counterfactual Video Generation for Mitigating Action and Temporal Hallucinations in Video-Language Models**|Tobia Poppi et.al.|[2601.04778](http://arxiv.org/abs/2601.04778)|null|
@@ -1434,7 +1455,7 @@
 |**2025-11-18**|**FlowRoI A Fast Optical Flow Driven Region of Interest Extraction Framework for High-Throughput Image Compression in Immune Cell Migration Analysis**|Xiaowei Xu et.al.|[2511.14419](http://arxiv.org/abs/2511.14419)|null|
 |**2025-11-18**|**ARC-Chapter: Structuring Hour-Long Videos into Navigable Chapters and Hierarchical Summaries**|Junfu Pu et.al.|[2511.14349](http://arxiv.org/abs/2511.14349)|null|
 
-</details><p align=right>(<a href=#updated-on-20260111>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
 
 Notes: 
 
