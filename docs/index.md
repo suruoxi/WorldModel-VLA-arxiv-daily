@@ -3,7 +3,7 @@ layout: default
 ---
 
 # World Model and Embodied AI arxiv Papers
-### Updated on 2026.01.13
+### Updated on 2026.01.14
 <details>
 
 <summary> 1-World Model </summary>
@@ -12,7 +12,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-01-12**|**Video Generation Models in Robotics - Applications, Research Challenges, Future Directions**|Zhiting Mei et.al.|[2601.07823](http://arxiv.org/abs/2601.07823)|null|
+|**2026-01-13**|**Creativity in AI as Emergence from Domain-Limited Generative Models**|Corina Chutaux et.al.|[2601.08388](http://arxiv.org/abs/2601.08388)|null|
+|**2026-01-12**|**Executable Ontologies in Game Development: From Algorithmic Control to Semantic World Modeling**|Alexander Boldachev et.al.|[2601.07964](http://arxiv.org/abs/2601.07964)|null|
+|**2026-01-12**|**Video Generation Models in Robotics -- Applications, Research Challenges, Future Directions**|Zhiting Mei et.al.|[2601.07823](http://arxiv.org/abs/2601.07823)|null|
 |**2026-01-12**|**Failure-Aware RL: Reliable Offline-to-Online Reinforcement Learning with Self-Recovery for Real-World Manipulation**|Huanyu Li et.al.|[2601.07821](http://arxiv.org/abs/2601.07821)|null|
 |**2026-01-12**|**Puzzle it Out: Local-to-Global World Model for Offline Multi-Agent Reinforcement Learning**|Sijia li et.al.|[2601.07463](http://arxiv.org/abs/2601.07463)|null|
 |**2026-01-10**|**Object-Centric World Models Meet Monte Carlo Tree Search**|Rodion Vakhitov et.al.|[2601.06604](http://arxiv.org/abs/2601.06604)|null|
@@ -408,6 +410,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**SoC: Semantic Orthogonal Calibration for Test-Time Prompt Tuning**|Leo Fillioux et.al.|[2601.08617](http://arxiv.org/abs/2601.08617)|null|
+|**2026-01-13**|**VideoHEDGE: Entropy-Based Hallucination Detection for Video-VLMs via Semantic Clustering and Spatiotemporal Perturbations**|Sushant Gautam et.al.|[2601.08557](http://arxiv.org/abs/2601.08557)|null|
+|**2026-01-13**|**Sketch-Based Facade Renovation With Generative AI: A Streamlined Framework for Bypassing As-Built Modelling in Industrial Adaptive Reuse**|Warissara Booranamaitree et.al.|[2601.08531](http://arxiv.org/abs/2601.08531)|null|
+|**2026-01-13**|**Cross-modal Proxy Evolving for OOD Detection with Vision-Language Models**|Hao Tang et.al.|[2601.08476](http://arxiv.org/abs/2601.08476)|null|
+|**2026-01-13**|**Towards Safer Mobile Agents: Scalable Generation and Evaluation of Diverse Scenarios for VLMs**|Takara Taniguchi et.al.|[2601.08470](http://arxiv.org/abs/2601.08470)|null|
+|**2026-01-13**|**Zero-Shot Distracted Driver Detection via Vision Language Models with Double Decoupling**|Takamichi Miyata et.al.|[2601.08467](http://arxiv.org/abs/2601.08467)|null|
+|**2026-01-13**|**CoMa: Contextual Massing Generation with Vision-Language Models**|Evgenii Maslov et.al.|[2601.08464](http://arxiv.org/abs/2601.08464)|null|
+|**2026-01-13**|**Real2Sim based on Active Perception with automatically VLM-generated Behavior Trees**|Alessandro Adami et.al.|[2601.08454](http://arxiv.org/abs/2601.08454)|null|
+|**2026-01-13**|**MMLGNet: Cross-Modal Alignment of Remote Sensing Data using CLIP**|Aditya Chaudhary et.al.|[2601.08420](http://arxiv.org/abs/2601.08420)|null|
+|**2026-01-13**|**Edge-Optimized Multimodal Learning for UAV Video Understanding via BLIP-2**|Yizhan Feng et.al.|[2601.08408](http://arxiv.org/abs/2601.08408)|null|
+|**2026-01-13**|**Semantic Misalignment in Vision-Language Models under Perceptual Degradation**|Guo Cheng et.al.|[2601.08355](http://arxiv.org/abs/2601.08355)|null|
+|**2026-01-13**|**ActiveVLA: Injecting Active Perception into Vision-Language-Action Models for Precise 3D Robotic Manipulation**|Zhenyang Liu et.al.|[2601.08325](http://arxiv.org/abs/2601.08325)|null|
+|**2026-01-13**|**Route, Retrieve, Reflect, Repair: Self-Improving Agentic Framework for Visual Detection and Linguistic Reasoning in Medical Imaging**|Md. Faiyaz Abdullah Sayeedi et.al.|[2601.08192](http://arxiv.org/abs/2601.08192)|null|
+|**2026-01-13**|**Subspace Alignment for Vision-Language Model Test-time Adaptation**|Zhichen Zeng et.al.|[2601.08139](http://arxiv.org/abs/2601.08139)|null|
+|**2026-01-12**|**A New Strategy for Verifying Reach-Avoid Specifications in Neural Feedback Systems**|Samuel I. Akinwande et.al.|[2601.08065](http://arxiv.org/abs/2601.08065)|null|
+|**2026-01-12**|**Rescind: Countering Image Misconduct in Biomedical Publications with Vision-Language and State-Space Modeling**|Soumyaroop Nandi et.al.|[2601.08040](http://arxiv.org/abs/2601.08040)|null|
+|**2026-01-12**|**A Highly Efficient Diversity-based Input Selection for DNN Improvement Using VLMs**|Amin Abbasishahkoo et.al.|[2601.08024](http://arxiv.org/abs/2601.08024)|null|
+|**2026-01-12**|**Representations of Text and Images Align From Layer One**|Evžen Wybitul et.al.|[2601.08017](http://arxiv.org/abs/2601.08017)|null|
+|**2026-01-12**|**CASHEW: Stabilizing Multimodal Reasoning via Iterative Trajectory Aggregation**|Chaoyu Li et.al.|[2601.08010](http://arxiv.org/abs/2601.08010)|null|
+|**2026-01-12**|**VULCA-Bench: A Multicultural Vision-Language Benchmark for Evaluating Cultural Understanding**|Haorui Yu et.al.|[2601.07986](http://arxiv.org/abs/2601.07986)|null|
 |**2026-01-12**|**Reference Games as a Testbed for the Alignment of Model Uncertainty and Clarification Requests**|Manar Ali et.al.|[2601.07820](http://arxiv.org/abs/2601.07820)|null|
 |**2026-01-12**|**More Images, More Problems? A Controlled Analysis of VLM Failure Modes**|Anurag Das et.al.|[2601.07812](http://arxiv.org/abs/2601.07812)|null|
 |**2026-01-12**|**Vision-Language Model for Accurate Crater Detection**|Patrick Bauer et.al.|[2601.07795](http://arxiv.org/abs/2601.07795)|null|
@@ -1063,8 +1085,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**Motion Attribution for Video Generation**|Xindi Wu et.al.|[2601.08828](http://arxiv.org/abs/2601.08828)|null|
+|**2026-01-13**|**Apollo: Unified Multi-Task Audio-Video Joint Generation**|Jun Wang et.al.|[2601.04151](http://arxiv.org/abs/2601.04151)|null|
 |**2026-01-12**|**MHLA: Restoring Expressivity of Linear Attention via Token-Level Multi-Head**|Kewei Zhang et.al.|[2601.07832](http://arxiv.org/abs/2601.07832)|null|
-|**2026-01-12**|**Video Generation Models in Robotics - Applications, Research Challenges, Future Directions**|Zhiting Mei et.al.|[2601.07823](http://arxiv.org/abs/2601.07823)|null|
+|**2026-01-12**|**Video Generation Models in Robotics -- Applications, Research Challenges, Future Directions**|Zhiting Mei et.al.|[2601.07823](http://arxiv.org/abs/2601.07823)|null|
 |**2026-01-12**|**Forecast the Principal, Stabilize the Residual: Subspace-Aware Feature Caching for Efficient Diffusion Transformers**|Guantao Chen et.al.|[2601.07396](http://arxiv.org/abs/2601.07396)|null|
 |**2026-01-09**|**Perception Test 2025: Challenge Summary and a Unified VQA Extension**|Joseph Heyward et.al.|[2601.06287](http://arxiv.org/abs/2601.06287)|null|
 |**2026-01-09**|**VideoAR: Autoregressive Video Generation via Next-Frame & Scale Prediction**|Longbin Ji et.al.|[2601.05966](http://arxiv.org/abs/2601.05966)|null|
@@ -1080,7 +1104,6 @@ layout: default
 |**2026-01-07**|**PackCache: A Training-Free Acceleration Method for Unified Autoregressive Video Generation via Compact KV-Cache**|Kunyang Li et.al.|[2601.04359](http://arxiv.org/abs/2601.04359)|null|
 |**2026-01-07**|**ReHyAt: Recurrent Hybrid Attention for Video Diffusion Transformers**|Mohsen Ghafoorian et.al.|[2601.04342](http://arxiv.org/abs/2601.04342)|null|
 |**2026-01-07**|**Choreographing a World of Dynamic Objects**|Yanzhe Lyu et.al.|[2601.04194](http://arxiv.org/abs/2601.04194)|null|
-|**2026-01-07**|**Klear: Unified Multi-Task Audio-Video Joint Generation**|Jun Wang et.al.|[2601.04151](http://arxiv.org/abs/2601.04151)|null|
 |**2026-01-07**|**PhysVideoGenerator: Towards Physically Aware Video Generation via Latent Physics Guidance**|Siddarth Nilol Kundur Satish et.al.|[2601.03665](http://arxiv.org/abs/2601.03665)|null|
 |**2026-01-07**|**VideoMemory: Toward Consistent Video Generation via Memory Integration**|Jinsong Zhou et.al.|[2601.03655](http://arxiv.org/abs/2601.03655)|null|
 |**2026-01-06**|**LTX-2: Efficient Joint Audio-Visual Foundation Model**|Yoav HaCohen et.al.|[2601.03233](http://arxiv.org/abs/2601.03233)|null|
