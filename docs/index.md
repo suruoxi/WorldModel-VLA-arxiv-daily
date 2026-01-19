@@ -3,7 +3,7 @@ layout: default
 ---
 
 # World Model and Embodied AI arxiv Papers
-### Updated on 2026.01.18
+### Updated on 2026.01.19
 <details>
 
 <summary> 1-World Model </summary>
@@ -12,6 +12,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-15**|**Action Shapley: A Training Data Selection Metric for World Model in Reinforcement Learning**|Rajat Ghosh et.al.|[2601.10905](http://arxiv.org/abs/2601.10905)|null|
 |**2026-01-15**|**Action100M: A Large-scale Video Action Dataset**|Delong Chen et.al.|[2601.10592](http://arxiv.org/abs/2601.10592)|null|
 |**2026-01-15**|**Inference-time Physics Alignment of Video Generative Models with Latent World Models**|Jianhao Yuan et.al.|[2601.10553](http://arxiv.org/abs/2601.10553)|null|
 |**2026-01-14**|**MAD: Motion Appearance Decoupling for efficient Driving World Models**|Ahmad Rahimi et.al.|[2601.09452](http://arxiv.org/abs/2601.09452)|null|
@@ -414,12 +415,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-16**|**ShapeR: Robust Conditional 3D Shape Generation from Casual Captures**|Yawar Siddiqui et.al.|[2601.11514](http://arxiv.org/abs/2601.11514)|null|
+|**2026-01-16**|**MHA2MLA-VLM: Enabling DeepSeek's Economical Multi-Head Latent Attention across Vision-Language Models**|Xiaoran Fan et.al.|[2601.11464](http://arxiv.org/abs/2601.11464)|null|
+|**2026-01-16**|**The Great March 100: 100 Detail-oriented Tasks for Evaluating Embodied AI Agents**|Ziyu Wang et.al.|[2601.11421](http://arxiv.org/abs/2601.11421)|null|
+|**2026-01-16**|**ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models**|Linqing Zhong et.al.|[2601.11404](http://arxiv.org/abs/2601.11404)|null|
+|**2026-01-16**|**Enhancing Vision Language Models with Logic Reasoning for Situational Awareness**|Pavana Pradeep et.al.|[2601.11322](http://arxiv.org/abs/2601.11322)|null|
+|**2026-01-16**|**X-Distill: Cross-Architecture Vision Distillation for Visuomotor Learning**|Maanping Shao et.al.|[2601.11269](http://arxiv.org/abs/2601.11269)|null|
+|**2026-01-16**|**Language-Agnostic Visual Embeddings for Cross-Script Handwriting Retrieval**|Fangke Chen et.al.|[2601.11248](http://arxiv.org/abs/2601.11248)|null|
+|**2026-01-16**|**Image-Text Knowledge Modeling for Unsupervised Multi-Scenario Person Re-Identification**|Zhiqi Pang et.al.|[2601.11243](http://arxiv.org/abs/2601.11243)|null|
+|**2026-01-16**|**MMedExpert-R1: Strengthening Multimodal Medical Reasoning via Domain-Specific Adaptation and Clinical Guideline Reinforcement**|Meidan Ding et.al.|[2601.10949](http://arxiv.org/abs/2601.10949)|null|
+|**2026-01-16**|**PatientVLM Meets DocVLM: Pre-Consultation Dialogue Between Vision-Language Models for Efficient Diagnosis**|K Lokesh et.al.|[2601.10945](http://arxiv.org/abs/2601.10945)|null|
+|**2026-01-16**|**MERGETUNE: Continued fine-tuning of vision-language models**|Wenqing Wang et.al.|[2601.10497](http://arxiv.org/abs/2601.10497)|null|
+|**2026-01-15**|**Can Vision-Language Models Understand Construction Workers? An Exploratory Study**|Hieu Bui et.al.|[2601.10835](http://arxiv.org/abs/2601.10835)|null|
+|**2026-01-15**|**Future Optical Flow Prediction Improves Robot Control & Video Generation**|Kanchana Ranasinghe et.al.|[2601.10781](http://arxiv.org/abs/2601.10781)|null|
 |**2026-01-15**|**Alterbute: Editing Intrinsic Attributes of Objects in Images**|Tal Reiss et.al.|[2601.10714](http://arxiv.org/abs/2601.10714)|null|
 |**2026-01-15**|**From One-to-One to Many-to-Many: Dynamic Cross-Layer Injection for Deep Vision-Language Fusion**|Cheng Chen et.al.|[2601.10710](http://arxiv.org/abs/2601.10710)|null|
 |**2026-01-15**|**Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding**|Christopher Clark et.al.|[2601.10611](http://arxiv.org/abs/2601.10611)|null|
 |**2026-01-15**|**Unleashing the Capabilities of Large Vision-Language Models for Intelligent Perception of Roadside Infrastructure**|Luxuan Fu et.al.|[2601.10551](http://arxiv.org/abs/2601.10551)|null|
 |**2026-01-15**|**SVII-3D: Advancing Roadside Infrastructure Inventory with Decimeter-level 3D Localization and Comprehension from Sparse Street Imagery**|Chong Liu et.al.|[2601.10535](http://arxiv.org/abs/2601.10535)|null|
-|**2026-01-15**|**mergetune: Continued fine-tuning of vision-language models**|Wenqing Wang et.al.|[2601.10497](http://arxiv.org/abs/2601.10497)|null|
 |**2026-01-15**|**Urban Socio-Semantic Segmentation with Vision-Language Reasoning**|Yu Wang et.al.|[2601.10477](http://arxiv.org/abs/2601.10477)|null|
 |**2026-01-15**|**SurgGoal: Rethinking Surgical Planning Evaluation via Goal-Satisfiability**|Ruochen Li et.al.|[2601.10455](http://arxiv.org/abs/2601.10455)|null|
 |**2026-01-15**|**Global Context Compression with Interleaved Vision-Text Transformation**|Dian Jiao et.al.|[2601.10378](http://arxiv.org/abs/2601.10378)|null|
@@ -1115,6 +1128,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-16**|**VidLeaks: Membership Inference Attacks Against Text-to-Video Models**|Li Wang et.al.|[2601.11210](http://arxiv.org/abs/2601.11210)|null|
+|**2026-01-16**|**ATATA: One Algorithm to Align Them All**|Boyi Pang et.al.|[2601.11194](http://arxiv.org/abs/2601.11194)|null|
+|**2026-01-16**|**PhysRVG: Physics-Aware Unified Reinforcement Learning for Video Generative Models**|Qiyuan Zhang et.al.|[2601.11087](http://arxiv.org/abs/2601.11087)|null|
+|**2026-01-15**|**Future Optical Flow Prediction Improves Robot Control & Video Generation**|Kanchana Ranasinghe et.al.|[2601.10781](http://arxiv.org/abs/2601.10781)|null|
 |**2026-01-15**|**CoMoVi: Co-Generation of 3D Human Motions and Realistic Videos**|Chengfeng Zhao et.al.|[2601.10632](http://arxiv.org/abs/2601.10632)|null|
 |**2026-01-15**|**Inference-time Physics Alignment of Video Generative Models with Latent World Models**|Jianhao Yuan et.al.|[2601.10553](http://arxiv.org/abs/2601.10553)|null|
 |**2026-01-15**|**Beyond Inpainting: Unleash 3D Understanding for Precise Camera-Controlled Video Generation**|Dong-Yu Chen et.al.|[2601.10214](http://arxiv.org/abs/2601.10214)|null|
