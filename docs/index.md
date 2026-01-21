@@ -3,7 +3,7 @@ layout: default
 ---
 
 # World Model and Embodied AI arxiv Papers
-### Updated on 2026.01.20
+### Updated on 2026.01.21
 <details>
 
 <summary> 1-World Model </summary>
@@ -12,6 +12,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-19**|**CausalSpatial: A Benchmark for Object-Centric Causal Spatial Reasoning**|Wenxin Ma et.al.|[2601.13304](http://arxiv.org/abs/2601.13304)|null|
+|**2026-01-19**|**Aligning Agentic World Models via Knowledgeable Experience Learning**|Baochang Ren et.al.|[2601.13247](http://arxiv.org/abs/2601.13247)|null|
+|**2026-01-19**|**Active Inference-Driven World Modeling for Adaptive UAV Swarm Trajectory Design**|Kaleem Arshid et.al.|[2601.12939](http://arxiv.org/abs/2601.12939)|null|
+|**2026-01-18**|**Agentic Reasoning for Large Language Models**|Tianxin Wei et.al.|[2601.12538](http://arxiv.org/abs/2601.12538)|null|
+|**2026-01-18**|**ReWorld: Multi-Dimensional Reward Modeling for Embodied World Models**|Baorui Peng et.al.|[2601.12428](http://arxiv.org/abs/2601.12428)|null|
+|**2026-01-18**|**An Efficient and Multi-Modal Navigation System with One-Step World Model**|Wangtian Shen et.al.|[2601.12277](http://arxiv.org/abs/2601.12277)|null|
+|**2026-01-18**|**DaggerFFT: A Distributed FFT Framework Using Task Scheduling in Julia**|Sana Taghipour Anvari et.al.|[2601.12209](http://arxiv.org/abs/2601.12209)|null|
 |**2026-01-15**|**Action Shapley: A Training Data Selection Metric for World Model in Reinforcement Learning**|Rajat Ghosh et.al.|[2601.10905](http://arxiv.org/abs/2601.10905)|null|
 |**2026-01-15**|**Action100M: A Large-scale Video Action Dataset**|Delong Chen et.al.|[2601.10592](http://arxiv.org/abs/2601.10592)|null|
 |**2026-01-15**|**Inference-time Physics Alignment of Video Generative Models with Latent World Models**|Jianhao Yuan et.al.|[2601.10553](http://arxiv.org/abs/2601.10553)|null|
@@ -415,6 +422,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-20**|**LogicEnvGen: Task-Logic Driven Generation of Diverse Simulated Environments for Embodied AI**|Jianan Wang et.al.|[2601.13556](http://arxiv.org/abs/2601.13556)|null|
+|**2026-01-19**|**PhysicsSolutionAgent: Towards Multimodal Explanations for Numerical Physics Problem Solving**|Aditya Thole et.al.|[2601.13453](http://arxiv.org/abs/2601.13453)|null|
+|**2026-01-19**|**Analyzing VLM-Based Approaches for Anomaly Classification and Segmentation**|Mohit Kakda et.al.|[2601.13440](http://arxiv.org/abs/2601.13440)|null|
+|**2026-01-19**|**Reasoning with Pixel-level Precision: QVLM Architecture and SQuID Dataset for Quantitative Geospatial Analytics**|Peter A. Massih et.al.|[2601.13401](http://arxiv.org/abs/2601.13401)|null|
+|**2026-01-19**|**Organ-Aware Attention Improves CT Triage and Classification**|Lavsen Dahal et.al.|[2601.13385](http://arxiv.org/abs/2601.13385)|null|
+|**2026-01-19**|**A Semantic Decoupling-Based Two-Stage Rainy-Day Attack for Revealing Weather Robustness Deficiencies in Vision-Language Models**|Chengyin Hu et.al.|[2601.13238](http://arxiv.org/abs/2601.13238)|null|
+|**2026-01-19**|**Seeing Radio: From Zero RF Priors to Explainable Modulation Recognition with Vision Language Models**|Hang Zou et.al.|[2601.13157](http://arxiv.org/abs/2601.13157)|null|
+|**2026-01-19**|**FastAV: Efficient Token Pruning for Audio-Visual Large Language Model Inference**|Chaeyoung Jung et.al.|[2601.13143](http://arxiv.org/abs/2601.13143)|null|
+|**2026-01-19**|**TVWorld: Foundations for Remote-Control TV Agents**|Zhantao Ma et.al.|[2601.13142](http://arxiv.org/abs/2601.13142)|null|
+|**2026-01-19**|**CLIP-Guided Adaptable Self-Supervised Learning for Human-Centric Visual Tasks**|Mingshuang Luo et.al.|[2601.13133](http://arxiv.org/abs/2601.13133)|null|
+|**2026-01-19**|**GaussExplorer: 3D Gaussian Splatting for Embodied Exploration and Reasoning**|Kim Yu-Ji et.al.|[2601.13132](http://arxiv.org/abs/2601.13132)|null|
+|**2026-01-19**|**LLM-VLM Fusion Framework for Autonomous Maritime Port Inspection using a Heterogeneous UAV-USV System**|Muhayy Ud Din et.al.|[2601.13096](http://arxiv.org/abs/2601.13096)|null|
+|**2026-01-19**|**The Bitter Lesson of Diffusion Language Models for Agentic Workflows: A Comprehensive Reality Check**|Qingyu Lu et.al.|[2601.12979](http://arxiv.org/abs/2601.12979)|null|
+|**2026-01-19**|**Proxy Robustness in Vision Language Models is Effortlessly Transferable**|Xiaowei Fu et.al.|[2601.12865](http://arxiv.org/abs/2601.12865)|null|
+|**2026-01-19**|**Left-Right Symmetry Breaking in CLIP-style Vision-Language Models Trained on Synthetic Spatial-Relation Data**|Takaki Yamamoto et.al.|[2601.12809](http://arxiv.org/abs/2601.12809)|null|
+|**2026-01-19**|**VIRO: Robust and Efficient Neuro-Symbolic Reasoning with Verification for Referring Expression Comprehension**|Hyejin Park et.al.|[2601.12781](http://arxiv.org/abs/2601.12781)|null|
+|**2026-01-19**|**Vision Language Models for Optimization-Driven Intent Processing in Autonomous Networks**|Tasnim Ahmed et.al.|[2601.12744](http://arxiv.org/abs/2601.12744)|null|
+|**2026-01-19**|**AirHunt: Bridging VLM Semantics and Continuous Planning for Efficient Aerial Object Navigation**|Xuecheng Chen et.al.|[2601.12742](http://arxiv.org/abs/2601.12742)|null|
+|**2026-01-19**|**VILTA: A VLM-in-the-Loop Adversary for Enhancing Driving Policy Robustness**|Qimao Chen et.al.|[2601.12672](http://arxiv.org/abs/2601.12672)|null|
+|**2026-01-18**|**Linear Mechanisms for Spatiotemporal Reasoning in Vision Language Models**|Raphi Kang et.al.|[2601.12626](http://arxiv.org/abs/2601.12626)|null|
 |**2026-01-16**|**ShapeR: Robust Conditional 3D Shape Generation from Casual Captures**|Yawar Siddiqui et.al.|[2601.11514](http://arxiv.org/abs/2601.11514)|null|
 |**2026-01-16**|**MHA2MLA-VLM: Enabling DeepSeek's Economical Multi-Head Latent Attention across Vision-Language Models**|Xiaoran Fan et.al.|[2601.11464](http://arxiv.org/abs/2601.11464)|null|
 |**2026-01-16**|**The Great March 100: 100 Detail-oriented Tasks for Evaluating Embodied AI Agents**|Ziyu Wang et.al.|[2601.11421](http://arxiv.org/abs/2601.11421)|null|
@@ -1128,6 +1155,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-19**|**LAViG-FLOW: Latent Autoregressive Video Generation for Fluid Flow Simulations**|Vittoria De Pellegrini et.al.|[2601.13190](http://arxiv.org/abs/2601.13190)|null|
+|**2026-01-19**|**Moaw: Unleashing Motion Awareness for Video Diffusion Models**|Tianqi Zhang et.al.|[2601.12761](http://arxiv.org/abs/2601.12761)|null|
+|**2026-01-19**|**S2DiT: Sandwich Diffusion Transformer for Mobile Streaming Video Generation**|Lin Zhao et.al.|[2601.12719](http://arxiv.org/abs/2601.12719)|null|
 |**2026-01-16**|**VidLeaks: Membership Inference Attacks Against Text-to-Video Models**|Li Wang et.al.|[2601.11210](http://arxiv.org/abs/2601.11210)|null|
 |**2026-01-16**|**ATATA: One Algorithm to Align Them All**|Boyi Pang et.al.|[2601.11194](http://arxiv.org/abs/2601.11194)|null|
 |**2026-01-16**|**PhysRVG: Physics-Aware Unified Reinforcement Learning for Video Generative Models**|Qiyuan Zhang et.al.|[2601.11087](http://arxiv.org/abs/2601.11087)|null|
@@ -1137,6 +1167,7 @@ layout: default
 |**2026-01-15**|**Beyond Inpainting: Unleash 3D Understanding for Precise Camera-Controlled Video Generation**|Dong-Yu Chen et.al.|[2601.10214](http://arxiv.org/abs/2601.10214)|null|
 |**2026-01-15**|**FlowAct-R1: Towards Interactive Humanoid Video Generation**|Lizhen Wang et.al.|[2601.10103](http://arxiv.org/abs/2601.10103)|null|
 |**2026-01-15**|**CoF-T2I: Video Models as Pure Visual Reasoners for Text-to-Image Generation**|Chengzhuo Tong et.al.|[2601.10061](http://arxiv.org/abs/2601.10061)|null|
+|**2026-01-14**|**Mixture of Distributions Matters: Dynamic Sparse Attention for Efficient Video Diffusion Transformers**|Yuxi Liu et.al.|[2601.11641](http://arxiv.org/abs/2601.11641)|null|
 |**2026-01-14**|**Transition Matching Distillation for Fast Video Generation**|Weili Nie et.al.|[2601.09881](http://arxiv.org/abs/2601.09881)|null|
 |**2026-01-14**|**Efficient Camera-Controlled Video Generation of Static Scenes via Sparse Diffusion and 3D Rendering**|Jieying Chen et.al.|[2601.09697](http://arxiv.org/abs/2601.09697)|null|
 |**2026-01-14**|**PhyRPR: Training-Free Physics-Constrained Video Generation**|Yibo Zhao et.al.|[2601.09255](http://arxiv.org/abs/2601.09255)|null|
