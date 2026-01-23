@@ -1,5 +1,5 @@
 # World Model and Embodied AI arxiv Papers
-### Updated on 2026.01.22
+### Updated on 2026.01.23
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#1-world-model>1-World Model</a></li>
@@ -16,6 +16,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-22**|**Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning**|Moo Jin Kim et.al.|[2601.16163](http://arxiv.org/abs/2601.16163)|null|
+|**2026-01-22**|**PhysicsMind: Sim and Real Mechanics Benchmarking for Physical Reasoning and Prediction in Foundational VLMs and World Models**|Chak-Wing Mak et.al.|[2601.16007](http://arxiv.org/abs/2601.16007)|null|
+|**2026-01-21**|**From Generative Engines to Actionable Simulators: The Imperative of Physical Grounding in World Models**|Zhikang Chen et.al.|[2601.15533](http://arxiv.org/abs/2601.15533)|null|
 |**2026-01-21**|**Walk through Paintings: Egocentric World Models from Internet Priors**|Anurag Bagchi et.al.|[2601.15284](http://arxiv.org/abs/2601.15284)|null|
 |**2026-01-21**|**StableWorld: Towards Stable and Consistent Long Interactive Video Generation**|Ying Yang et.al.|[2601.15281](http://arxiv.org/abs/2601.15281)|null|
 |**2026-01-20**|**"Just in Time" World Modeling Supports Human Planning and Reasoning**|Tony Chen et.al.|[2601.14514](http://arxiv.org/abs/2601.14514)|null|
@@ -422,7 +425,7 @@
 |**2025-11-19**|**Zero-Shot Open-Vocabulary Human Motion Grounding with Test-Time Training**|Yunjiao Zhou et.al.|[2511.15379](http://arxiv.org/abs/2511.15379)|null|
 |**2025-11-19**|**Towards Evolutionary Optimization Using the Ising Model**|Simon Klüttermann et.al.|[2511.15377](http://arxiv.org/abs/2511.15377)|null|
 
-</details><p align=right>(<a href=#updated-on-20260122>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260123>back to top</a>)</p>
 
 <details>
 
@@ -432,6 +435,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-22**|**Point Bridge: 3D Representations for Cross Domain Policy Learning**|Siddhant Haldar et.al.|[2601.16212](http://arxiv.org/abs/2601.16212)|null|
+|**2026-01-22**|**Multimodal Climate Disinformation Detection: Integrating Vision-Language Models with External Knowledge Sources**|Marzieh Adeli Shamsabad et.al.|[2601.16108](http://arxiv.org/abs/2601.16108)|null|
+|**2026-01-22**|**DTP: A Simple yet Effective Distracting Token Pruning Framework for Vision-Language Action Models**|Chenyang Li et.al.|[2601.16065](http://arxiv.org/abs/2601.16065)|null|
+|**2026-01-22**|**DextER: Language-driven Dexterous Grasp Generation with Embodied Reasoning**|Junha Lee et.al.|[2601.16046](http://arxiv.org/abs/2601.16046)|null|
+|**2026-01-22**|**RadJEPA: Radiology Encoder for Chest X-Rays via Joint Embedding Predictive Architecture**|Anas Anwarul Haq Khan et.al.|[2601.15891](http://arxiv.org/abs/2601.15891)|null|
+|**2026-01-22**|**Assessing Situational and Spatial Awareness of VLMs with Synthetically Generated Video**|Pascal Benschop et.al.|[2601.15780](http://arxiv.org/abs/2601.15780)|null|
+|**2026-01-22**|**Hallucination Mitigating for Medical Report Generation**|Ruoqing Zhao et.al.|[2601.15745](http://arxiv.org/abs/2601.15745)|null|
+|**2026-01-22**|**Zero-Shot Product Attribute Labeling with Vision-Language Models: A Three-Tier Evaluation Framework**|Shubham Shukla et.al.|[2601.15711](http://arxiv.org/abs/2601.15711)|null|
+|**2026-01-21**|**CompliantVLA-adaptor: VLM-Guided Variable Impedance Action for Safe Contact-Rich Manipulation**|Heng Zhang et.al.|[2601.15541](http://arxiv.org/abs/2601.15541)|null|
+|**2026-01-21**|**DevPrompt: Deviation-Based Prompt Learning for One-Normal ShotImage Anomaly Detection**|Morteza Poudineh et.al.|[2601.15453](http://arxiv.org/abs/2601.15453)|null|
+|**2026-01-21**|**Learning a Unified Latent Space for Cross-Embodiment Robot Control**|Yashuai Yan et.al.|[2601.15419](http://arxiv.org/abs/2601.15419)|null|
+|**2026-01-21**|**CURE: Curriculum-guided Multi-task Training for Reliable Anatomy Grounded Report Generation**|Pablo Messina et.al.|[2601.15408](http://arxiv.org/abs/2601.15408)|null|
+|**2026-01-21**|**Improving MoE Compute Efficiency by Composing Weight and Data Sparsity**|Maciej Kilian et.al.|[2601.15370](http://arxiv.org/abs/2601.15370)|null|
 |**2026-01-21**|**Towards Understanding Best Practices for Quantization of Vision-Language Models**|Gautom Das et.al.|[2601.15287](http://arxiv.org/abs/2601.15287)|null|
 |**2026-01-21**|**Iterative Refinement Improves Compositional Image Generation**|Shantanu Jaiswal et.al.|[2601.15286](http://arxiv.org/abs/2601.15286)|null|
 |**2026-01-21**|**Rethinking Video Generation Model for the Embodied World**|Yufan Deng et.al.|[2601.15282](http://arxiv.org/abs/2601.15282)|null|
@@ -1197,7 +1213,7 @@
 |**2025-11-19**|**Context Cascade Compression: Exploring the Upper Limits of Text Compression**|Fanfan Liu et.al.|[2511.15244](http://arxiv.org/abs/2511.15244)|null|
 |**2025-11-19**|**SkinGPT-R1: Adapter-Only Dual Distillation for Efficient Dermatology Reasoning**|Yuhao Shen et.al.|[2511.15242](http://arxiv.org/abs/2511.15242)|null|
 
-</details><p align=right>(<a href=#updated-on-20260122>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260123>back to top</a>)</p>
 
 <details>
 
@@ -1207,6 +1223,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-22**|**PyraTok: Language-Aligned Pyramidal Tokenizer for Video Understanding and Generation**|Onkar Susladkar et.al.|[2601.16210](http://arxiv.org/abs/2601.16210)|null|
+|**2026-01-22**|**Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning**|Moo Jin Kim et.al.|[2601.16163](http://arxiv.org/abs/2601.16163)|null|
+|**2026-01-22**|**PhysicsMind: Sim and Real Mechanics Benchmarking for Physical Reasoning and Prediction in Foundational VLMs and World Models**|Chak-Wing Mak et.al.|[2601.16007](http://arxiv.org/abs/2601.16007)|null|
+|**2026-01-21**|**From Generative Engines to Actionable Simulators: The Imperative of Physical Grounding in World Models**|Zhikang Chen et.al.|[2601.15533](http://arxiv.org/abs/2601.15533)|null|
 |**2026-01-21**|**Walk through Paintings: Egocentric World Models from Internet Priors**|Anurag Bagchi et.al.|[2601.15284](http://arxiv.org/abs/2601.15284)|null|
 |**2026-01-21**|**Rethinking Video Generation Model for the Embodied World**|Yufan Deng et.al.|[2601.15282](http://arxiv.org/abs/2601.15282)|null|
 |**2026-01-21**|**StableWorld: Towards Stable and Consistent Long Interactive Video Generation**|Ying Yang et.al.|[2601.15281](http://arxiv.org/abs/2601.15281)|null|
@@ -1643,7 +1663,7 @@
 |**2025-11-18**|**FlowRoI A Fast Optical Flow Driven Region of Interest Extraction Framework for High-Throughput Image Compression in Immune Cell Migration Analysis**|Xiaowei Xu et.al.|[2511.14419](http://arxiv.org/abs/2511.14419)|null|
 |**2025-11-18**|**ARC-Chapter: Structuring Hour-Long Videos into Navigable Chapters and Hierarchical Summaries**|Junfu Pu et.al.|[2511.14349](http://arxiv.org/abs/2511.14349)|null|
 
-</details><p align=right>(<a href=#updated-on-20260122>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260123>back to top</a>)</p>
 
 Notes: 
 
