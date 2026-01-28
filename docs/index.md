@@ -3,7 +3,7 @@ layout: default
 ---
 
 # World Model and Embodied AI arxiv Papers
-### Updated on 2026.01.27
+### Updated on 2026.01.28
 <details>
 
 <summary> 1-World Model </summary>
@@ -12,6 +12,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**HARMONI: Multimodal Personalization of Multi-User Human-Robot Interactions with LLMs**|Jeanne Malécot et.al.|[2601.19839](http://arxiv.org/abs/2601.19839)|null|
+|**2026-01-27**|**Visual Generation Unlocks Human-Like Reasoning through Multimodal World Models**|Jialong Wu et.al.|[2601.19834](http://arxiv.org/abs/2601.19834)|null|
+|**2026-01-27**|**Comment on "Multidimensional arrow of time" (arXiv:2601.14134)**|Andrei Galiautdinov et.al.|[2601.19819](http://arxiv.org/abs/2601.19819)|null|
+|**2026-01-27**|**Agentic Design Patterns: A System-Theoretic Framework**|Minh-Dung Dao et.al.|[2601.19752](http://arxiv.org/abs/2601.19752)|null|
+|**2026-01-27**|**Dynamic Worlds, Dynamic Humans: Generating Virtual Human-Scene Interaction Motion in Dynamic Scenes**|Yin Wang et.al.|[2601.19484](http://arxiv.org/abs/2601.19484)|null|
+|**2026-01-27**|**From Observations to Events: Event-Aware World Model for Reinforcement Learning**|Zhao-Han Peng et.al.|[2601.19336](http://arxiv.org/abs/2601.19336)|null|
+|**2026-01-26**|**LLMs versus the Halting Problem: Revisiting Program Termination Prediction**|Oren Sultan et.al.|[2601.18987](http://arxiv.org/abs/2601.18987)|null|
 |**2026-01-26**|**CASSANDRA: Programmatic and Probabilistic Learning and Inference for Stochastic World Modeling**|Panagiotis Lymperopoulos et.al.|[2601.18620](http://arxiv.org/abs/2601.18620)|null|
 |**2026-01-26**|**TC-IDM: Grounding Video Generation for Executable Zero-shot Robot Motion**|Weishi Mi et.al.|[2601.18323](http://arxiv.org/abs/2601.18323)|null|
 |**2026-01-26**|**Beyond Static Datasets: Robust Offline Policy Optimization via Vetted Synthetic Transitions**|Pedram Agand et.al.|[2601.18107](http://arxiv.org/abs/2601.18107)|null|
@@ -437,6 +444,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**EgoHandICL: Egocentric 3D Hand Reconstruction with In-Context Learning**|Binzhu Xie et.al.|[2601.19850](http://arxiv.org/abs/2601.19850)|null|
+|**2026-01-27**|**Youtu-VL: Unleashing Visual Potential via Unified Vision-Language Supervision**|Zhixiang Wei et.al.|[2601.19798](http://arxiv.org/abs/2601.19798)|null|
+|**2026-01-27**|**Physics-Aware Novel-View Acoustic Synthesis with Vision-Language Priors and 3D Acoustic Environment Modeling**|Congyi Fan et.al.|[2601.19712](http://arxiv.org/abs/2601.19712)|null|
+|**2026-01-27**|**KeepLoRA: Continual Learning with Residual Gradient Adaptation**|Mao-Lin Luo et.al.|[2601.19659](http://arxiv.org/abs/2601.19659)|null|
+|**2026-01-27**|**ScenePilot-Bench: A Large-Scale Dataset and Benchmark for Evaluation of Vision-Language Models in Autonomous Driving**|Yujin Wang et.al.|[2601.19582](http://arxiv.org/abs/2601.19582)|null|
+|**2026-01-27**|**Automated Safety Benchmarking: A Multi-agent Pipeline for LVLMs**|Xiangyang Zhu et.al.|[2601.19507](http://arxiv.org/abs/2601.19507)|null|
+|**2026-01-27**|**From Internal Diagnosis to External Auditing: A VLM-Driven Paradigm for Online Test-Time Backdoor Defense**|Binyan Xu et.al.|[2601.19448](http://arxiv.org/abs/2601.19448)|null|
+|**2026-01-27**|**RoamScene3D: Immersive Text-to-3D Scene Generation via Adaptive Object-aware Roaming**|Jisheng Chu et.al.|[2601.19433](http://arxiv.org/abs/2601.19433)|null|
+|**2026-01-27**|**Gazeify Then Voiceify: Physical Object Referencing Through Gaze and Voice Interaction with Displayless Smart Glasses**|Zheng Zhang et.al.|[2601.19281](http://arxiv.org/abs/2601.19281)|null|
+|**2026-01-27**|**GhostUI: Unveiling Hidden Interactions in Mobile UI**|Minkyu Kweon et.al.|[2601.19258](http://arxiv.org/abs/2601.19258)|null|
+|**2026-01-27**|**UniMGS: Unifying Mesh and 3D Gaussian Splatting with Single-Pass Rasterization and Proxy-Based Deformation**|Zeyu Xiao et.al.|[2601.19233](http://arxiv.org/abs/2601.19233)|null|
+|**2026-01-27**|**Contrastive Spectral Rectification: Test-Time Defense towards Zero-shot Adversarial Robustness of CLIP**|Sen Nie et.al.|[2601.19210](http://arxiv.org/abs/2601.19210)|null|
+|**2026-01-27**|**MATA: A Trainable Hierarchical Automaton System for Multi-Agent Visual Reasoning**|Zhixi Cai et.al.|[2601.19204](http://arxiv.org/abs/2601.19204)|null|
+|**2026-01-27**|**Before Smelling the Video: A Two-Stage Pipeline for Interpretable Video-to-Scent Plans**|Kaicheng Wang et.al.|[2601.19203](http://arxiv.org/abs/2601.19203)|null|
+|**2026-01-27**|**Do Images Speak Louder than Words? Investigating the Effect of Textual Misinformation in VLMs**|Chi Zhang et.al.|[2601.19202](http://arxiv.org/abs/2601.19202)|null|
+|**2026-01-27**|**m2sv: A Scalable Benchmark for Map-to-Street-View Spatial Reasoning**|Yosub Shin et.al.|[2601.19099](http://arxiv.org/abs/2601.19099)|null|
 |**2026-01-26**|**Goal-oriented Communication for Fast and Robust Robotic Fault Detection and Recovery**|Shutong Chen et.al.|[2601.18765](http://arxiv.org/abs/2601.18765)|null|
 |**2026-01-26**|**Why Keep Your Doubts to Yourself? Trading Visual Uncertainties in Multi-Agent Bandit Systems**|Jusheng Zhang et.al.|[2601.18735](http://arxiv.org/abs/2601.18735)|null|
 |**2026-01-26**|**Advances and Innovations in the Multi-Agent Robotic System (MARS) Challenge**|Li Kang et.al.|[2601.18733](http://arxiv.org/abs/2601.18733)|null|
@@ -1249,11 +1272,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**Entropy-Guided k-Guard Sampling for Long-Horizon Autoregressive Video Generation**|Yizhao Han et.al.|[2601.19488](http://arxiv.org/abs/2601.19488)|null|
+|**2026-01-27**|**VC-Bench: Pioneering the Video Connecting Benchmark with a Dataset and Evaluation Metrics**|Zhiyu Yin et.al.|[2601.19236](http://arxiv.org/abs/2601.19236)|null|
+|**2026-01-27**|**MV-S2V: Multi-View Subject-Consistent Video Generation**|Ziyang Song et.al.|[2601.17756](http://arxiv.org/abs/2601.17756)|null|
+|**2026-01-27**|**The Script is All You Need: An Agentic Framework for Long-Horizon Dialogue-to-Cinematic Video Generation**|Chenyu Mu et.al.|[2601.17737](http://arxiv.org/abs/2601.17737)|null|
+|**2026-01-26**|**FreeOrbit4D: Training-Free Arbitrary Camera Redirection for Monocular Videos via Geometry-Complete 4D Reconstruction**|Wei Cao et.al.|[2601.18993](http://arxiv.org/abs/2601.18993)|null|
 |**2026-01-26**|**Are Video Generation Models Geographically Fair? An Attraction-Centric Evaluation of Global Visual Knowledge**|Xiao Liu et.al.|[2601.18698](http://arxiv.org/abs/2601.18698)|null|
 |**2026-01-26**|**Self-Refining Video Sampling**|Sangwon Jang et.al.|[2601.18577](http://arxiv.org/abs/2601.18577)|null|
 |**2026-01-26**|**TC-IDM: Grounding Video Generation for Executable Zero-shot Robot Motion**|Weishi Mi et.al.|[2601.18323](http://arxiv.org/abs/2601.18323)|null|
-|**2026-01-25**|**MV-S2V: Multi-View Subject-Consistent Video Generation**|Ziyang Song et.al.|[2601.17756](http://arxiv.org/abs/2601.17756)|null|
-|**2026-01-25**|**The Script is All You Need: An Agentic Framework for Long-Horizon Dialogue-to-Cinematic Video Generation**|Chenyu Mu et.al.|[2601.17737](http://arxiv.org/abs/2601.17737)|null|
 |**2026-01-24**|**SkyReels-V3 Technique Report**|Debang Li et.al.|[2601.17323](http://arxiv.org/abs/2601.17323)|null|
 |**2026-01-23**|**AnyView: Synthesizing Any Novel View in Dynamic Scenes**|Basile Van Hoorick et.al.|[2601.16982](http://arxiv.org/abs/2601.16982)|null|
 |**2026-01-23**|**Reward-Forcing: Autoregressive Video Generation with Reward Feedback**|Jingran Zhang et.al.|[2601.16933](http://arxiv.org/abs/2601.16933)|null|
