@@ -3,7 +3,7 @@ layout: default
 ---
 
 # World Model and Embodied AI arxiv Papers
-### Updated on 2026.01.28
+### Updated on 2026.01.29
 <details>
 
 <summary> 1-World Model </summary>
@@ -12,13 +12,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**Advancing Open-source World Models**|Robbyant Team et.al.|[2601.20540](http://arxiv.org/abs/2601.20540)|null|
+|**2026-01-28**|**PathWise: Planning through World Model for Automated Heuristic Design via Self-Evolving LLMs**|Oguzhan Gungordu et.al.|[2601.20539](http://arxiv.org/abs/2601.20539)|null|
+|**2026-01-28**|**LLMs versus the Halting Problem: Revisiting Program Termination Prediction**|Oren Sultan et.al.|[2601.18987](http://arxiv.org/abs/2601.18987)|null|
+|**2026-01-27**|**Distributional value gradients for stochastic environments**|Baptiste Debes et.al.|[2601.20071](http://arxiv.org/abs/2601.20071)|null|
 |**2026-01-27**|**HARMONI: Multimodal Personalization of Multi-User Human-Robot Interactions with LLMs**|Jeanne Malécot et.al.|[2601.19839](http://arxiv.org/abs/2601.19839)|null|
 |**2026-01-27**|**Visual Generation Unlocks Human-Like Reasoning through Multimodal World Models**|Jialong Wu et.al.|[2601.19834](http://arxiv.org/abs/2601.19834)|null|
 |**2026-01-27**|**Comment on "Multidimensional arrow of time" (arXiv:2601.14134)**|Andrei Galiautdinov et.al.|[2601.19819](http://arxiv.org/abs/2601.19819)|null|
 |**2026-01-27**|**Agentic Design Patterns: A System-Theoretic Framework**|Minh-Dung Dao et.al.|[2601.19752](http://arxiv.org/abs/2601.19752)|null|
 |**2026-01-27**|**Dynamic Worlds, Dynamic Humans: Generating Virtual Human-Scene Interaction Motion in Dynamic Scenes**|Yin Wang et.al.|[2601.19484](http://arxiv.org/abs/2601.19484)|null|
 |**2026-01-27**|**From Observations to Events: Event-Aware World Model for Reinforcement Learning**|Zhao-Han Peng et.al.|[2601.19336](http://arxiv.org/abs/2601.19336)|null|
-|**2026-01-26**|**LLMs versus the Halting Problem: Revisiting Program Termination Prediction**|Oren Sultan et.al.|[2601.18987](http://arxiv.org/abs/2601.18987)|null|
 |**2026-01-26**|**CASSANDRA: Programmatic and Probabilistic Learning and Inference for Stochastic World Modeling**|Panagiotis Lymperopoulos et.al.|[2601.18620](http://arxiv.org/abs/2601.18620)|null|
 |**2026-01-26**|**TC-IDM: Grounding Video Generation for Executable Zero-shot Robot Motion**|Weishi Mi et.al.|[2601.18323](http://arxiv.org/abs/2601.18323)|null|
 |**2026-01-26**|**Beyond Static Datasets: Robust Offline Policy Optimization via Vetted Synthetic Transitions**|Pedram Agand et.al.|[2601.18107](http://arxiv.org/abs/2601.18107)|null|
@@ -444,6 +447,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**Open-Vocabulary Functional 3D Human-Scene Interaction Generation**|Jie Liu et.al.|[2601.20835](http://arxiv.org/abs/2601.20835)|null|
+|**2026-01-28**|**MemCtrl: Using MLLMs as Active Memory Controllers on Embodied Agents**|Vishnu Sashank Dorbala et.al.|[2601.20831](http://arxiv.org/abs/2601.20831)|null|
+|**2026-01-28**|**Compression Tells Intelligence: Visual Coding, Visual Token Technology, and the Unification**|Xin Jin et.al.|[2601.20742](http://arxiv.org/abs/2601.20742)|null|
+|**2026-01-28**|**bi-modal textual prompt learning for vision-language models in remote sensing**|Pankhi Kashyap et.al.|[2601.20675](http://arxiv.org/abs/2601.20675)|null|
+|**2026-01-28**|**Investigating the Development of Task-Oriented Communication in Vision-Language Models**|Boaz Carmeli et.al.|[2601.20641](http://arxiv.org/abs/2601.20641)|null|
+|**2026-01-28**|**SketchDynamics: Exploring Free-Form Sketches for Dynamic Intent Expression in Animation Generation**|Boyu Li et.al.|[2601.20622](http://arxiv.org/abs/2601.20622)|null|
+|**2026-01-28**|**DeepSeek-OCR 2: Visual Causal Flow**|Haoran Wei et.al.|[2601.20552](http://arxiv.org/abs/2601.20552)|null|
+|**2026-01-28**|**AnomalyVFM -- Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors**|Matic Fučka et.al.|[2601.20524](http://arxiv.org/abs/2601.20524)|null|
+|**2026-01-28**|**MARE: Multimodal Alignment and Reinforcement for Explainable Deepfake Detection via Vision-Language Models**|Wenbo Xu et.al.|[2601.20433](http://arxiv.org/abs/2601.20433)|null|
+|**2026-01-28**|**Let's Roll a BiFTA: Bi-refinement for Fine-grained Text-visual Alignment in Vision-Language Models**|Yuhao Sun et.al.|[2601.20419](http://arxiv.org/abs/2601.20419)|null|
+|**2026-01-28**|**RF-MatID: Dataset and Benchmark for Radio Frequency Material Identification**|Xinyan Chen et.al.|[2601.20377](http://arxiv.org/abs/2601.20377)|null|
+|**2026-01-28**|**TABED: Test-Time Adaptive Ensemble Drafting for Robust Speculative Decoding in LVLMs**|Minjae Lee et.al.|[2601.20357](http://arxiv.org/abs/2601.20357)|null|
+|**2026-01-28**|**Demonstration-Free Robotic Control via LLM Agents**|Brian Y. Tsui et.al.|[2601.20334](http://arxiv.org/abs/2601.20334)|null|
+|**2026-01-28**|**Physically Guided Visual Mass Estimation from a Single RGB Image**|Sungjae Lee et.al.|[2601.20303](http://arxiv.org/abs/2601.20303)|null|
+|**2026-01-28**|**Hallucination Begins Where Saliency Drops**|Xiaofeng Zhang et.al.|[2601.20279](http://arxiv.org/abs/2601.20279)|null|
+|**2026-01-27**|**Look in the Middle: Structural Anchor Pruning for Scalable Visual RAG Indexing**|Zhuchenyang Liu et.al.|[2601.20107](http://arxiv.org/abs/2601.20107)|null|
+|**2026-01-27**|**Quantization-Aware Distillation for NVFP4 Inference Accuracy Recovery**|Meng Xin et.al.|[2601.20088](http://arxiv.org/abs/2601.20088)|null|
+|**2026-01-27**|**Sparse CLIP: Co-Optimizing Interpretability and Performance in Contrastive Learning**|Chuan Qin et.al.|[2601.20075](http://arxiv.org/abs/2601.20075)|null|
+|**2026-01-27**|**DiSa: Saliency-Aware Foreground-Background Disentangled Framework for Open-Vocabulary Semantic Segmentation**|Zhen Yao et.al.|[2601.20064](http://arxiv.org/abs/2601.20064)|null|
 |**2026-01-27**|**EgoHandICL: Egocentric 3D Hand Reconstruction with In-Context Learning**|Binzhu Xie et.al.|[2601.19850](http://arxiv.org/abs/2601.19850)|null|
 |**2026-01-27**|**Youtu-VL: Unleashing Visual Potential via Unified Vision-Language Supervision**|Zhixiang Wei et.al.|[2601.19798](http://arxiv.org/abs/2601.19798)|null|
 |**2026-01-27**|**Physics-Aware Novel-View Acoustic Synthesis with Vision-Language Priors and 3D Acoustic Environment Modeling**|Congyi Fan et.al.|[2601.19712](http://arxiv.org/abs/2601.19712)|null|
@@ -1272,6 +1294,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**FAIRT2V: Training-Free Debiasing for Text-to-Video Diffusion Models**|Haonan Zhong et.al.|[2601.20791](http://arxiv.org/abs/2601.20791)|null|
+|**2026-01-28**|**OnePiece: A Large-Scale Distributed Inference System with RDMA for Complex AI-Generated Content (AIGC) Workflows**|June Chen et.al.|[2601.20655](http://arxiv.org/abs/2601.20655)|null|
+|**2026-01-28**|**SketchDynamics: Exploring Free-Form Sketches for Dynamic Intent Expression in Animation Generation**|Boyu Li et.al.|[2601.20622](http://arxiv.org/abs/2601.20622)|null|
+|**2026-01-28**|**Advancing Open-source World Models**|Robbyant Team et.al.|[2601.20540](http://arxiv.org/abs/2601.20540)|null|
+|**2026-01-28**|**Latent Temporal Discrepancy as Motion Prior: A Loss-Weighting Strategy for Dynamic Fidelity in T2V**|Meiqi Wu et.al.|[2601.20504](http://arxiv.org/abs/2601.20504)|null|
+|**2026-01-28**|**Efficient Autoregressive Video Diffusion with Dummy Head**|Hang Guo et.al.|[2601.20499](http://arxiv.org/abs/2601.20499)|null|
+|**2026-01-28**|**Artifact-Aware Evaluation for High-Quality Video Generation**|Chen Zhu et.al.|[2601.20297](http://arxiv.org/abs/2601.20297)|null|
+|**2026-01-28**|**StreamFusion: Scalable Sequence Parallelism for Distributed Inference of Diffusion Transformers on GPUs**|Jiacheng Yang et.al.|[2601.20273](http://arxiv.org/abs/2601.20273)|null|
 |**2026-01-27**|**Entropy-Guided k-Guard Sampling for Long-Horizon Autoregressive Video Generation**|Yizhao Han et.al.|[2601.19488](http://arxiv.org/abs/2601.19488)|null|
 |**2026-01-27**|**VC-Bench: Pioneering the Video Connecting Benchmark with a Dataset and Evaluation Metrics**|Zhiyu Yin et.al.|[2601.19236](http://arxiv.org/abs/2601.19236)|null|
 |**2026-01-27**|**MV-S2V: Multi-View Subject-Consistent Video Generation**|Ziyang Song et.al.|[2601.17756](http://arxiv.org/abs/2601.17756)|null|
