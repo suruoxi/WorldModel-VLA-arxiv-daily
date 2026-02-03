@@ -3,7 +3,7 @@ layout: default
 ---
 
 # World Model and Embodied AI arxiv Papers
-### Updated on 2026.02.02
+### Updated on 2026.02.03
 <details>
 
 <summary> 1-World Model </summary>
@@ -12,6 +12,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**World-Gymnast: Training Robots with Reinforcement Learning in a World Model**|Ansh Kumar Sharma et.al.|[2602.02454](http://arxiv.org/abs/2602.02454)|null|
+|**2026-02-02**|**Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory**|Ruiqi Wu et.al.|[2602.02393](http://arxiv.org/abs/2602.02393)|null|
+|**2026-02-02**|**Self-Supervised Learning from Structural Invariance**|Yipeng Zhang et.al.|[2602.02381](http://arxiv.org/abs/2602.02381)|null|
+|**2026-02-02**|**Choice-Model-Assisted Q-learning for Delayed-Feedback Revenue Management**|Owen Shen et.al.|[2602.02283](http://arxiv.org/abs/2602.02283)|null|
+|**2026-02-02**|**An Empirical Study of World Model Quantization**|Zhongqian Fu et.al.|[2602.02110](http://arxiv.org/abs/2602.02110)|null|
+|**2026-02-02**|**UniDriveDreamer: A Single-Stage Multimodal World Model for Autonomous Driving**|Guosheng Zhao et.al.|[2602.02002](http://arxiv.org/abs/2602.02002)|null|
+|**2026-02-02**|**Grounding Generated Videos in Feasible Plans via World Models**|Christos Ziakas et.al.|[2602.01960](http://arxiv.org/abs/2602.01960)|null|
+|**2026-02-02**|**Fast Autoregressive Video Diffusion and World Models with Temporal Cache Compression and Sparse Attention**|Dvir Samuel et.al.|[2602.01801](http://arxiv.org/abs/2602.01801)|null|
+|**2026-02-02**|**DDP-WM: Disentangled Dynamics Prediction for Efficient World Models**|Shicheng Yin et.al.|[2602.01780](http://arxiv.org/abs/2602.01780)|null|
+|**2026-02-02**|**SafePred: A Predictive Guardrail for Computer-Using Agents via World Models**|Yurun Chen et.al.|[2602.01725](http://arxiv.org/abs/2602.01725)|null|
+|**2026-02-02**|**From Perception to Action: Spatial AI Agents and World Models**|Gloria Felicia et.al.|[2602.01644](http://arxiv.org/abs/2602.01644)|null|
+|**2026-02-02**|**Research on World Models Is Not Merely Injecting World Knowledge into Specific Tasks**|Bohan Zeng et.al.|[2602.01630](http://arxiv.org/abs/2602.01630)|null|
+|**2026-02-02**|**Generative Visual Code Mobile World Models**|Woosung Koh et.al.|[2602.01576](http://arxiv.org/abs/2602.01576)|null|
+|**2026-02-02**|**UniDWM: Towards a Unified Driving World Model via Multifaceted Representation Learning**|Shuai Liu et.al.|[2602.01536](http://arxiv.org/abs/2602.01536)|null|
+|**2026-02-01**|**Mixture-of-World Models: Scaling Multi-Task Reinforcement Learning with Modular Latent Dynamics**|Boxuan Zhang et.al.|[2602.01270](http://arxiv.org/abs/2602.01270)|null|
+|**2026-01-31**|**World Models as an Intermediary between Agents and the Real World**|Sherry Yang et.al.|[2602.00785](http://arxiv.org/abs/2602.00785)|null|
+|**2026-01-31**|**Evolving Interpretable Constitutions for Multi-Agent Simulation**|Ujwal Kumar et.al.|[2602.00755](http://arxiv.org/abs/2602.00755)|null|
+|**2026-01-31**|**Scalable Generative Game Engine: Breaking the Resolution Wall via Hardware-Algorithm Co-Design**|Wei Zeng et.al.|[2602.00608](http://arxiv.org/abs/2602.00608)|null|
+|**2026-01-31**|**NetWorld: Communication-Based Diffusion World Model for Multi-Agent Reinforcement Learning in Wireless Networks**|Kechen Meng et.al.|[2602.00558](http://arxiv.org/abs/2602.00558)|null|
+|**2026-01-31**|**Parallel Stochastic Gradient-Based Planning for World Models**|Michael Psenka et.al.|[2602.00475](http://arxiv.org/abs/2602.00475)|null|
 |**2026-01-30**|**Test-Time Mixture of World Models for Embodied Agents in Dynamic Environments**|Jinwoo Jang et.al.|[2601.22647](http://arxiv.org/abs/2601.22647)|null|
 |**2026-01-30**|**Distributional value gradients for stochastic environments**|Baptiste Debes et.al.|[2601.20071](http://arxiv.org/abs/2601.20071)|null|
 |**2026-01-29**|**DynaWeb: Model-Based Reinforcement Learning of Web Agents**|Hang Ding et.al.|[2601.22149](http://arxiv.org/abs/2601.22149)|null|
@@ -456,6 +476,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**Relationship-Aware Hierarchical 3D Scene Graph for Task Reasoning**|Albert Gassol Puigjaner et.al.|[2602.02456](http://arxiv.org/abs/2602.02456)|null|
+|**2026-02-02**|**World-Gymnast: Training Robots with Reinforcement Learning in a World Model**|Ansh Kumar Sharma et.al.|[2602.02454](http://arxiv.org/abs/2602.02454)|null|
+|**2026-02-02**|**ReasonEdit: Editing Vision-Language Models using Human Reasoning**|Jiaxing Qiu et.al.|[2602.02408](http://arxiv.org/abs/2602.02408)|null|
+|**2026-02-02**|**LongVPO: From Anchored Cues to Self-Reasoning for Long-Form Video Preference Optimization**|Zhenpeng Huang et.al.|[2602.02341](http://arxiv.org/abs/2602.02341)|null|
+|**2026-02-02**|**See2Refine: Vision-Language Feedback Improves LLM-Based eHMI Action Designers**|Ding Xia et.al.|[2602.02063](http://arxiv.org/abs/2602.02063)|null|
+|**2026-02-02**|**Auto-Comp: An Automated Pipeline for Scalable Compositional Probing of Contrastive Vision-Language Models**|Cristian Sbrolli et.al.|[2602.02043](http://arxiv.org/abs/2602.02043)|null|
+|**2026-02-02**|**Rethinking Genomic Modeling Through Optical Character Recognition**|Hongxin Xiang et.al.|[2602.02014](http://arxiv.org/abs/2602.02014)|null|
+|**2026-02-02**|**Enhancing Multi-Image Understanding through Delimiter Token Scaling**|Minyoung Lee et.al.|[2602.01984](http://arxiv.org/abs/2602.01984)|null|
+|**2026-02-02**|**VLM-Guided Experience Replay**|Elad Sharony et.al.|[2602.01915](http://arxiv.org/abs/2602.01915)|null|
+|**2026-02-02**|**Efficient Cross-Country Data Acquisition Strategy for ADAS via Street-View Imagery**|Yin Wu et.al.|[2602.01836](http://arxiv.org/abs/2602.01836)|null|
+|**2026-02-02**|**From Knowing to Doing Precisely: A General Self-Correction and Termination Framework for VLA models**|Wentao Zhang et.al.|[2602.01811](http://arxiv.org/abs/2602.01811)|null|
+|**2026-02-02**|**CodeOCR: On the Effectiveness of Vision Language Models in Code Understanding**|Yuling Shi et.al.|[2602.01785](http://arxiv.org/abs/2602.01785)|null|
+|**2026-02-02**|**Simplicity Prevails: The Emergence of Generalizable AIGI Detection in Visual Foundation Models**|Yue Zhou et.al.|[2602.01738](http://arxiv.org/abs/2602.01738)|null|
+|**2026-02-02**|**GSR: Learning Structured Reasoning for Embodied Manipulation**|Kewei Hu et.al.|[2602.01693](http://arxiv.org/abs/2602.01693)|null|
+|**2026-02-02**|**AgenticLab: A Real-World Robot Agent Platform that Can See, Think, and Act**|Pengyuan Guo et.al.|[2602.01662](http://arxiv.org/abs/2602.01662)|null|
+|**2026-02-02**|**From Perception to Action: Spatial AI Agents and World Models**|Gloria Felicia et.al.|[2602.01644](http://arxiv.org/abs/2602.01644)|null|
+|**2026-02-02**|**ReCALL: Recalibrating Capability Degradation for MLLM-based Composed Image Retrieval**|Tianyu Yang et.al.|[2602.01639](http://arxiv.org/abs/2602.01639)|null|
+|**2026-02-02**|**PISCES: Annotation-free Text-to-Video Post-Training via Optimal Transport-Aligned Rewards**|Minh-Quan Le et.al.|[2602.01624](http://arxiv.org/abs/2602.01624)|null|
+|**2026-02-02**|**Generative Visual Code Mobile World Models**|Woosung Koh et.al.|[2602.01576](http://arxiv.org/abs/2602.01576)|null|
+|**2026-02-02**|**SGHA-Attack: Semantic-Guided Hierarchical Alignment for Transferable Targeted Attacks on Vision-Language Models**|Haobo Wang et.al.|[2602.01574](http://arxiv.org/abs/2602.01574)|null|
 |**2026-01-30**|**User Prompting Strategies and Prompt Enhancement Methods for Open-Set Object Detection in XR Environments**|Junfeng Lin et.al.|[2601.23281](http://arxiv.org/abs/2601.23281)|null|
 |**2026-01-30**|**Training-Free Test-Time Adaptation with Brownian Distance Covariance in Vision-Language Models**|Yi Zhang et.al.|[2601.23253](http://arxiv.org/abs/2601.23253)|null|
 |**2026-01-30**|**Structured Over Scale: Learning Spatial Reasoning from Educational Video**|Bishoy Galoaa et.al.|[2601.23251](http://arxiv.org/abs/2601.23251)|null|
@@ -1343,12 +1383,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**Unified Personalized Reward Model for Vision Generation**|Yibin Wang et.al.|[2602.02380](http://arxiv.org/abs/2602.02380)|null|
+|**2026-02-02**|**Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation**|Hongzhou Zhu et.al.|[2602.02214](http://arxiv.org/abs/2602.02214)|null|
+|**2026-02-02**|**Grounding Generated Videos in Feasible Plans via World Models**|Christos Ziakas et.al.|[2602.01960](http://arxiv.org/abs/2602.01960)|null|
+|**2026-02-02**|**GPD: Guided Progressive Distillation for Fast and High-Quality Video Generation**|Xiao Liang et.al.|[2602.01814](http://arxiv.org/abs/2602.01814)|null|
+|**2026-02-02**|**PISCES: Annotation-free Text-to-Video Post-Training via Optimal Transport-Aligned Rewards**|Minh-Quan Le et.al.|[2602.01624](http://arxiv.org/abs/2602.01624)|null|
+|**2026-02-02**|**Omni-Judge: Can Omni-LLMs Serve as Human-Aligned Judges for Text-Conditioned Audio-Video Generation?**|Susan Liang et.al.|[2602.01623](http://arxiv.org/abs/2602.01623)|null|
+|**2026-02-02**|**Making Avatars Interact: Towards Text-Driven Human-Object Interaction for Controllable Talking Avatars**|Youliang Zhang et.al.|[2602.01538](http://arxiv.org/abs/2602.01538)|null|
+|**2026-02-02**|**Past- and Future-Informed KV Cache Policy with Salience Estimation in Autoregressive Video Diffusion**|Hanmo Chen et.al.|[2601.21896](http://arxiv.org/abs/2601.21896)|null|
+|**2026-02-02**|**MPF-Net: Exposing High-Fidelity AI-Generated Video Forgeries via Hierarchical Manifold Deviation and Micro-Temporal Fluctuations**|Xinan He et.al.|[2601.21408](http://arxiv.org/abs/2601.21408)|null|
+|**2026-02-01**|**FlowCast: Trajectory Forecasting for Scalable Zero-Cost Speculative Flow Matching**|Divya Jyoti Bajpai et.al.|[2602.01329](http://arxiv.org/abs/2602.01329)|null|
+|**2026-01-31**|**MTAVG-Bench: A Comprehensive Benchmark for Evaluating Multi-Talker Dialogue-Centric Audio-Video Generation**|Yang-Hao Zhou et.al.|[2602.00607](http://arxiv.org/abs/2602.00607)|null|
+|**2026-01-31**|**DuoGen: Towards General Purpose Interleaved Multimodal Generation**|Min Shi et.al.|[2602.00508](http://arxiv.org/abs/2602.00508)|null|
+|**2026-01-31**|**From Performers to Creators: Understanding Retired Women's Perceptions of Technology-Enhanced Dance Performance**|Danlin Zheng et.al.|[2602.00481](http://arxiv.org/abs/2602.00481)|null|
+|**2026-01-30**|**TokenTrim: Inference-Time Token Pruning for Autoregressive Long Video Generation**|Ariel Shaulov et.al.|[2602.00268](http://arxiv.org/abs/2602.00268)|null|
 |**2026-01-30**|**VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation**|Hongyang Du et.al.|[2601.23286](http://arxiv.org/abs/2601.23286)|null|
 |**2026-01-30**|**Where Do the Joules Go? Diagnosing Inference Energy Consumption**|Jae-Won Chung et.al.|[2601.22076](http://arxiv.org/abs/2601.22076)|null|
 |**2026-01-30**|**Entropy-Guided k-Guard Sampling for Long-Horizon Autoregressive Video Generation**|Yizhao Han et.al.|[2601.19488](http://arxiv.org/abs/2601.19488)|null|
+|**2026-01-29**|**Learning Physics-Grounded 4D Dynamics with Neural Gaussian Force Fields**|Shiqian Li et.al.|[2602.00148](http://arxiv.org/abs/2602.00148)|null|
 |**2026-01-29**|**Learning Transient Convective Heat Transfer with Geometry Aware World Models**|Onur T. Doganay et.al.|[2601.22086](http://arxiv.org/abs/2601.22086)|null|
-|**2026-01-29**|**Past- and Future-Informed KV Cache Policy with Salience Estimation in Autoregressive Video Diffusion**|Hanmo Chen et.al.|[2601.21896](http://arxiv.org/abs/2601.21896)|null|
-|**2026-01-29**|**MPF-Net: Exposing High-Fidelity AI-Generated Video Forgeries via Hierarchical Manifold Deviation and Micro-Temporal Fluctuations**|Xinan He et.al.|[2601.21408](http://arxiv.org/abs/2601.21408)|null|
 |**2026-01-29**|**WorldBench: Disambiguating Physics for Diagnostic Evaluation of World Models**|Rishi Upadhyay et.al.|[2601.21282](http://arxiv.org/abs/2601.21282)|null|
 |**2026-01-28**|**Thinking in Frames: How Visual Context and Test-Time Scaling Empower Video Reasoning**|Chengzu Li et.al.|[2601.21037](http://arxiv.org/abs/2601.21037)|null|
 |**2026-01-28**|**FAIRT2V: Training-Free Debiasing for Text-to-Video Diffusion Models**|Haonan Zhong et.al.|[2601.20791](http://arxiv.org/abs/2601.20791)|null|
