@@ -3,7 +3,7 @@ layout: default
 ---
 
 # World Model and Embodied AI arxiv Papers
-### Updated on 2026.02.04
+### Updated on 2026.02.05
 <details>
 
 <summary> 1-World Model </summary>
@@ -12,6 +12,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**Safe Urban Traffic Control via Uncertainty-Aware Conformal Prediction and World-Model Reinforcement Learning**|Joydeep Chandra et.al.|[2602.04821](http://arxiv.org/abs/2602.04821)|null|
+|**2026-02-04**|**Dual Mind World Model Inspired Network Digital Twin for Access Scheduling**|Hrishikesh Dutta et.al.|[2602.04566](http://arxiv.org/abs/2602.04566)|null|
+|**2026-02-04**|**Language Models Struggle to Use Representations Learned In-Context**|Michael A. Lepori et.al.|[2602.04212](http://arxiv.org/abs/2602.04212)|null|
+|**2026-02-03**|**Active Epistemic Control for Query-Efficient Verified Planning**|Shuhui Qu et.al.|[2602.03974](http://arxiv.org/abs/2602.03974)|null|
 |**2026-02-03**|**BridgeV2W: Bridging Video Generation Models to Embodied World Models via Embodiment Masks**|Yixiang Chen et.al.|[2602.03793](http://arxiv.org/abs/2602.03793)|null|
 |**2026-02-03**|**LIVE: Long-horizon Interactive Video World Modeling**|Junchao Huang et.al.|[2602.03747](http://arxiv.org/abs/2602.03747)|null|
 |**2026-02-03**|**A Lightweight Library for Energy-Based Joint-Embedding Predictive Architectures**|Basile Terver et.al.|[2602.03604](http://arxiv.org/abs/2602.03604)|null|
@@ -487,6 +491,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**When LLaVA Meets Objects: Token Composition for Vision-Language-Models**|Soumya Jahagirdar et.al.|[2602.04864](http://arxiv.org/abs/2602.04864)|null|
+|**2026-02-04**|**El Agente Estructural: An Artificially Intelligent Molecular Editor**|Changhyeok Choi et.al.|[2602.04849](http://arxiv.org/abs/2602.04849)|null|
+|**2026-02-04**|**VISTA-Bench: Do Vision-Language Models Really Understand Visualized Text as Well as Pure Text?**|Qing'an Liu et.al.|[2602.04802](http://arxiv.org/abs/2602.04802)|null|
+|**2026-02-04**|**Annotation Free Spacecraft Detection and Segmentation using Vision Language Models**|Samet Hicsonmez et.al.|[2602.04699](http://arxiv.org/abs/2602.04699)|null|
+|**2026-02-04**|**AGILE: Hand-Object Interaction Reconstruction from Video via Agentic Generation**|Jin-Chuan Shi et.al.|[2602.04672](http://arxiv.org/abs/2602.04672)|null|
+|**2026-02-04**|**PIO-FVLM: Rethinking Training-Free Visual Token Reduction for VLM Acceleration from an Inference-Objective Perspective**|Haokui Zhang et.al.|[2602.04657](http://arxiv.org/abs/2602.04657)|null|
+|**2026-02-04**|**Relational Scene Graphs for Object Grounding of Natural Language Commands**|Julia Kuhn et.al.|[2602.04635](http://arxiv.org/abs/2602.04635)|null|
+|**2026-02-04**|**LEAD: Layer-wise Expert-aligned Decoding for Faithful Radiology Report Generation**|Ruixiao Yang et.al.|[2602.04617](http://arxiv.org/abs/2602.04617)|null|
+|**2026-02-04**|**VILLAIN at AVerImaTeC: Verifying Image-Text Claims via Multi-Agent Collaboration**|Jaeyoon Jung et.al.|[2602.04587](http://arxiv.org/abs/2602.04587)|null|
+|**2026-02-04**|**Understanding Degradation with Vision Language Model**|Guanzhou Lan et.al.|[2602.04565](http://arxiv.org/abs/2602.04565)|null|
+|**2026-02-04**|**EgoActor: Grounding Task Planning into Spatial-aware Egocentric Actions for Humanoid Robots via Visual-Language Models**|Yu Bai et.al.|[2602.04515](http://arxiv.org/abs/2602.04515)|null|
+|**2026-02-04**|**Self-evolving Embodied AI**|Tongtong Feng et.al.|[2602.04411](http://arxiv.org/abs/2602.04411)|null|
+|**2026-02-04**|**When and Where to Attack? Stage-wise Attention-Guided Adversarial Attack on Large Vision Language Models**|Jaehyun Kwak et.al.|[2602.04356](http://arxiv.org/abs/2602.04356)|null|
+|**2026-02-04**|**Can Vision Replace Text in Working Memory? Evidence from Spatial n-Back in Vision-Language Models**|Sichu Liang et.al.|[2602.04355](http://arxiv.org/abs/2602.04355)|null|
+|**2026-02-04**|**Explicit Uncertainty Modeling for Active CLIP Adaptation with Dual Prompt Tuning**|Qian-Wei Wang et.al.|[2602.04340](http://arxiv.org/abs/2602.04340)|null|
+|**2026-02-04**|**Fine-tuning Pre-trained Vision-Language Models in a Human-Annotation-Free Manner**|Qian-Wei Wang et.al.|[2602.04337](http://arxiv.org/abs/2602.04337)|null|
+|**2026-02-04**|**From Assumptions to Actions: Turning LLM Reasoning into Uncertainty-Aware Planning for Embodied Agents**|SeungWon Seo et.al.|[2602.04326](http://arxiv.org/abs/2602.04326)|null|
+|**2026-02-04**|**Beyond Static Cropping: Layer-Adaptive Visual Localization and Decoding Enhancement**|Zipeng Zhu et.al.|[2602.04304](http://arxiv.org/abs/2602.04304)|null|
+|**2026-02-04**|**AppleVLM: End-to-end Autonomous Driving with Advanced Perception and Planning-Enhanced Vision-Language Models**|Yuxuan Han et.al.|[2602.04256](http://arxiv.org/abs/2602.04256)|null|
+|**2026-02-04**|**Shaping Expressiveness in Robotics: The Role of Design Tools in Crafting Embodied Robot Movements**|Elisabetta Zibetti et.al.|[2602.04137](http://arxiv.org/abs/2602.04137)|null|
 |**2026-02-03**|**They Said Memes Were Harmless-We Found the Ones That Hurt: Decoding Jokes, Symbols, and Cultural References**|Sahil Tripathi et.al.|[2602.03822](http://arxiv.org/abs/2602.03822)|null|
 |**2026-02-03**|**Zero-shot large vision-language model prompting for automated bone identification in paleoradiology x-ray archives**|Owen Dong et.al.|[2602.03750](http://arxiv.org/abs/2602.03750)|null|
 |**2026-02-03**|**Edge-Optimized Vision-Language Models for Underground Infrastructure Assessment**|Johny J. Lopez et.al.|[2602.03742](http://arxiv.org/abs/2602.03742)|null|
@@ -1414,6 +1438,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**Light Forcing: Accelerating Autoregressive Video Diffusion via Sparse Attention**|Chengtao Lv et.al.|[2602.04789](http://arxiv.org/abs/2602.04789)|null|
+|**2026-02-04**|**Adaptive 1D Video Diffusion Autoencoder**|Yao Teng et.al.|[2602.04220](http://arxiv.org/abs/2602.04220)|null|
+|**2026-02-04**|**VTok: A Unified Video Tokenizer with Decoupled Spatial-Temporal Latents**|Feng Wang et.al.|[2602.04202](http://arxiv.org/abs/2602.04202)|null|
+|**2026-02-03**|**Phaedra: Learning High-Fidelity Discrete Tokenization for the Physical Science**|Levi Lingsch et.al.|[2602.03915](http://arxiv.org/abs/2602.03915)|null|
 |**2026-02-03**|**3D-Aware Implicit Motion Control for View-Adaptive Human Video Generation**|Zhixue Fang et.al.|[2602.03796](http://arxiv.org/abs/2602.03796)|null|
 |**2026-02-03**|**BridgeV2W: Bridging Video Generation Models to Embodied World Models via Embodiment Masks**|Yixiang Chen et.al.|[2602.03793](http://arxiv.org/abs/2602.03793)|null|
 |**2026-02-03**|**How do people watch AI-generated videos of physical scenes?**|Danqing Shi et.al.|[2602.03374](http://arxiv.org/abs/2602.03374)|null|
