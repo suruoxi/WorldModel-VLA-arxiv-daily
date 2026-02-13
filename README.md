@@ -1,5 +1,5 @@
 # World Model and Embodied AI arxiv Papers
-### Updated on 2026.02.12
+### Updated on 2026.02.13
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#1-world-model>1-World Model</a></li>
@@ -16,12 +16,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-12**|**The Observer Effect in World Models: Invasive Adaptation Corrupts Latent Physics**|Christian Internò et.al.|[2602.12218](http://arxiv.org/abs/2602.12218)|null|
+|**2026-02-12**|**LDA-1B: Scaling Latent Dynamics Action Model via Universal Embodied Data Ingestion**|Jiangran Lyu et.al.|[2602.12215](http://arxiv.org/abs/2602.12215)|null|
+|**2026-02-12**|**GigaBrain-0.5M*: a VLA That Learns From World Model-Based Reinforcement Learning**|GigaBrain Team et.al.|[2602.12099](http://arxiv.org/abs/2602.12099)|null|
+|**2026-02-12**|**VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model**|Yanjiang Guo et.al.|[2602.12063](http://arxiv.org/abs/2602.12063)|null|
+|**2026-02-12**|**Accelerating Robotic Reinforcement Learning with Agent Guidance**|Haojun Chen et.al.|[2602.11978](http://arxiv.org/abs/2602.11978)|null|
+|**2026-02-12**|**Where Bits Matter in World Model Planning: A Paired Mixed-Bit Study for Efficient Spatial Reasoning**|Suraj Ranganath et.al.|[2602.11882](http://arxiv.org/abs/2602.11882)|null|
+|**2026-02-12**|**HAIC: Humanoid Agile Object Interaction Control via Dynamics-Aware World Model**|Dongting Li et.al.|[2602.11758](http://arxiv.org/abs/2602.11758)|null|
+|**2026-02-12**|**Code2Worlds: Empowering Coding LLMs for 4D World Generation**|Yi Zhang et.al.|[2602.11757](http://arxiv.org/abs/2602.11757)|null|
+|**2026-02-12**|**Budget-Constrained Agentic Large Language Models: Intention-Based Planning for Costly Tool Use**|Hanbing Liu et.al.|[2602.11541](http://arxiv.org/abs/2602.11541)|null|
+|**2026-02-12**|**Scaling World Model for Hierarchical Manipulation Policies**|Qian Long et.al.|[2602.10983](http://arxiv.org/abs/2602.10983)|null|
+|**2026-02-12**|**Neuro-Symbolic Synergy for Interactive World Modeling**|Hongyu Zhao et.al.|[2602.10480](http://arxiv.org/abs/2602.10480)|null|
+|**2026-02-11**|**Causal-JEPA: Learning World Models through Object-Level Latent Interventions**|Heejeong Nam et.al.|[2602.11389](http://arxiv.org/abs/2602.11389)|null|
+|**2026-02-11**|**H-WM: Robotic Task and Motion Planning Guided by Hierarchical World Model**|Wenyuan Chen et.al.|[2602.11291](http://arxiv.org/abs/2602.11291)|null|
 |**2026-02-11**|**RISE: Self-Improving Robot Policy with Compositional World Model**|Jiazhi Yang et.al.|[2602.11075](http://arxiv.org/abs/2602.11075)|null|
 |**2026-02-11**|**ContactGaussian-WM: Learning Physics-Grounded World Model from Videos**|Meizhong Wang et.al.|[2602.11021](http://arxiv.org/abs/2602.11021)|null|
-|**2026-02-11**|**Scaling World Model for Hierarchical Manipulation Policies**|Qian Long et.al.|[2602.10983](http://arxiv.org/abs/2602.10983)|null|
 |**2026-02-11**|**ResWorld: Temporal Residual World Model for End-to-End Autonomous Driving**|Jinqing Zhang et.al.|[2602.10884](http://arxiv.org/abs/2602.10884)|null|
 |**2026-02-11**|**Say, Dream, and Act: Learning Video World Models for Instruction-Driven Robot Manipulation**|Songen Gu et.al.|[2602.10717](http://arxiv.org/abs/2602.10717)|null|
-|**2026-02-11**|**Neuro-Symbolic Synergy for Interactive World Modeling**|Hongyu Zhao et.al.|[2602.10480](http://arxiv.org/abs/2602.10480)|null|
 |**2026-02-11**|**Affordances Enable Partial World Modeling with LLMs**|Khimya Khetarpal et.al.|[2602.10390](http://arxiv.org/abs/2602.10390)|null|
 |**2026-02-11**|**Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning**|Zhaoyang Wang et.al.|[2602.10090](http://arxiv.org/abs/2602.10090)|null|
 |**2026-02-11**|**WorldArena: A Unified Benchmark for Evaluating Perception and Functional Utility of Embodied World Models**|Yu Shang et.al.|[2602.08971](http://arxiv.org/abs/2602.08971)|null|
@@ -523,7 +534,7 @@
 |**2025-11-19**|**Zero-Shot Open-Vocabulary Human Motion Grounding with Test-Time Training**|Yunjiao Zhou et.al.|[2511.15379](http://arxiv.org/abs/2511.15379)|null|
 |**2025-11-19**|**Towards Evolutionary Optimization Using the Ising Model**|Simon Klüttermann et.al.|[2511.15377](http://arxiv.org/abs/2511.15377)|null|
 
-</details><p align=right>(<a href=#updated-on-20260212>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260213>back to top</a>)</p>
 
 <details>
 
@@ -533,8 +544,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-12**|**Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment**|Jacky Kwok et.al.|[2602.12281](http://arxiv.org/abs/2602.12281)|null|
+|**2026-02-12**|**ExStrucTiny: A Benchmark for Schema-Variable Structured Information Extraction from Document Images**|Mathieu Sibue et.al.|[2602.12203](http://arxiv.org/abs/2602.12203)|null|
+|**2026-02-12**|**3DGSNav: Enhancing Vision-Language Model Reasoning for Object Navigation via Active 3D Gaussian Splatting**|Wancai Zheng et.al.|[2602.12159](http://arxiv.org/abs/2602.12159)|null|
+|**2026-02-12**|**Embodied AI Agents for Team Collaboration in Co-located Blue-Collar Work**|Kaisa Vaananen et.al.|[2602.12136](http://arxiv.org/abs/2602.12136)|null|
+|**2026-02-12**|**Affordance-Graphed Task Worlds: Self-Evolving Task Generation for Scalable Embodied Learning**|Xiang Liu et.al.|[2602.12065](http://arxiv.org/abs/2602.12065)|null|
+|**2026-02-12**|**Can Local Vision-Language Models improve Activity Recognition over Vision Transformers? -- Case Study on Newborn Resuscitation**|Enrico Guerriero et.al.|[2602.12002](http://arxiv.org/abs/2602.12002)|null|
+|**2026-02-12**|**Benchmarking Vision-Language Models for French PDF-to-Markdown Conversion**|Bruno Rigal et.al.|[2602.11960](http://arxiv.org/abs/2602.11960)|null|
+|**2026-02-12**|**Are Two LLMs Better Than One? A Student-Teacher Dual-Head LLMs Architecture for Pharmaceutical Content Optimization**|Suyash Mishra et.al.|[2602.11957](http://arxiv.org/abs/2602.11957)|null|
+|**2026-02-12**|**LAMP: Implicit Language Map for Robot Navigation**|Sibaek Lee et.al.|[2602.11862](http://arxiv.org/abs/2602.11862)|null|
+|**2026-02-12**|**JEPA-VLA: Video Predictive Embedding is Needed for VLA Models**|Shangchen Miao et.al.|[2602.11832](http://arxiv.org/abs/2602.11832)|null|
+|**2026-02-12**|**Revis: Sparse Latent Steering to Mitigate Object Hallucination in Large Vision-Language Models**|Jialin Wu et.al.|[2602.11824](http://arxiv.org/abs/2602.11824)|null|
+|**2026-02-12**|**Adaptive Debiasing Tsallis Entropy for Test-Time Adaptation**|Xiangyu Wu et.al.|[2602.11743](http://arxiv.org/abs/2602.11743)|null|
+|**2026-02-12**|**Adapting Vision-Language Models for E-commerce Understanding at Scale**|Matteo Nulli et.al.|[2602.11733](http://arxiv.org/abs/2602.11733)|null|
+|**2026-02-12**|**STVG-R1: Incentivizing Instance-Level Reasoning and Grounding in Videos via Reinforcement Learning**|Xiaowen Zhang et.al.|[2602.11730](http://arxiv.org/abs/2602.11730)|null|
+|**2026-02-12**|**ScalSelect: Scalable Training-Free Multimodal Data Selection for Efficient Visual Instruction Tuning**|Changti Wu et.al.|[2602.11636](http://arxiv.org/abs/2602.11636)|null|
+|**2026-02-12**|**SkillRater: Untangling Capabilities in Multimodal Data**|Naveen Sahi et.al.|[2602.11615](http://arxiv.org/abs/2602.11615)|null|
+|**2026-02-12**|**Chatting with Images for Introspective Visual Thinking**|Junfei Wu et.al.|[2602.11073](http://arxiv.org/abs/2602.11073)|null|
+|**2026-02-11**|**Hierarchical Concept Embedding & Pursuit for Interpretable Image Classification**|Nghia Nguyen et.al.|[2602.11448](http://arxiv.org/abs/2602.11448)|null|
+|**2026-02-11**|**Active Zero: Self-Evolving Vision-Language Models through Active Environment Exploration**|Jinghan He et.al.|[2602.11241](http://arxiv.org/abs/2602.11241)|null|
 |**2026-02-11**|**Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling**|Gongye Liu et.al.|[2602.11146](http://arxiv.org/abs/2602.11146)|null|
-|**2026-02-11**|**Chatting with Images for Introspective Visual Thinking**|Junfei Wu et.al.|[2602.11073](http://arxiv.org/abs/2602.11073)|null|
 |**2026-02-11**|**Safe mobility support system using crowd mapping and avoidance route planning using VLM**|Sena Saito et.al.|[2602.10910](http://arxiv.org/abs/2602.10910)|null|
 |**2026-02-11**|**Interactive LLM-assisted Curriculum Learning for Multi-Task Evolutionary Policy Search**|Berfin Sakallioglu et.al.|[2602.10891](http://arxiv.org/abs/2602.10891)|null|
 |**2026-02-11**|**Chart Specification: Structural Representations for Incentivizing VLM Reasoning in Chart-to-Code Generation**|Minggui He et.al.|[2602.10880](http://arxiv.org/abs/2602.10880)|null|
@@ -1565,7 +1594,7 @@
 |**2025-11-19**|**Context Cascade Compression: Exploring the Upper Limits of Text Compression**|Fanfan Liu et.al.|[2511.15244](http://arxiv.org/abs/2511.15244)|null|
 |**2025-11-19**|**SkinGPT-R1: Adapter-Only Dual Distillation for Efficient Dermatology Reasoning**|Yuhao Shen et.al.|[2511.15242](http://arxiv.org/abs/2511.15242)|null|
 
-</details><p align=right>(<a href=#updated-on-20260212>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260213>back to top</a>)</p>
 
 <details>
 
@@ -1575,6 +1604,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-12**|**MonarchRT: Efficient Attention for Real-Time Video Generation**|Krish Agarwal et.al.|[2602.12271](http://arxiv.org/abs/2602.12271)|null|
+|**2026-02-12**|**DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation**|Xu Guo et.al.|[2602.12160](http://arxiv.org/abs/2602.12160)|null|
+|**2026-02-12**|**FAIL: Flow Matching Adversarial Imitation Learning for Image Generation**|Yeyao Ma et.al.|[2602.12155](http://arxiv.org/abs/2602.12155)|null|
+|**2026-02-12**|**HLA: Hadamard Linear Attention**|Hanno Ackermann et.al.|[2602.12128](http://arxiv.org/abs/2602.12128)|null|
+|**2026-02-12**|**VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model**|Yanjiang Guo et.al.|[2602.12063](http://arxiv.org/abs/2602.12063)|null|
+|**2026-02-12**|**Beyond End-to-End Video Models: An LLM-Based Multi-Agent System for Educational Video Generation**|Lingyong Yan et.al.|[2602.11790](http://arxiv.org/abs/2602.11790)|null|
+|**2026-02-12**|**LUVE : Latent-Cascaded Ultra-High-Resolution Video Generation with Dual Frequency Experts**|Chen Zhao et.al.|[2602.11564](http://arxiv.org/abs/2602.11564)|null|
+|**2026-02-11**|**H-WM: Robotic Task and Motion Planning Guided by Hierarchical World Model**|Wenyuan Chen et.al.|[2602.11291](http://arxiv.org/abs/2602.11291)|null|
 |**2026-02-11**|**FastFlow: Accelerating The Generative Flow Matching Models with Bandit Inference**|Divya Jyoti Bajpai et.al.|[2602.11105](http://arxiv.org/abs/2602.11105)|null|
 |**2026-02-11**|**Flow caching for autoregressive video generation**|Yuexiao Ma et.al.|[2602.10825](http://arxiv.org/abs/2602.10825)|null|
 |**2026-02-11**|**Say, Dream, and Act: Learning Video World Models for Instruction-Driven Robot Manipulation**|Songen Gu et.al.|[2602.10717](http://arxiv.org/abs/2602.10717)|null|
@@ -2110,7 +2147,7 @@
 |**2025-11-18**|**FlowRoI A Fast Optical Flow Driven Region of Interest Extraction Framework for High-Throughput Image Compression in Immune Cell Migration Analysis**|Xiaowei Xu et.al.|[2511.14419](http://arxiv.org/abs/2511.14419)|null|
 |**2025-11-18**|**ARC-Chapter: Structuring Hour-Long Videos into Navigable Chapters and Hierarchical Summaries**|Junfu Pu et.al.|[2511.14349](http://arxiv.org/abs/2511.14349)|null|
 
-</details><p align=right>(<a href=#updated-on-20260212>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260213>back to top</a>)</p>
 
 Notes: 
 
