@@ -1,5 +1,5 @@
 # World Model and Embodied AI arxiv Papers
-### Updated on 2026.02.15
+### Updated on 2026.02.16
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#1-world-model>1-World Model</a></li>
@@ -16,6 +16,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-13**|**Information-theoretic analysis of world models in optimal reward maximizers**|Alfred Harwood et.al.|[2602.12963](http://arxiv.org/abs/2602.12963)|null|
+|**2026-02-13**|**Self-Supervised JEPA-based World Models for LiDAR Occupancy Completion and Forecasting**|Haoran Zhu et.al.|[2602.12540](http://arxiv.org/abs/2602.12540)|null|
+|**2026-02-13**|**Multi-Agent Model-Based Reinforcement Learning with Joint State-Action Learned Embeddings**|Zhizun Wang et.al.|[2602.12520](http://arxiv.org/abs/2602.12520)|null|
+|**2026-02-12**|**Policy4OOD: A Knowledge-Guided World Model for Policy Intervention Simulation against the Opioid Overdose Crisis**|Yijun Ma et.al.|[2602.12373](http://arxiv.org/abs/2602.12373)|null|
 |**2026-02-12**|**The Observer Effect in World Models: Invasive Adaptation Corrupts Latent Physics**|Christian Internò et.al.|[2602.12218](http://arxiv.org/abs/2602.12218)|null|
 |**2026-02-12**|**LDA-1B: Scaling Latent Dynamics Action Model via Universal Embodied Data Ingestion**|Jiangran Lyu et.al.|[2602.12215](http://arxiv.org/abs/2602.12215)|null|
 |**2026-02-12**|**GigaBrain-0.5M*: a VLA That Learns From World Model-Based Reinforcement Learning**|GigaBrain Team et.al.|[2602.12099](http://arxiv.org/abs/2602.12099)|null|
@@ -534,7 +538,7 @@
 |**2025-11-19**|**Zero-Shot Open-Vocabulary Human Motion Grounding with Test-Time Training**|Yunjiao Zhou et.al.|[2511.15379](http://arxiv.org/abs/2511.15379)|null|
 |**2025-11-19**|**Towards Evolutionary Optimization Using the Ising Model**|Simon Klüttermann et.al.|[2511.15377](http://arxiv.org/abs/2511.15377)|null|
 
-</details><p align=right>(<a href=#updated-on-20260215>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260216>back to top</a>)</p>
 
 <details>
 
@@ -544,6 +548,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-13**|**Steerable Vision-Language-Action Policies for Embodied Reasoning and Hierarchical Control**|William Chen et.al.|[2602.13193](http://arxiv.org/abs/2602.13193)|null|
+|**2026-02-13**|**Quantization-Aware Collaborative Inference for Large Embodied AI Models**|Zhonghao Lyu et.al.|[2602.13052](http://arxiv.org/abs/2602.13052)|null|
+|**2026-02-13**|**Implicit-Scale 3D Reconstruction for Multi-Food Volume Estimation from Monocular Images**|Yuhao Chen et.al.|[2602.13041](http://arxiv.org/abs/2602.13041)|null|
+|**2026-02-13**|**Training-Free Acceleration for Document Parsing Vision-Language Model with Hierarchical Speculative Decoding**|Wenhui Liao et.al.|[2602.12957](http://arxiv.org/abs/2602.12957)|null|
+|**2026-02-13**|**HoRAMA: Holistic Reconstruction with Automated Material Assignment for Ray Tracing using NYURay**|Mingjun Ying et.al.|[2602.12942](http://arxiv.org/abs/2602.12942)|null|
+|**2026-02-13**|**RoadscapesQA: A Multitask, Multimodal Dataset for Visual Question Answering on Indian Roads**|Vijayasri Iyer et.al.|[2602.12877](http://arxiv.org/abs/2602.12877)|null|
+|**2026-02-13**|**Thinking Like a Radiologist: A Dataset for Anatomy-Guided Interleaved Vision Language Reasoning in Chest X-ray Interpretation**|Yichen Zhao et.al.|[2602.12843](http://arxiv.org/abs/2602.12843)|null|
+|**2026-02-13**|**X-SYS: A Reference Architecture for Interactive Explanation Systems**|Tobias Labarta et.al.|[2602.12748](http://arxiv.org/abs/2602.12748)|null|
+|**2026-02-13**|**SignScene: Visual Sign Grounding for Mapless Navigation**|Nicky Zimmerman et.al.|[2602.12686](http://arxiv.org/abs/2602.12686)|null|
+|**2026-02-13**|**Xiaomi-Robotics-0: An Open-Sourced Vision-Language-Action Model with Real-Time Execution**|Rui Cai et.al.|[2602.12684](http://arxiv.org/abs/2602.12684)|null|
+|**2026-02-13**|**IndicFairFace: Balanced Indian Face Dataset for Auditing and Mitigating Geographical Bias in Vision-Language Models**|Aarish Shah Mohsin et.al.|[2602.12659](http://arxiv.org/abs/2602.12659)|null|
+|**2026-02-13**|**PISHYAR: A Socially Intelligent Smart Cane for Indoor Social Navigation and Multimodal Human-Robot Interaction for Visually Impaired People**|Mahdi Haghighat Joo et.al.|[2602.12597](http://arxiv.org/abs/2602.12597)|null|
+|**2026-02-13**|**On Robustness and Chain-of-Thought Consistency of RL-Finetuned VLMs**|Rosie Zhao et.al.|[2602.12506](http://arxiv.org/abs/2602.12506)|null|
+|**2026-02-13**|**Layer-Specific Fine-Tuning for Improved Negation Handling in Medical Vision-Language Models**|Ali Abbasi et.al.|[2602.12498](http://arxiv.org/abs/2602.12498)|null|
+|**2026-02-12**|**Self-Refining Vision Language Model for Robotic Failure Detection and Reasoning**|Carl Qi et.al.|[2602.12405](http://arxiv.org/abs/2602.12405)|null|
+|**2026-02-12**|**What does RL improve for Visual Reasoning? A Frankenstein-Style Analysis**|Xirui Li et.al.|[2602.12395](http://arxiv.org/abs/2602.12395)|null|
+|**2026-02-12**|**Synthetic Image Detection with CLIP: Understanding and Assessing Predictive Cues**|Marco Willi et.al.|[2602.12381](http://arxiv.org/abs/2602.12381)|null|
+|**2026-02-12**|**ForeAct: Steering Your VLA with Efficient Visual Foresight Planning**|Zhuoyang Zhang et.al.|[2602.12322](http://arxiv.org/abs/2602.12322)|null|
 |**2026-02-12**|**Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment**|Jacky Kwok et.al.|[2602.12281](http://arxiv.org/abs/2602.12281)|null|
 |**2026-02-12**|**ExStrucTiny: A Benchmark for Schema-Variable Structured Information Extraction from Document Images**|Mathieu Sibue et.al.|[2602.12203](http://arxiv.org/abs/2602.12203)|null|
 |**2026-02-12**|**3DGSNav: Enhancing Vision-Language Model Reasoning for Object Navigation via Active 3D Gaussian Splatting**|Wancai Zheng et.al.|[2602.12159](http://arxiv.org/abs/2602.12159)|null|
@@ -1594,7 +1616,7 @@
 |**2025-11-19**|**Context Cascade Compression: Exploring the Upper Limits of Text Compression**|Fanfan Liu et.al.|[2511.15244](http://arxiv.org/abs/2511.15244)|null|
 |**2025-11-19**|**SkinGPT-R1: Adapter-Only Dual Distillation for Efficient Dermatology Reasoning**|Yuhao Shen et.al.|[2511.15242](http://arxiv.org/abs/2511.15242)|null|
 
-</details><p align=right>(<a href=#updated-on-20260215>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260216>back to top</a>)</p>
 
 <details>
 
@@ -1604,6 +1626,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-13**|**FlexAM: Flexible Appearance-Motion Decomposition for Versatile Video Generation Control**|Mingzhi Sheng et.al.|[2602.13185](http://arxiv.org/abs/2602.13185)|null|
+|**2026-02-13**|**SLA2: Sparse-Linear Attention with Learnable Routing and QAT**|Jintao Zhang et.al.|[2602.12675](http://arxiv.org/abs/2602.12675)|null|
+|**2026-02-13**|**Dual-Granularity Contrastive Reward via Generated Episodic Guidance for Efficient Embodied RL**|Xin Liu et.al.|[2602.12636](http://arxiv.org/abs/2602.12636)|null|
+|**2026-02-12**|**OmniCustom: Sync Audio-Video Customization Via Joint Audio-Video Generation Model**|Maomao Li et.al.|[2602.12304](http://arxiv.org/abs/2602.12304)|null|
 |**2026-02-12**|**MonarchRT: Efficient Attention for Real-Time Video Generation**|Krish Agarwal et.al.|[2602.12271](http://arxiv.org/abs/2602.12271)|null|
 |**2026-02-12**|**DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation**|Xu Guo et.al.|[2602.12160](http://arxiv.org/abs/2602.12160)|null|
 |**2026-02-12**|**FAIL: Flow Matching Adversarial Imitation Learning for Image Generation**|Yeyao Ma et.al.|[2602.12155](http://arxiv.org/abs/2602.12155)|null|
@@ -2147,7 +2173,7 @@
 |**2025-11-18**|**FlowRoI A Fast Optical Flow Driven Region of Interest Extraction Framework for High-Throughput Image Compression in Immune Cell Migration Analysis**|Xiaowei Xu et.al.|[2511.14419](http://arxiv.org/abs/2511.14419)|null|
 |**2025-11-18**|**ARC-Chapter: Structuring Hour-Long Videos into Navigable Chapters and Hierarchical Summaries**|Junfu Pu et.al.|[2511.14349](http://arxiv.org/abs/2511.14349)|null|
 
-</details><p align=right>(<a href=#updated-on-20260215>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260216>back to top</a>)</p>
 
 Notes: 
 
