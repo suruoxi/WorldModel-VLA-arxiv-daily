@@ -1,5 +1,5 @@
 # World Model and Embodied AI arxiv Papers
-### Updated on 2026.02.17
+### Updated on 2026.02.18
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#1-world-model>1-World Model</a></li>
@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-17**|**VLM-DEWM: Dynamic External World Model for Verifiable and Resilient Vision-Language Planning in Manufacturing**|Guoqin Tang et.al.|[2602.15549](http://arxiv.org/abs/2602.15549)|null|
+|**2026-02-17**|**World-Model-Augmented Web Agents with Action Correction**|Zhouzhou Shen et.al.|[2602.15384](http://arxiv.org/abs/2602.15384)|null|
 |**2026-02-16**|**Cold-Start Personalization via Training-Free Priors from Structured World Models**|Avinandan Bose et.al.|[2602.15012](http://arxiv.org/abs/2602.15012)|null|
 |**2026-02-16**|**World Models for Policy Refinement in StarCraft II**|Yixin Zhang et.al.|[2602.14857](http://arxiv.org/abs/2602.14857)|null|
 |**2026-02-16**|**WebWorld: A Large-Scale World Model for Web Agent Training**|Zikai Xiao et.al.|[2602.14721](http://arxiv.org/abs/2602.14721)|null|
@@ -546,7 +548,7 @@
 |**2025-11-19**|**Zero-Shot Open-Vocabulary Human Motion Grounding with Test-Time Training**|Yunjiao Zhou et.al.|[2511.15379](http://arxiv.org/abs/2511.15379)|null|
 |**2025-11-19**|**Towards Evolutionary Optimization Using the Ising Model**|Simon Klüttermann et.al.|[2511.15377](http://arxiv.org/abs/2511.15377)|null|
 
-</details><p align=right>(<a href=#updated-on-20260217>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260218>back to top</a>)</p>
 
 <details>
 
@@ -556,6 +558,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-17**|**Concept-Enhanced Multimodal RAG: Towards Interpretable and Accurate Radiology Report Generation**|Marco Salmè et.al.|[2602.15650](http://arxiv.org/abs/2602.15650)|null|
+|**2026-02-17**|**CARE Drive A Framework for Evaluating Reason-Responsiveness of Vision Language Models in Automated Driving**|Lucas Elbert Suryana et.al.|[2602.15645](http://arxiv.org/abs/2602.15645)|null|
+|**2026-02-17**|**Req2Road: A GenAI Pipeline for SDV Test Artifact Generation and On-Vehicle Execution**|Denesa Zyberaj et.al.|[2602.15591](http://arxiv.org/abs/2602.15591)|null|
+|**2026-02-17**|**VLM-DEWM: Dynamic External World Model for Verifiable and Resilient Vision-Language Planning in Manufacturing**|Guoqin Tang et.al.|[2602.15549](http://arxiv.org/abs/2602.15549)|null|
+|**2026-02-17**|**Selective Perception for Robot: Task-Aware Attention in Multimodal VLA**|Young-Chae Son et.al.|[2602.15543](http://arxiv.org/abs/2602.15543)|null|
+|**2026-02-17**|**Semantic-Guided 3D Gaussian Splatting for Transient Object Removal**|Aditi Prabakaran et.al.|[2602.15516](http://arxiv.org/abs/2602.15516)|null|
+|**2026-02-17**|**Improving MLLMs in Embodied Exploration and Question Answering with Human-Inspired Memory Modeling**|Ji Li et.al.|[2602.15513](http://arxiv.org/abs/2602.15513)|null|
+|**2026-02-17**|**On the Out-of-Distribution Generalization of Reasoning in Multimodal LLMs for Simple Visual Planning Tasks**|Yannic Neuhaus et.al.|[2602.15460](http://arxiv.org/abs/2602.15460)|null|
+|**2026-02-17**|**ActionCodec: What Makes for Good Action Tokenizers**|Zibin Dong et.al.|[2602.15397](http://arxiv.org/abs/2602.15397)|null|
+|**2026-02-17**|**The Vision Wormhole: Latent-Space Communication in Heterogeneous Multi-Agent Systems**|Xiaoze Liu et.al.|[2602.15382](http://arxiv.org/abs/2602.15382)|null|
+|**2026-02-17**|**GMAIL: Generative Modality Alignment for generated Image Learning**|Shentong Mo et.al.|[2602.15368](http://arxiv.org/abs/2602.15368)|null|
+|**2026-02-17**|**Sparrow: Text-Anchored Window Attention with Visual-Semantic Glimpsing for Speculative Decoding in Video LLMs**|Libo Zhang et.al.|[2602.15318](http://arxiv.org/abs/2602.15318)|null|
+|**2026-02-17**|**Training-Free Zero-Shot Anomaly Detection in 3D Brain MRI with 2D Foundation Models**|Tai Le-Gia et.al.|[2602.15315](http://arxiv.org/abs/2602.15315)|null|
+|**2026-02-17**|**EAA: Automating materials characterization with vision language model agents**|Ming Du et.al.|[2602.15294](http://arxiv.org/abs/2602.15294)|null|
+|**2026-02-17**|**Visual Persuasion: What Influences Decisions of Vision-Language Models?**|Manuel Cherep et.al.|[2602.15278](http://arxiv.org/abs/2602.15278)|null|
+|**2026-02-16**|**How to Train Your Long-Context Visual Document Model**|Austin Veselka et.al.|[2602.15257](http://arxiv.org/abs/2602.15257)|null|
+|**2026-02-16**|**Ground-Truth Depth in Vision Language Models: Spatial Context Understanding in Conversational AI for XR-Robotic Support in Emergency First Response**|Rodrigo Gutierrez Maquilon et.al.|[2602.15237](http://arxiv.org/abs/2602.15237)|null|
+|**2026-02-16**|**Seeing to Generalize: How Visual Data Corrects Binding Shortcuts**|Nicolas Buzeta et.al.|[2602.15183](http://arxiv.org/abs/2602.15183)|null|
+|**2026-02-16**|**Zero-shot HOI Detection with MLLM-based Detector-agnostic Interaction Recognition**|Shiyu Xuan et.al.|[2602.15124](http://arxiv.org/abs/2602.15124)|null|
 |**2026-02-16**|**BPP: Long-Context Robot Imitation Learning by Focusing on Key History Frames**|Max Sobol Mark et.al.|[2602.15010](http://arxiv.org/abs/2602.15010)|null|
 |**2026-02-16**|**ThermEval: A Structured Benchmark for Evaluation of Vision-Language Models on Thermal Imagery**|Ayush Shrivastava et.al.|[2602.14989](http://arxiv.org/abs/2602.14989)|null|
 |**2026-02-16**|**DM0: An Embodied-Native Vision-Language-Action Model towards Physical AI**|En Yu et.al.|[2602.14974](http://arxiv.org/abs/2602.14974)|null|
@@ -1644,7 +1665,7 @@
 |**2025-11-19**|**Context Cascade Compression: Exploring the Upper Limits of Text Compression**|Fanfan Liu et.al.|[2511.15244](http://arxiv.org/abs/2511.15244)|null|
 |**2025-11-19**|**SkinGPT-R1: Adapter-Only Dual Distillation for Efficient Dermatology Reasoning**|Yuhao Shen et.al.|[2511.15242](http://arxiv.org/abs/2511.15242)|null|
 
-</details><p align=right>(<a href=#updated-on-20260217>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260218>back to top</a>)</p>
 
 <details>
 
@@ -1654,9 +1675,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-17**|**Consistency-Preserving Diverse Video Generation**|Xinshuang Liu et.al.|[2602.15287](http://arxiv.org/abs/2602.15287)|null|
+|**2026-02-17**|**Train Short, Inference Long: Training-free Horizon Extension for Autoregressive Video Generation**|Jia Li et.al.|[2602.14027](http://arxiv.org/abs/2602.14027)|null|
 |**2026-02-16**|**AnchorWeave: World-Consistent Video Generation with Retrieved Local Spatial Memories**|Zun Wang et.al.|[2602.14941](http://arxiv.org/abs/2602.14941)|null|
 |**2026-02-16**|**Adapting VACE for Real-Time Autoregressive Video Diffusion**|Ryan Fosdick et.al.|[2602.14381](http://arxiv.org/abs/2602.14381)|null|
-|**2026-02-15**|**Train Short, Inference Long: Training-free Horizon Extension for Autoregressive Video Generation**|Jia Li et.al.|[2602.14027](http://arxiv.org/abs/2602.14027)|null|
 |**2026-02-15**|**VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model**|Yanjiang Guo et.al.|[2602.12063](http://arxiv.org/abs/2602.12063)|null|
 |**2026-02-14**|**High-Fidelity Causal Video Diffusion Models for Real-Time Ultra-Low-Bitrate Semantic Communication**|Cem Eteke et.al.|[2602.13837](http://arxiv.org/abs/2602.13837)|null|
 |**2026-02-14**|**EchoTorrent: Towards Swift, Sustained, and Streaming Multi-Modal Video Generation**|Rang Meng et.al.|[2602.13669](http://arxiv.org/abs/2602.13669)|null|
@@ -2208,7 +2230,7 @@
 |**2025-11-18**|**FlowRoI A Fast Optical Flow Driven Region of Interest Extraction Framework for High-Throughput Image Compression in Immune Cell Migration Analysis**|Xiaowei Xu et.al.|[2511.14419](http://arxiv.org/abs/2511.14419)|null|
 |**2025-11-18**|**ARC-Chapter: Structuring Hour-Long Videos into Navigable Chapters and Hierarchical Summaries**|Junfu Pu et.al.|[2511.14349](http://arxiv.org/abs/2511.14349)|null|
 
-</details><p align=right>(<a href=#updated-on-20260217>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260218>back to top</a>)</p>
 
 Notes: 
 
