@@ -3,7 +3,7 @@ layout: default
 ---
 
 # World Model and Embodied AI arxiv Papers
-### Updated on 2026.02.23
+### Updated on 2026.02.24
 <details>
 
 <summary> 1-World Model </summary>
@@ -12,6 +12,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**AdaWorldPolicy: World-Model-Driven Diffusion Policy with Online Adaptive Learning for Robotic Manipulation**|Ge Yuan et.al.|[2602.20057](http://arxiv.org/abs/2602.20057)|null|
+|**2026-02-23**|**Compositional Planning with Jumpy World Models**|Jesse Farebrother et.al.|[2602.19634](http://arxiv.org/abs/2602.19634)|null|
+|**2026-02-23**|**HOCA-Bench: Beyond Semantic Perception to Predictive World Modeling via Hegelian Ontological-Causal Anomalies**|Chang Liu et.al.|[2602.19571](http://arxiv.org/abs/2602.19571)|null|
+|**2026-02-23**|**A Text-Guided Vision Model for Enhanced Recognition of Small Instances**|Hyun-Ki Jung et.al.|[2602.19503](http://arxiv.org/abs/2602.19503)|null|
+|**2026-02-22**|**MRI Contrast Enhancement Kinetics World Model**|Jindi Kong et.al.|[2602.19285](http://arxiv.org/abs/2602.19285)|null|
+|**2026-02-22**|**K-Search: LLM Kernel Generation via Co-Evolving Intrinsic World Model**|Shiyi Cao et.al.|[2602.19128](http://arxiv.org/abs/2602.19128)|null|
+|**2026-02-21**|**SafeDrive: Fine-Grained Safety Reasoning for End-to-End Driving in a Sparse World**|Jungho Kim et.al.|[2602.18887](http://arxiv.org/abs/2602.18887)|null|
+|**2026-02-21**|**When World Models Dream Wrong: Physical-Conditioned Adversarial Attacks against World Models**|Zhixiang Guo et.al.|[2602.18739](http://arxiv.org/abs/2602.18739)|null|
+|**2026-02-21**|**Neural Fields as World Models**|Joshua Nunley et.al.|[2602.18690](http://arxiv.org/abs/2602.18690)|null|
+|**2026-02-20**|**Toward AI Autonomous Navigation for Mechanical Thrombectomy using Hierarchical Modular Multi-agent Reinforcement Learning (HM-MARL)**|Harry Robertshaw et.al.|[2602.18663](http://arxiv.org/abs/2602.18663)|null|
+|**2026-02-20**|**Learning Invariant Visual Representations for Planning with Joint-Embedding Predictive World Models**|Leonardo F. Toso et.al.|[2602.18639](http://arxiv.org/abs/2602.18639)|null|
 |**2026-02-20**|**Generated Reality: Human-centric World Simulation using Interactive Video Generation with Hand and Camera Control**|Linxi Xie et.al.|[2602.18422](http://arxiv.org/abs/2602.18422)|null|
 |**2026-02-19**|**AI Gamestore: Scalable, Open-Ended Evaluation of Machine General Intelligence with Human Games**|Lance Ying et.al.|[2602.17594](http://arxiv.org/abs/2602.17594)|null|
 |**2026-02-19**|**Computer-Using World Model**|Yiming Guan et.al.|[2602.17365](http://arxiv.org/abs/2602.17365)|null|
@@ -560,6 +571,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**NovaPlan: Zero-Shot Long-Horizon Manipulation via Closed-Loop Video Language Planning**|Jiahui Fu et.al.|[2602.20119](http://arxiv.org/abs/2602.20119)|null|
+|**2026-02-23**|**StructXLIP: Enhancing Vision-language Models with Multimodal Structural Cues**|Zanxi Ruan et.al.|[2602.20089](http://arxiv.org/abs/2602.20089)|null|
+|**2026-02-23**|**Do Large Language Models Understand Data Visualization Principles?**|Martin Sinnona et.al.|[2602.20084](http://arxiv.org/abs/2602.20084)|null|
+|**2026-02-23**|**HeatPrompt: Zero-Shot Vision-Language Modeling of Urban Heat Demand from Satellite Images**|Kundan Thota et.al.|[2602.20066](http://arxiv.org/abs/2602.20066)|null|
+|**2026-02-23**|**Contextual Safety Reasoning and Grounding for Open-World Robots**|Zachary Ravichadran et.al.|[2602.19983](http://arxiv.org/abs/2602.19983)|null|
+|**2026-02-23**|**BeamVLM for Low-altitude Economy: Generative Beam Prediction via Vision-language Models**|Chenran Kou et.al.|[2602.19929](http://arxiv.org/abs/2602.19929)|null|
+|**2026-02-23**|**Multi-Modal Representation Learning via Semi-Supervised Rate Reduction for Generalized Category Discovery**|Wei He et.al.|[2602.19910](http://arxiv.org/abs/2602.19910)|null|
+|**2026-02-23**|**ApET: Approximation-Error Guided Token Compression for Efficient VLMs**|Qiankun Ma et.al.|[2602.19870](http://arxiv.org/abs/2602.19870)|null|
+|**2026-02-23**|**TraceVision: Trajectory-Aware Vision-Language Model for Human-Like Spatial Understanding**|Fan Yang et.al.|[2602.19768](http://arxiv.org/abs/2602.19768)|null|
+|**2026-02-23**|**Seeing Clearly, Reasoning Confidently: Plug-and-Play Remedies for Vision Language Model Blindness**|Xin Hu et.al.|[2602.19615](http://arxiv.org/abs/2602.19615)|null|
+|**2026-02-23**|**VALD: Multi-Stage Vision Attack Detection for Efficient LVLM Defense**|Nadav Kadvil et.al.|[2602.19570](http://arxiv.org/abs/2602.19570)|null|
+|**2026-02-23**|**DICArt: Advancing Category-level Articulated Object Pose Estimation in Discrete State-Spaces**|Li Zhang et.al.|[2602.19565](http://arxiv.org/abs/2602.19565)|null|
+|**2026-02-23**|**Can a Teenager Fool an AI? Evaluating Low-Cost Cosmetic Attacks on Age Estimation Systems**|Xingyu Shen et.al.|[2602.19539](http://arxiv.org/abs/2602.19539)|null|
+|**2026-02-23**|**ORION: ORthonormal Text Encoding for Universal VLM AdaptatION**|Omprakash Chakraborty et.al.|[2602.19530](http://arxiv.org/abs/2602.19530)|null|
+|**2026-02-23**|**Forgetting-Resistant and Lesion-Aware Source-Free Domain Adaptive Fundus Image Analysis with Vision-Language Model**|Zheang Huai et.al.|[2602.19471](http://arxiv.org/abs/2602.19471)|null|
+|**2026-02-23**|**Decoupling Vision and Language: Codebook Anchored Visual Adaptation**|Jason Wu et.al.|[2602.19449](http://arxiv.org/abs/2602.19449)|null|
+|**2026-02-23**|**UrbanAlign: Post-hoc Semantic Calibration for VLM-Human Preference Alignment**|Yecheng Zhang et.al.|[2602.19442](http://arxiv.org/abs/2602.19442)|null|
+|**2026-02-23**|**PA-Attack: Guiding Gray-Box Attacks on LVLM Vision Encoders with Prototypes and Attention**|Hefei Mei et.al.|[2602.19418](http://arxiv.org/abs/2602.19418)|null|
+|**2026-02-22**|**Seeing Farther and Smarter: Value-Guided Multi-Path Reflection for VLM Policy Optimization**|Yanting Yang et.al.|[2602.19372](http://arxiv.org/abs/2602.19372)|null|
+|**2026-02-22**|**MentalBlackboard: Evaluating Spatial Visualization via Mathematical Transformations**|Nilay Yilmaz et.al.|[2602.19357](http://arxiv.org/abs/2602.19357)|null|
 |**2026-02-20**|**SARAH: Spatially Aware Real-time Agentic Humans**|Evonne Ng et.al.|[2602.18432](http://arxiv.org/abs/2602.18432)|null|
 |**2026-02-20**|**CapNav: Benchmarking Vision Language Models on Capability-conditioned Indoor Navigation**|Xia Su et.al.|[2602.18424](http://arxiv.org/abs/2602.18424)|null|
 |**2026-02-20**|**How Fast Can I Run My VLA? Demystifying VLA Inference Performance with VLA-Perf**|Wenqi Jiang et.al.|[2602.18397](http://arxiv.org/abs/2602.18397)|null|
@@ -1710,6 +1741,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**NovaPlan: Zero-Shot Long-Horizon Manipulation via Closed-Loop Video Language Planning**|Jiahui Fu et.al.|[2602.20119](http://arxiv.org/abs/2602.20119)|null|
+|**2026-02-23**|**PedaCo-Gen: Scaffolding Pedagogical Agency in Human-AI Collaborative Video Authoring**|Injun Baek et.al.|[2602.19623](http://arxiv.org/abs/2602.19623)|null|
+|**2026-02-22**|**JavisDiT++: Unified Modeling and Optimization for Joint Audio-Video Generation**|Kai Liu et.al.|[2602.19163](http://arxiv.org/abs/2602.19163)|null|
+|**2026-02-22**|**Flash-VAED: Plug-and-Play VAE Decoders for Efficient Video Generation**|Lunjie Zhu et.al.|[2602.19161](http://arxiv.org/abs/2602.19161)|null|
+|**2026-02-21**|**RoboCurate: Harnessing Diversity with Action-Verified Neural Trajectory for Robot Learning**|Seungku Kim et.al.|[2602.18742](http://arxiv.org/abs/2602.18742)|null|
+|**2026-02-20**|**Narrating For You: Prompt-guided Audio-visual Narrating Face Generation Employing Multi-entangled Latent Space**|Aashish Chandra et.al.|[2602.18618](http://arxiv.org/abs/2602.18618)|null|
 |**2026-02-20**|**Generated Reality: Human-centric World Simulation using Interactive Video Generation with Hand and Camera Control**|Linxi Xie et.al.|[2602.18422](http://arxiv.org/abs/2602.18422)|null|
 |**2026-02-20**|**Predict to Skip: Linear Multistep Feature Forecasting for Efficient Diffusion Transformers**|Hanshuai Cui et.al.|[2602.18093](http://arxiv.org/abs/2602.18093)|null|
 |**2026-02-20**|**A Single Image and Multimodality Is All You Need for Novel View Synthesis**|Amirhosein Javadi et.al.|[2602.17909](http://arxiv.org/abs/2602.17909)|null|
