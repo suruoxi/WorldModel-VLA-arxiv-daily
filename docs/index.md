@@ -3,7 +3,7 @@ layout: default
 ---
 
 # World Model and Embodied AI arxiv Papers
-### Updated on 2026.02.24
+### Updated on 2026.02.25
 <details>
 
 <summary> 1-World Model </summary>
@@ -12,6 +12,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**LogicGraph : Benchmarking Multi-Path Logical Reasoning via Neuro-Symbolic Generation and Verification**|Yanrui Wu et.al.|[2602.21044](http://arxiv.org/abs/2602.21044)|null|
+|**2026-02-24**|**RAYNOVA: 3D-Geometry-Free Auto-Regressive Driving World Modeling with Unified Spatio-Temporal Representation**|Yichen Xie et.al.|[2602.20685](http://arxiv.org/abs/2602.20685)|null|
+|**2026-02-24**|**Recursive Belief Vision Language Model**|Vaidehi Bagaria et.al.|[2602.20659](http://arxiv.org/abs/2602.20659)|null|
+|**2026-02-24**|**The Finite Primitive Basis Theorem for Computational Imaging: Formal Foundations of the OperatorGraph Representation**|Chengshuai Yang et.al.|[2602.20550](http://arxiv.org/abs/2602.20550)|null|
 |**2026-02-23**|**AdaWorldPolicy: World-Model-Driven Diffusion Policy with Online Adaptive Learning for Robotic Manipulation**|Ge Yuan et.al.|[2602.20057](http://arxiv.org/abs/2602.20057)|null|
 |**2026-02-23**|**Compositional Planning with Jumpy World Models**|Jesse Farebrother et.al.|[2602.19634](http://arxiv.org/abs/2602.19634)|null|
 |**2026-02-23**|**HOCA-Bench: Beyond Semantic Perception to Predictive World Modeling via Hegelian Ontological-Causal Anomalies**|Chang Liu et.al.|[2602.19571](http://arxiv.org/abs/2602.19571)|null|
@@ -571,6 +575,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**Spa3R: Predictive Spatial Field Modeling for 3D Visual Reasoning**|Haoyi Jiang et.al.|[2602.21186](http://arxiv.org/abs/2602.21186)|null|
+|**2026-02-24**|**Seeing Through Words: Controlling Visual Retrieval Quality with Language Models**|Jianglin Lu et.al.|[2602.21175](http://arxiv.org/abs/2602.21175)|null|
+|**2026-02-24**|**ActionReasoning: Robot Action Reasoning in 3D Space with LLM for Robotic Brick Stacking**|Guangming Wang et.al.|[2602.21161](http://arxiv.org/abs/2602.21161)|null|
+|**2026-02-24**|**LUMEN: Longitudinal Multi-Modal Radiology Model for Prognosis and Diagnosis**|Zhifan Jiang et.al.|[2602.21142](http://arxiv.org/abs/2602.21142)|null|
+|**2026-02-24**|**VAUQ: Vision-Aware Uncertainty Quantification for LVLM Self-Evaluation**|Seongheon Park et.al.|[2602.21054](http://arxiv.org/abs/2602.21054)|null|
+|**2026-02-24**|**OCR-Agent: Agentic OCR with Capability and Memory Reflection**|Shimin Wen et.al.|[2602.21053](http://arxiv.org/abs/2602.21053)|null|
+|**2026-02-24**|**Not Just What's There: Enabling CLIP to Comprehend Negated Visual Descriptions Without Fine-tuning**|Junhao Xiao et.al.|[2602.21035](http://arxiv.org/abs/2602.21035)|null|
+|**2026-02-24**|**From Perception to Action: An Interactive Benchmark for Vision Reasoning**|Yuhao Wu et.al.|[2602.21015](http://arxiv.org/abs/2602.21015)|null|
+|**2026-02-24**|**SpatiaLQA: A Benchmark for Evaluating Spatial Logical Reasoning in Vision-Language Models**|Yuechen Xie et.al.|[2602.20901](http://arxiv.org/abs/2602.20901)|null|
+|**2026-02-24**|**Diagnosing Causal Reasoning in Vision-Language Models via Structured Relevance Graphs**|Dhita Putri Pratama et.al.|[2602.20878](http://arxiv.org/abs/2602.20878)|null|
+|**2026-02-24**|**MUSE: Harnessing Precise and Diverse Semantics for Few-Shot Whole Slide Image Classification**|Jiahao Xu et.al.|[2602.20873](http://arxiv.org/abs/2602.20873)|null|
+|**2026-02-24**|**On the Explainability of Vision-Language Models in Art History**|Stefanie Schneider et.al.|[2602.20853](http://arxiv.org/abs/2602.20853)|null|
+|**2026-02-24**|**Body-Reservoir Governance in Repeated Games: Embodied Decision-Making, Dynamic Sentinel Adaptation, and Complexity-Regularized Optimization**|Yuki Nakamura et.al.|[2602.20846](http://arxiv.org/abs/2602.20846)|null|
+|**2026-02-24**|**GatedCLIP: Gated Multimodal Fusion for Hateful Memes Detection**|Yingying Guo et.al.|[2602.20818](http://arxiv.org/abs/2602.20818)|null|
+|**2026-02-24**|**VGGDrive: Empowering Vision-Language Models with Cross-View Geometric Grounding for Autonomous Driving**|Jie Wang et.al.|[2602.20794](http://arxiv.org/abs/2602.20794)|null|
+|**2026-02-24**|**NGL-Prompter: Training-Free Sewing Pattern Estimation from a Single Image**|Anna Badalyan et.al.|[2602.20700](http://arxiv.org/abs/2602.20700)|null|
+|**2026-02-24**|**PromptCD: Test-Time Behavior Enhancement via Polarity-Prompt Contrastive Decoding**|Baolong Bi et.al.|[2602.20696](http://arxiv.org/abs/2602.20696)|null|
+|**2026-02-24**|**How Foundational Skills Influence VLM-based Embodied Agents:A Native Perspective**|Bo Peng et.al.|[2602.20687](http://arxiv.org/abs/2602.20687)|null|
+|**2026-02-24**|**Recursive Belief Vision Language Model**|Vaidehi Bagaria et.al.|[2602.20659](http://arxiv.org/abs/2602.20659)|null|
+|**2026-02-24**|**Vision-Language Models for Ergonomic Assessment of Manual Lifting Tasks: Estimating Horizontal and Vertical Hand Distances from RGB Video**|Mohammad Sadra Rajabi et.al.|[2602.20658](http://arxiv.org/abs/2602.20658)|null|
 |**2026-02-23**|**NovaPlan: Zero-Shot Long-Horizon Manipulation via Closed-Loop Video Language Planning**|Jiahui Fu et.al.|[2602.20119](http://arxiv.org/abs/2602.20119)|null|
 |**2026-02-23**|**StructXLIP: Enhancing Vision-language Models with Multimodal Structural Cues**|Zanxi Ruan et.al.|[2602.20089](http://arxiv.org/abs/2602.20089)|null|
 |**2026-02-23**|**Do Large Language Models Understand Data Visualization Principles?**|Martin Sinnona et.al.|[2602.20084](http://arxiv.org/abs/2602.20084)|null|
@@ -1741,6 +1765,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**Human Video Generation from a Single Image with 3D Pose and View Control**|Tiantian Wang et.al.|[2602.21188](http://arxiv.org/abs/2602.21188)|null|
+|**2026-02-24**|**VII: Visual Instruction Injection for Jailbreaking Image-to-Video Generation Models**|Bowen Zheng et.al.|[2602.20999](http://arxiv.org/abs/2602.20999)|null|
+|**2026-02-24**|**RAYNOVA: 3D-Geometry-Free Auto-Regressive Driving World Modeling with Unified Spatio-Temporal Representation**|Yichen Xie et.al.|[2602.20685](http://arxiv.org/abs/2602.20685)|null|
+|**2026-02-24**|**LESA: Learnable Stage-Aware Predictors for Diffusion Model Acceleration**|Peiliang Cai et.al.|[2602.20497](http://arxiv.org/abs/2602.20497)|null|
+|**2026-02-23**|**3DSPA: A 3D Semantic Point Autoencoder for Evaluating Video Realism**|Bhavik Chandna et.al.|[2602.20354](http://arxiv.org/abs/2602.20354)|null|
 |**2026-02-23**|**NovaPlan: Zero-Shot Long-Horizon Manipulation via Closed-Loop Video Language Planning**|Jiahui Fu et.al.|[2602.20119](http://arxiv.org/abs/2602.20119)|null|
 |**2026-02-23**|**PedaCo-Gen: Scaffolding Pedagogical Agency in Human-AI Collaborative Video Authoring**|Injun Baek et.al.|[2602.19623](http://arxiv.org/abs/2602.19623)|null|
 |**2026-02-22**|**JavisDiT++: Unified Modeling and Optimization for Joint Audio-Video Generation**|Kai Liu et.al.|[2602.19163](http://arxiv.org/abs/2602.19163)|null|
