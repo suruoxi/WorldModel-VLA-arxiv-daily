@@ -1,5 +1,5 @@
 # World Model and Embodied AI arxiv Papers
-### Updated on 2026.02.25
+### Updated on 2026.02.26
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#1-world-model>1-World Model</a></li>
@@ -16,9 +16,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**Solaris: Building a Multiplayer Video World Model in Minecraft**|Georgy Savva et.al.|[2602.22208](http://arxiv.org/abs/2602.22208)|null|
+|**2026-02-25**|**World Guidance: World Modeling in Condition Space for Action Generation**|Yue Su et.al.|[2602.22010](http://arxiv.org/abs/2602.22010)|null|
+|**2026-02-25**|**Geometric Priors for Generalizable World Models via Vector Symbolic Architecture**|William Youngwoo Chung et.al.|[2602.21467](http://arxiv.org/abs/2602.21467)|null|
+|**2026-02-25**|**RAYNOVA: Scale-Temporal Autoregressive World Modeling in Ray Space**|Yichen Xie et.al.|[2602.20685](http://arxiv.org/abs/2602.20685)|null|
+|**2026-02-25**|**Recursive Belief Vision Language Action Models**|Vaidehi Bagaria et.al.|[2602.20659](http://arxiv.org/abs/2602.20659)|null|
 |**2026-02-24**|**LogicGraph : Benchmarking Multi-Path Logical Reasoning via Neuro-Symbolic Generation and Verification**|Yanrui Wu et.al.|[2602.21044](http://arxiv.org/abs/2602.21044)|null|
-|**2026-02-24**|**RAYNOVA: 3D-Geometry-Free Auto-Regressive Driving World Modeling with Unified Spatio-Temporal Representation**|Yichen Xie et.al.|[2602.20685](http://arxiv.org/abs/2602.20685)|null|
-|**2026-02-24**|**Recursive Belief Vision Language Model**|Vaidehi Bagaria et.al.|[2602.20659](http://arxiv.org/abs/2602.20659)|null|
 |**2026-02-24**|**The Finite Primitive Basis Theorem for Computational Imaging: Formal Foundations of the OperatorGraph Representation**|Chengshuai Yang et.al.|[2602.20550](http://arxiv.org/abs/2602.20550)|null|
 |**2026-02-23**|**AdaWorldPolicy: World-Model-Driven Diffusion Policy with Online Adaptive Learning for Robotic Manipulation**|Ge Yuan et.al.|[2602.20057](http://arxiv.org/abs/2602.20057)|null|
 |**2026-02-23**|**Compositional Planning with Jumpy World Models**|Jesse Farebrother et.al.|[2602.19634](http://arxiv.org/abs/2602.19634)|null|
@@ -571,7 +574,7 @@
 |**2025-11-19**|**Zero-Shot Open-Vocabulary Human Motion Grounding with Test-Time Training**|Yunjiao Zhou et.al.|[2511.15379](http://arxiv.org/abs/2511.15379)|null|
 |**2025-11-19**|**Towards Evolutionary Optimization Using the Ising Model**|Simon Klüttermann et.al.|[2511.15377](http://arxiv.org/abs/2511.15377)|null|
 
-</details><p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
 
 <details>
 
@@ -581,6 +584,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**NoLan: Mitigating Object Hallucinations in Large Vision-Language Models via Dynamic Suppression of Language Priors**|Lingfeng Ren et.al.|[2602.22144](http://arxiv.org/abs/2602.22144)|null|
+|**2026-02-25**|**GeoDiv: Framework For Measuring Geographical Diversity In Text-To-Image Models**|Abhipsa Basu et.al.|[2602.22120](http://arxiv.org/abs/2602.22120)|null|
+|**2026-02-25**|**Brain3D: Brain Report Automation via Inflated Vision Transformers in 3D**|Mariano Barone et.al.|[2602.22098](http://arxiv.org/abs/2602.22098)|null|
+|**2026-02-25**|**RobustVisRAG: Causality-Aware Vision-Based Retrieval-Augmented Generation under Visual Degradations**|I-Hsiang Chen et.al.|[2602.22013](http://arxiv.org/abs/2602.22013)|null|
+|**2026-02-25**|**PanoEnv: Exploring 3D Spatial Intelligence in Panoramic Environments with Reinforcement Learning**|Zekai Lin et.al.|[2602.21992](http://arxiv.org/abs/2602.21992)|null|
+|**2026-02-25**|**Humanizing Robot Gaze Shifts: A Framework for Natural Gaze Shifts in Humanoid Robots**|Jingchao Wei et.al.|[2602.21983](http://arxiv.org/abs/2602.21983)|null|
+|**2026-02-25**|**MindDriver: Introducing Progressive Multimodal Reasoning for Autonomous Driving**|Lingjun Zhang et.al.|[2602.21952](http://arxiv.org/abs/2602.21952)|null|
+|**2026-02-25**|**DynamicGTR: Leveraging Graph Topology Representation Preferences to Boost VLM Capabilities on Graph QAs**|Yanbin Wei et.al.|[2602.21864](http://arxiv.org/abs/2602.21864)|null|
+|**2026-02-25**|**DocDjinn: Controllable Synthetic Document Generation with VLMs and Handwriting Diffusion**|Marcel Lamott et.al.|[2602.21824](http://arxiv.org/abs/2602.21824)|null|
+|**2026-02-25**|**Beyond Static Artifacts: A Forensic Benchmark for Video Deepfake Reasoning in Vision Language Models**|Zheyuan Gu et.al.|[2602.21779](http://arxiv.org/abs/2602.21779)|null|
+|**2026-02-25**|**SigVLP: Sigmoid Volume-Language Pre-Training for Self-Supervised CT-Volume Adaptive Representation Learning**|Jiayi Wang et.al.|[2602.21735](http://arxiv.org/abs/2602.21735)|null|
+|**2026-02-25**|**SurGo-R1: Benchmarking and Modeling Contextual Reasoning for Operative Zone in Surgical Video**|Guanyi Qin et.al.|[2602.21706](http://arxiv.org/abs/2602.21706)|null|
+|**2026-02-25**|**Dynamic Multimodal Activation Steering for Hallucination Mitigation in Large Vision-Language Models**|Jianghao Yin et.al.|[2602.21704](http://arxiv.org/abs/2602.21704)|null|
+|**2026-02-25**|**When More Is Less: A Systematic Analysis of Spatial and Commonsense Information for Visual Spatial Reasoning**|Muku Akasaka et.al.|[2602.21619](http://arxiv.org/abs/2602.21619)|null|
+|**2026-02-25**|**Virtual Biopsy for Intracranial Tumors Diagnosis on MRI**|Xinzhe Luo et.al.|[2602.21613](http://arxiv.org/abs/2602.21613)|null|
+|**2026-02-25**|**See It, Say It, Sorted: An Iterative Training-Free Framework for Visually-Grounded Multimodal Reasoning in LVLMs**|Yongchang Zhang et.al.|[2602.21497](http://arxiv.org/abs/2602.21497)|null|
+|**2026-02-24**|**Synergizing Understanding and Generation with Interleaved Analyzing-Drafting Thinking**|Shengqiong Wu et.al.|[2602.21435](http://arxiv.org/abs/2602.21435)|null|
+|**2026-02-24**|**PSF-Med: Measuring and Explaining Paraphrase Sensitivity in Medical Vision Language Models**|Binesh Sadanandan et.al.|[2602.21428](http://arxiv.org/abs/2602.21428)|null|
+|**2026-02-24**|**Exploring Vision-Language Models for Open-Vocabulary Zero-Shot Action Segmentation**|Asim Unmesh et.al.|[2602.21406](http://arxiv.org/abs/2602.21406)|null|
+|**2026-02-24**|**MMLoP: Multi-Modal Low-Rank Prompting for Efficient Vision-Language Adaptation**|Sajjad Ghiasvand et.al.|[2602.21397](http://arxiv.org/abs/2602.21397)|null|
 |**2026-02-24**|**Spa3R: Predictive Spatial Field Modeling for 3D Visual Reasoning**|Haoyi Jiang et.al.|[2602.21186](http://arxiv.org/abs/2602.21186)|null|
 |**2026-02-24**|**Seeing Through Words: Controlling Visual Retrieval Quality with Language Models**|Jianglin Lu et.al.|[2602.21175](http://arxiv.org/abs/2602.21175)|null|
 |**2026-02-24**|**ActionReasoning: Robot Action Reasoning in 3D Space with LLM for Robotic Brick Stacking**|Guangming Wang et.al.|[2602.21161](http://arxiv.org/abs/2602.21161)|null|
@@ -1763,7 +1786,7 @@
 |**2025-11-19**|**Context Cascade Compression: Exploring the Upper Limits of Text Compression**|Fanfan Liu et.al.|[2511.15244](http://arxiv.org/abs/2511.15244)|null|
 |**2025-11-19**|**SkinGPT-R1: Adapter-Only Dual Distillation for Efficient Dermatology Reasoning**|Yuhao Shen et.al.|[2511.15242](http://arxiv.org/abs/2511.15242)|null|
 
-</details><p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
 
 <details>
 
@@ -1773,9 +1796,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**Solaris: Building a Multiplayer Video World Model in Minecraft**|Georgy Savva et.al.|[2602.22208](http://arxiv.org/abs/2602.22208)|null|
+|**2026-02-25**|**Geometry-as-context: Modulating Explicit 3D in Scene-consistent Video Generation to Geometry Context**|JiaKui Hu et.al.|[2602.21929](http://arxiv.org/abs/2602.21929)|null|
+|**2026-02-25**|**UniVBench: Towards Unified Evaluation for Video Foundation Models**|Jianhui Wei et.al.|[2602.21835](http://arxiv.org/abs/2602.21835)|null|
+|**2026-02-25**|**SkyReels-V4: Multi-modal Video-Audio Generation, Inpainting and Editing model**|Guibin Chen et.al.|[2602.21818](http://arxiv.org/abs/2602.21818)|null|
+|**2026-02-25**|**MultiAnimate: Pose-Guided Image Animation Made Extensible**|Yingcheng Hu et.al.|[2602.21581](http://arxiv.org/abs/2602.21581)|null|
+|**2026-02-25**|**RAYNOVA: Scale-Temporal Autoregressive World Modeling in Ray Space**|Yichen Xie et.al.|[2602.20685](http://arxiv.org/abs/2602.20685)|null|
+|**2026-02-24**|**Towards Controllable Video Synthesis of Routine and Rare OR Events**|Dominik Schneider et.al.|[2602.21365](http://arxiv.org/abs/2602.21365)|null|
 |**2026-02-24**|**Human Video Generation from a Single Image with 3D Pose and View Control**|Tiantian Wang et.al.|[2602.21188](http://arxiv.org/abs/2602.21188)|null|
 |**2026-02-24**|**VII: Visual Instruction Injection for Jailbreaking Image-to-Video Generation Models**|Bowen Zheng et.al.|[2602.20999](http://arxiv.org/abs/2602.20999)|null|
-|**2026-02-24**|**RAYNOVA: 3D-Geometry-Free Auto-Regressive Driving World Modeling with Unified Spatio-Temporal Representation**|Yichen Xie et.al.|[2602.20685](http://arxiv.org/abs/2602.20685)|null|
 |**2026-02-24**|**LESA: Learnable Stage-Aware Predictors for Diffusion Model Acceleration**|Peiliang Cai et.al.|[2602.20497](http://arxiv.org/abs/2602.20497)|null|
 |**2026-02-23**|**3DSPA: A 3D Semantic Point Autoencoder for Evaluating Video Realism**|Bhavik Chandna et.al.|[2602.20354](http://arxiv.org/abs/2602.20354)|null|
 |**2026-02-23**|**NovaPlan: Zero-Shot Long-Horizon Manipulation via Closed-Loop Video Language Planning**|Jiahui Fu et.al.|[2602.20119](http://arxiv.org/abs/2602.20119)|null|
@@ -2345,7 +2374,7 @@
 |**2025-11-18**|**FlowRoI A Fast Optical Flow Driven Region of Interest Extraction Framework for High-Throughput Image Compression in Immune Cell Migration Analysis**|Xiaowei Xu et.al.|[2511.14419](http://arxiv.org/abs/2511.14419)|null|
 |**2025-11-18**|**ARC-Chapter: Structuring Hour-Long Videos into Navigable Chapters and Hierarchical Summaries**|Junfu Pu et.al.|[2511.14349](http://arxiv.org/abs/2511.14349)|null|
 
-</details><p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
 
 Notes: 
 
