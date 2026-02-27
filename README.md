@@ -1,5 +1,5 @@
 # World Model and Embodied AI arxiv Papers
-### Updated on 2026.02.26
+### Updated on 2026.02.27
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#1-world-model>1-World Model</a></li>
@@ -16,7 +16,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-02-25**|**Solaris: Building a Multiplayer Video World Model in Minecraft**|Georgy Savva et.al.|[2602.22208](http://arxiv.org/abs/2602.22208)|null|
+|**2026-02-26**|**Risk-Aware World Model Predictive Control for Generalizable End-to-End Autonomous Driving**|Jiangxin Sun et.al.|[2602.23259](http://arxiv.org/abs/2602.23259)|null|
+|**2026-02-26**|**MetaOthello: A Controlled Study of Multiple World Models in Transformers**|Aviral Chawla et.al.|[2602.23164](http://arxiv.org/abs/2602.23164)|null|
+|**2026-02-26**|**The Trinity of Consistency as a Defining Principle for General World Models**|Jingxuan Wei et.al.|[2602.23152](http://arxiv.org/abs/2602.23152)|null|
+|**2026-02-26**|**On Sample-Efficient Generalized Planning via Learned Transition Models**|Nitin Gupta et.al.|[2602.23148](http://arxiv.org/abs/2602.23148)|null|
+|**2026-02-26**|**GeoWorld: Geometric World Models**|Zeyu Zhang et.al.|[2602.23058](http://arxiv.org/abs/2602.23058)|null|
+|**2026-02-26**|**UCM: Unifying Camera Control and Memory with Time-aware Positional Encoding Warping for World Models**|Tianxing Xu et.al.|[2602.22960](http://arxiv.org/abs/2602.22960)|null|
+|**2026-02-26**|**Solaris: Building a Multiplayer Video World Model in Minecraft**|Georgy Savva et.al.|[2602.22208](http://arxiv.org/abs/2602.22208)|null|
+|**2026-02-25**|**CWM: Contrastive World Models for Action Feasibility Learning in Embodied Agent Pipelines**|Chayan Banerjee et.al.|[2602.22452](http://arxiv.org/abs/2602.22452)|null|
+|**2026-02-25**|**Code World Models for Parameter Control in Evolutionary Algorithms**|Camilo Chacón Sartori et.al.|[2602.22260](http://arxiv.org/abs/2602.22260)|null|
 |**2026-02-25**|**World Guidance: World Modeling in Condition Space for Action Generation**|Yue Su et.al.|[2602.22010](http://arxiv.org/abs/2602.22010)|null|
 |**2026-02-25**|**Geometric Priors for Generalizable World Models via Vector Symbolic Architecture**|William Youngwoo Chung et.al.|[2602.21467](http://arxiv.org/abs/2602.21467)|null|
 |**2026-02-25**|**RAYNOVA: Scale-Temporal Autoregressive World Modeling in Ray Space**|Yichen Xie et.al.|[2602.20685](http://arxiv.org/abs/2602.20685)|null|
@@ -574,7 +582,7 @@
 |**2025-11-19**|**Zero-Shot Open-Vocabulary Human Motion Grounding with Test-Time Training**|Yunjiao Zhou et.al.|[2511.15379](http://arxiv.org/abs/2511.15379)|null|
 |**2025-11-19**|**Towards Evolutionary Optimization Using the Ising Model**|Simon Klüttermann et.al.|[2511.15377](http://arxiv.org/abs/2511.15377)|null|
 
-</details><p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260227>back to top</a>)</p>
 
 <details>
 
@@ -584,6 +592,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-26**|**Scale Can't Overcome Pragmatics: The Impact of Reporting Bias on Vision-Language Reasoning**|Amita Kamath et.al.|[2602.23351](http://arxiv.org/abs/2602.23351)|null|
+|**2026-02-26**|**Retrieve and Segment: Are a Few Examples Enough to Bridge the Supervision Gap in Open-Vocabulary Segmentation?**|Tilemachos Aravanis et.al.|[2602.23339](http://arxiv.org/abs/2602.23339)|null|
+|**2026-02-26**|**CXReasonAgent: Evidence-Grounded Diagnostic Reasoning Agent for Chest X-rays**|Hyungyung Lee et.al.|[2602.23276](http://arxiv.org/abs/2602.23276)|null|
+|**2026-02-26**|**Large Multimodal Models as General In-Context Classifiers**|Marco Garosi et.al.|[2602.23229](http://arxiv.org/abs/2602.23229)|null|
+|**2026-02-26**|**MovieTeller: Tool-augmented Movie Synopsis with ID Consistent Progressive Abstraction**|Yizhi Li et.al.|[2602.23228](http://arxiv.org/abs/2602.23228)|null|
+|**2026-02-26**|**EmbodMocap: In-the-Wild 4D Human-Scene Reconstruction for Embodied Agents**|Wenjia Wang et.al.|[2602.23205](http://arxiv.org/abs/2602.23205)|null|
+|**2026-02-26**|**Cytoarchitecture in Words: Weakly Supervised Vision-Language Modeling for Human Brain Microscopy**|Matthew Sutton et.al.|[2602.23088](http://arxiv.org/abs/2602.23088)|null|
+|**2026-02-26**|**SubspaceAD: Training-Free Few-Shot Anomaly Detection via Subspace Modeling**|Camile Lendering et.al.|[2602.23013](http://arxiv.org/abs/2602.23013)|null|
+|**2026-02-26**|**Where Vision Becomes Text: Locating the OCR Routing Bottleneck in Vision-Language Models**|Jonathan Steinberg et.al.|[2602.22918](http://arxiv.org/abs/2602.22918)|null|
+|**2026-02-26**|**TrajTok: Learning Trajectory Tokens enables better Video Understanding**|Chenhao Zheng et.al.|[2602.22779](http://arxiv.org/abs/2602.22779)|null|
+|**2026-02-26**|**HulluEdit: Single-Pass Evidence-Consistent Subspace Editing for Mitigating Hallucinations in Large Vision-Language Models**|Yangguang Lin et.al.|[2602.22727](http://arxiv.org/abs/2602.22727)|null|
+|**2026-02-26**|**SoPE: Spherical Coordinate-Based Positional Embedding for Enhancing Spatial Perception of 3D LVLMs**|Guanting Ye et.al.|[2602.22716](http://arxiv.org/abs/2602.22716)|null|
+|**2026-02-26**|**Enhancing Geometric Perception in VLMs via Translator-Guided Reinforcement Learning**|Hao Yu et.al.|[2602.22703](http://arxiv.org/abs/2602.22703)|null|
+|**2026-02-26**|**No Caption, No Problem: Caption-Free Membership Inference via Model-Fitted Embeddings**|Joonsung Jeon et.al.|[2602.22689](http://arxiv.org/abs/2602.22689)|null|
+|**2026-02-26**|**SUPERGLASSES: Benchmarking Vision Language Models as Intelligent Agents for AI Smart Glasses**|Zhuohang Jiang et.al.|[2602.22683](http://arxiv.org/abs/2602.22683)|null|
+|**2026-02-26**|**ViCLIP-OT: The First Foundation Vision-Language Model for Vietnamese Image-Text Retrieval with Optimal Transport**|Quoc-Khang Tran et.al.|[2602.22678](http://arxiv.org/abs/2602.22678)|null|
+|**2026-02-26**|**Monocular Open Vocabulary Occupancy Prediction for Indoor Scenes**|Changqing Zhou et.al.|[2602.22667](http://arxiv.org/abs/2602.22667)|null|
+|**2026-02-26**|**DrivePTS: A Progressive Learning Framework with Textual and Structural Enhancement for Driving Scene Generation**|Zhechao Wang et.al.|[2602.22549](http://arxiv.org/abs/2602.22549)|null|
+|**2026-02-25**|**When to Act, Ask, or Learn: Uncertainty-Aware Policy Steering**|Jessie Yuan et.al.|[2602.22474](http://arxiv.org/abs/2602.22474)|null|
+|**2026-02-25**|**Beyond Dominant Patches: Spatial Credit Redistribution For Grounded Vision-Language Models**|Niamul Hassan Samin et.al.|[2602.22469](http://arxiv.org/abs/2602.22469)|null|
 |**2026-02-25**|**NoLan: Mitigating Object Hallucinations in Large Vision-Language Models via Dynamic Suppression of Language Priors**|Lingfeng Ren et.al.|[2602.22144](http://arxiv.org/abs/2602.22144)|null|
 |**2026-02-25**|**GeoDiv: Framework For Measuring Geographical Diversity In Text-To-Image Models**|Abhipsa Basu et.al.|[2602.22120](http://arxiv.org/abs/2602.22120)|null|
 |**2026-02-25**|**Brain3D: Brain Report Automation via Inflated Vision Transformers in 3D**|Mariano Barone et.al.|[2602.22098](http://arxiv.org/abs/2602.22098)|null|
@@ -1786,7 +1814,7 @@
 |**2025-11-19**|**Context Cascade Compression: Exploring the Upper Limits of Text Compression**|Fanfan Liu et.al.|[2511.15244](http://arxiv.org/abs/2511.15244)|null|
 |**2025-11-19**|**SkinGPT-R1: Adapter-Only Dual Distillation for Efficient Dermatology Reasoning**|Yuhao Shen et.al.|[2511.15242](http://arxiv.org/abs/2511.15242)|null|
 
-</details><p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260227>back to top</a>)</p>
 
 <details>
 
@@ -1796,10 +1824,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-02-25**|**Solaris: Building a Multiplayer Video World Model in Minecraft**|Georgy Savva et.al.|[2602.22208](http://arxiv.org/abs/2602.22208)|null|
+|**2026-02-26**|**ColoDiff: Integrating Dynamic Consistency With Content Awareness for Colonoscopy Video Generation**|Junhu Fu et.al.|[2602.23203](http://arxiv.org/abs/2602.23203)|null|
+|**2026-02-26**|**The Trinity of Consistency as a Defining Principle for General World Models**|Jingxuan Wei et.al.|[2602.23152](http://arxiv.org/abs/2602.23152)|null|
+|**2026-02-26**|**UCM: Unifying Camera Control and Memory with Time-aware Positional Encoding Warping for World Models**|Tianxing Xu et.al.|[2602.22960](http://arxiv.org/abs/2602.22960)|null|
+|**2026-02-26**|**SPATIALALIGN: Aligning Dynamic Spatial Relationships in Video Generation**|Fengming Liu et.al.|[2602.22745](http://arxiv.org/abs/2602.22745)|null|
+|**2026-02-26**|**Denoising as Path Planning: Training-Free Acceleration of Diffusion Models with DPCache**|Bowen Cui et.al.|[2602.22654](http://arxiv.org/abs/2602.22654)|null|
+|**2026-02-26**|**Solaris: Building a Multiplayer Video World Model in Minecraft**|Georgy Savva et.al.|[2602.22208](http://arxiv.org/abs/2602.22208)|null|
+|**2026-02-26**|**SkyReels-V4: Multi-modal Video-Audio Generation, Inpainting and Editing model**|Guibin Chen et.al.|[2602.21818](http://arxiv.org/abs/2602.21818)|null|
+|**2026-02-25**|**Flow Matching is Adaptive to Manifold Structures**|Shivam Kumar et.al.|[2602.22486](http://arxiv.org/abs/2602.22486)|null|
 |**2026-02-25**|**Geometry-as-context: Modulating Explicit 3D in Scene-consistent Video Generation to Geometry Context**|JiaKui Hu et.al.|[2602.21929](http://arxiv.org/abs/2602.21929)|null|
 |**2026-02-25**|**UniVBench: Towards Unified Evaluation for Video Foundation Models**|Jianhui Wei et.al.|[2602.21835](http://arxiv.org/abs/2602.21835)|null|
-|**2026-02-25**|**SkyReels-V4: Multi-modal Video-Audio Generation, Inpainting and Editing model**|Guibin Chen et.al.|[2602.21818](http://arxiv.org/abs/2602.21818)|null|
 |**2026-02-25**|**MultiAnimate: Pose-Guided Image Animation Made Extensible**|Yingcheng Hu et.al.|[2602.21581](http://arxiv.org/abs/2602.21581)|null|
 |**2026-02-25**|**RAYNOVA: Scale-Temporal Autoregressive World Modeling in Ray Space**|Yichen Xie et.al.|[2602.20685](http://arxiv.org/abs/2602.20685)|null|
 |**2026-02-24**|**Towards Controllable Video Synthesis of Routine and Rare OR Events**|Dominik Schneider et.al.|[2602.21365](http://arxiv.org/abs/2602.21365)|null|
@@ -2374,7 +2408,7 @@
 |**2025-11-18**|**FlowRoI A Fast Optical Flow Driven Region of Interest Extraction Framework for High-Throughput Image Compression in Immune Cell Migration Analysis**|Xiaowei Xu et.al.|[2511.14419](http://arxiv.org/abs/2511.14419)|null|
 |**2025-11-18**|**ARC-Chapter: Structuring Hour-Long Videos into Navigable Chapters and Hierarchical Summaries**|Junfu Pu et.al.|[2511.14349](http://arxiv.org/abs/2511.14349)|null|
 
-</details><p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260227>back to top</a>)</p>
 
 Notes: 
 
