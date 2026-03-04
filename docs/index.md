@@ -3,7 +3,7 @@ layout: default
 ---
 
 # World Model and Embodied AI arxiv Papers
-### Updated on 2026.03.03
+### Updated on 2026.03.04
 <details>
 
 <summary> 1-World Model </summary>
@@ -12,16 +12,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**Beyond Language Modeling: An Exploration of Multimodal Pretraining**|Shengbang Tong et.al.|[2603.03276](http://arxiv.org/abs/2603.03276)|null|
+|**2026-03-03**|**Chain of World: World Model Thinking in Latent Motion**|Fuxiang Yang et.al.|[2603.03195](http://arxiv.org/abs/2603.03195)|null|
+|**2026-03-03**|**Contextual Latent World Models for Offline Meta Reinforcement Learning**|Mohammadreza Nakheai et.al.|[2603.02935](http://arxiv.org/abs/2603.02935)|null|
+|**2026-03-03**|**Next Embedding Prediction Makes World Models Stronger**|George Bredis et.al.|[2603.02765](http://arxiv.org/abs/2603.02765)|null|
+|**2026-03-03**|**ShareVerse: Multi-Agent Consistent Video Generation for Shared World Modeling**|Jiayi Zhu et.al.|[2603.02697](http://arxiv.org/abs/2603.02697)|null|
+|**2026-03-03**|**What Capable Agents Must Know: Selection Theorems for Robust Decision-Making under Uncertainty**|Aran Nayebi et.al.|[2603.02491](http://arxiv.org/abs/2603.02491)|null|
+|**2026-03-03**|**NeuroHex: Highly-Efficient Hex Coordinate System for Creating World Models to Enable Adaptive AI**|Quinn Jacobson et.al.|[2603.00376](http://arxiv.org/abs/2603.00376)|null|
 |**2026-03-02**|**WorldStereo: Bridging Camera-Guided Video Generation and Scene Reconstruction via 3D Geometric Memories**|Yisu Zhang et.al.|[2603.02049](http://arxiv.org/abs/2603.02049)|null|
 |**2026-03-02**|**LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving**|Yuechen Luo et.al.|[2603.01928](http://arxiv.org/abs/2603.01928)|null|
 |**2026-03-02**|**Performance comparison of Python, MATLAB and R for numerical solutions of SI and SIR epidemiological models**|Berkay Özışık et.al.|[2603.01916](http://arxiv.org/abs/2603.01916)|null|
 |**2026-03-02**|**Discrete World Models via Regularization**|Davide Bizzaro et.al.|[2603.01748](http://arxiv.org/abs/2603.01748)|null|
 |**2026-03-02**|**Scaling Tasks, Not Samples: Mastering Humanoid Control through Multi-Task Model-Based Reinforcement Learning**|Shaohuai Liu et.al.|[2603.01452](http://arxiv.org/abs/2603.01452)|null|
+|**2026-03-01**|**Contextual Invertible World Models: A Neuro-Symbolic Agentic Framework for Colorectal Cancer Drug Response**|Christopher Baker et.al.|[2603.02274](http://arxiv.org/abs/2603.02274)|null|
+|**2026-02-28**|**Social-JEPA: Emergent Geometric Isomorphism**|Haoran Zhang et.al.|[2603.02263](http://arxiv.org/abs/2603.02263)|null|
 |**2026-02-28**|**COMBAT: Conditional World Models for Behavioral Agent Training**|Anmol Agarwal et.al.|[2603.00825](http://arxiv.org/abs/2603.00825)|null|
 |**2026-02-28**|**MetaMind: General and Cognitive World Models in Multi-Agent Systems by Meta-Theory of Mind**|Lingyi Wang et.al.|[2603.00808](http://arxiv.org/abs/2603.00808)|null|
 |**2026-02-28**|**MicroVerse: A Preliminary Exploration Toward a Micro-World Simulation**|Rongsheng Wang et.al.|[2603.00585](http://arxiv.org/abs/2603.00585)|null|
 |**2026-02-28**|**DreamWorld: Unified World Modeling in Video Generation**|Boming Tan et.al.|[2603.00466](http://arxiv.org/abs/2603.00466)|null|
-|**2026-02-27**|**NeuroHex: Highly-Efficient Hex Coordinate System for Creating World Models to Enable Adaptive AI**|Quinn Jacobson et.al.|[2603.00376](http://arxiv.org/abs/2603.00376)|null|
 |**2026-02-27**|**Planning from Observation and Interaction**|Tyler Han et.al.|[2602.24121](http://arxiv.org/abs/2602.24121)|null|
 |**2026-02-27**|**Foundation World Models for Agents that Learn, Verify, and Adapt Reliably Beyond Static Environments**|Florent Delgrange et.al.|[2602.23997](http://arxiv.org/abs/2602.23997)|null|
 |**2026-02-27**|**MSVBench: Towards Human-Level Evaluation of Multi-Shot Video Generation**|Haoyuan Shi et.al.|[2602.23969](http://arxiv.org/abs/2602.23969)|null|
@@ -599,6 +607,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**Utonia: Toward One Encoder for All Point Clouds**|Yujia Zhang et.al.|[2603.03283](http://arxiv.org/abs/2603.03283)|null|
+|**2026-03-03**|**Tether: Autonomous Functional Play with Correspondence-Driven Trajectory Warping**|William Liang et.al.|[2603.03278](http://arxiv.org/abs/2603.03278)|null|
+|**2026-03-03**|**UniG2U-Bench: Do Unified Models Advance Multimodal Understanding?**|Zimo Wen et.al.|[2603.03241](http://arxiv.org/abs/2603.03241)|null|
+|**2026-03-03**|**From Language to Action: Can LLM-Based Agents Be Used for Embodied Robot Cognition?**|Shinas Shaji et.al.|[2603.03148](http://arxiv.org/abs/2603.03148)|null|
+|**2026-03-03**|**TagaVLM: Topology-Aware Global Action Reasoning for Vision-Language Navigation**|Jiaxing Liu et.al.|[2603.02972](http://arxiv.org/abs/2603.02972)|null|
+|**2026-03-03**|**Semi-Supervised Few-Shot Adaptation of Vision-Language Models**|Julio Silva-Rodríguez et.al.|[2603.02959](http://arxiv.org/abs/2603.02959)|null|
+|**2026-03-03**|**Think-as-You-See: Streaming Chain-of-Thought Reasoning for Large Vision-Language Models**|Jialiang Zhang et.al.|[2603.02872](http://arxiv.org/abs/2603.02872)|null|
+|**2026-03-03**|**Nodes Are Early, Edges Are Late: Probing Diagram Representations in Large Vision-Language Models**|Haruto Yoshida et.al.|[2603.02865](http://arxiv.org/abs/2603.02865)|null|
+|**2026-03-03**|**CoFL: Continuous Flow Fields for Language-Conditioned Navigation**|Haokun Liu et.al.|[2603.02854](http://arxiv.org/abs/2603.02854)|null|
+|**2026-03-03**|**iGVLM: Dynamic Instruction-Guided Vision Encoding for Question-Aware Multimodal Understanding**|HanZpeng Liu et.al.|[2603.02748](http://arxiv.org/abs/2603.02748)|null|
+|**2026-03-03**|**Retrieval-Augmented Robots via Retrieve-Reason-Act**|Izat Temiraliev et.al.|[2603.02688](http://arxiv.org/abs/2603.02688)|null|
+|**2026-03-03**|**Behavior-Aware Anthropometric Scene Generation for Human-Usable 3D Layouts**|Semin Jin et.al.|[2603.02662](http://arxiv.org/abs/2603.02662)|null|
+|**2026-03-03**|**OmniFashion: Towards Generalist Fashion Intelligence via Multi-Task Vision-Language Learning**|Zhengwei Yang et.al.|[2603.02658](http://arxiv.org/abs/2603.02658)|null|
+|**2026-03-03**|**SaFeR-ToolKit: Structured Reasoning via Virtual Tool Calling for Multimodal Safety**|Zixuan Xu et.al.|[2603.02635](http://arxiv.org/abs/2603.02635)|null|
+|**2026-03-03**|**Mind the Way You Select Negative Texts: Pursuing the Distance Consistency in OOD Detection with VLMs**|Zhikang Xu et.al.|[2603.02618](http://arxiv.org/abs/2603.02618)|null|
+|**2026-03-03**|**VLMFusionOcc3D: VLM Assisted Multi-Modal 3D Semantic Occupancy Prediction**|A. Enes Doruk et.al.|[2603.02609](http://arxiv.org/abs/2603.02609)|null|
+|**2026-03-03**|**CAPT: Confusion-Aware Prompt Tuning for Reducing Vision-Language Misalignment**|Maoyuan Shao et.al.|[2603.02557](http://arxiv.org/abs/2603.02557)|null|
+|**2026-03-03**|**Through the Lens of Contrast: Self-Improving Visual Reasoning in VLMs**|Zhiyu Pan et.al.|[2603.02556](http://arxiv.org/abs/2603.02556)|null|
+|**2026-03-03**|**Give me scissors: Collision-Free Dual-Arm Surgical Assistive Robot for Instrument Delivery**|Xuejin Luo et.al.|[2603.02553](http://arxiv.org/abs/2603.02553)|null|
+|**2026-03-03**|**Agentic Mixed-Source Multi-Modal Misinformation Detection with Adaptive Test-Time Scaling**|Wei Jiang et.al.|[2603.02519](http://arxiv.org/abs/2603.02519)|null|
 |**2026-03-02**|**OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens**|Yiying Yang et.al.|[2603.02138](http://arxiv.org/abs/2603.02138)|null|
 |**2026-03-02**|**Recursive Think-Answer Process for LLMs and VLMs**|Byung-Kwan Lee et.al.|[2603.02099](http://arxiv.org/abs/2603.02099)|null|
 |**2026-03-02**|**Expanding LLM Agent Boundaries with Strategy-Guided Exploration**|Andrew Szot et.al.|[2603.02045](http://arxiv.org/abs/2603.02045)|null|
@@ -1867,6 +1895,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**TC-Padé: Trajectory-Consistent Padé Approximation for Diffusion Acceleration**|Benlei Cui et.al.|[2603.02943](http://arxiv.org/abs/2603.02943)|null|
+|**2026-03-03**|**SemanticDialect: Semantic-Aware Mixed-Format Quantization for Video Diffusion Transformers**|Wonsuk Jang et.al.|[2603.02883](http://arxiv.org/abs/2603.02883)|null|
+|**2026-03-03**|**SIGMark: Scalable In-Generation Watermark with Blind Extraction for Video Diffusion**|Xinjie Zhu et.al.|[2603.02882](http://arxiv.org/abs/2603.02882)|null|
+|**2026-03-03**|**BrandFusion: A Multi-Agent Framework for Seamless Brand Integration in Text-to-Video Generation**|Zihao Zhu et.al.|[2603.02816](http://arxiv.org/abs/2603.02816)|null|
+|**2026-03-03**|**ShareVerse: Multi-Agent Consistent Video Generation for Shared World Modeling**|Jiayi Zhu et.al.|[2603.02697](http://arxiv.org/abs/2603.02697)|null|
+|**2026-03-03**|**Direct Reward Fine-Tuning on Poses for Single Image to 3D Human in the Wild**|Seunguk Do et.al.|[2603.02619](http://arxiv.org/abs/2603.02619)|null|
+|**2026-03-03**|**PreciseCache: Precise Feature Caching for Efficient and High-fidelity Video Generation**|Jiangshan Wang et.al.|[2603.00976](http://arxiv.org/abs/2603.00976)|null|
 |**2026-03-02**|**LiftAvatar: Kinematic-Space Completion for Expression-Controlled 3D Gaussian Avatar Animation**|Hualiang Wei et.al.|[2603.02129](http://arxiv.org/abs/2603.02129)|null|
 |**2026-03-02**|**WorldStereo: Bridging Camera-Guided Video Generation and Scene Reconstruction via 3D Geometric Memories**|Yisu Zhang et.al.|[2603.02049](http://arxiv.org/abs/2603.02049)|null|
 |**2026-03-02**|**FastLightGen: Fast and Light Video Generation with Fewer Steps and Parameters**|Shao Shitong et.al.|[2603.01685](http://arxiv.org/abs/2603.01685)|null|
@@ -1875,7 +1910,6 @@ layout: default
 |**2026-03-02**|**UniTalking: A Unified Audio-Video Framework for Talking Portrait Generation**|Hebeizi Li et.al.|[2603.01418](http://arxiv.org/abs/2603.01418)|null|
 |**2026-03-01**|**Let Your Image Move with Your Motion! -- Implicit Multi-Object Multi-Motion Transfer**|Yuze Li et.al.|[2603.01000](http://arxiv.org/abs/2603.01000)|null|
 |**2026-03-01**|**EraseAnything++: Enabling Concept Erasure in Rectified Flow Transformers Leveraging Multi-Object Optimization**|Zhaoxin Fan et.al.|[2603.00978](http://arxiv.org/abs/2603.00978)|null|
-|**2026-03-01**|**PreciseCache: Precise Feature Caching for Efficient and High-fidelity Video Generation**|Jiangshan Wang et.al.|[2603.00976](http://arxiv.org/abs/2603.00976)|null|
 |**2026-02-28**|**COMBAT: Conditional World Models for Behavioral Agent Training**|Anmol Agarwal et.al.|[2603.00825](http://arxiv.org/abs/2603.00825)|null|
 |**2026-02-28**|**WildActor: Unconstrained Identity-Preserving Video Generation**|Qin Guo et.al.|[2603.00586](http://arxiv.org/abs/2603.00586)|null|
 |**2026-02-28**|**MicroVerse: A Preliminary Exploration Toward a Micro-World Simulation**|Rongsheng Wang et.al.|[2603.00585](http://arxiv.org/abs/2603.00585)|null|
