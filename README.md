@@ -1,5 +1,5 @@
 # World Model and Embodied AI arxiv Papers
-### Updated on 2026.03.04
+### Updated on 2026.03.05
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#1-world-model>1-World Model</a></li>
@@ -16,6 +16,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**World Properties without World Models: Recovering Spatial and Temporal Structure from Co-occurrence Statistics in Static Word Embeddings**|Elan Barenholtz et.al.|[2603.04317](http://arxiv.org/abs/2603.04317)|null|
+|**2026-03-04**|**IPD: Boosting Sequential Policy with Imaginary Planning Distillation in Offline Reinforcement Learning**|Yihao Qin et.al.|[2603.04289](http://arxiv.org/abs/2603.04289)|null|
+|**2026-03-04**|**Self-adapting Robotic Agents through Online Continual Reinforcement Learning with World Model Feedback**|Fabian Domberg et.al.|[2603.04029](http://arxiv.org/abs/2603.04029)|null|
+|**2026-03-04**|**Specification-Driven Generation and Evaluation of Discrete-Event World Models via the DEVS Formalism**|Zheyu Chen et.al.|[2603.03784](http://arxiv.org/abs/2603.03784)|null|
+|**2026-03-04**|**Performance comparison of Python, MATLAB and R for numerical solutions of SI and SIR epidemiological models**|Berkay Özışık et.al.|[2603.01916](http://arxiv.org/abs/2603.01916)|null|
+|**2026-03-03**|**The Controllability Trap: A Governance Framework for Military AI Agents**|Subramanyam Sahoo et.al.|[2603.03515](http://arxiv.org/abs/2603.03515)|null|
+|**2026-03-03**|**Phys4D: Fine-Grained Physics-Consistent 4D Modeling from Video Diffusion**|Haoran Lu et.al.|[2603.03485](http://arxiv.org/abs/2603.03485)|null|
+|**2026-03-03**|**Beyond Pixel Histories: World Models with Persistent 3D State**|Samuel Garcin et.al.|[2603.03482](http://arxiv.org/abs/2603.03482)|null|
 |**2026-03-03**|**Beyond Language Modeling: An Exploration of Multimodal Pretraining**|Shengbang Tong et.al.|[2603.03276](http://arxiv.org/abs/2603.03276)|null|
 |**2026-03-03**|**Chain of World: World Model Thinking in Latent Motion**|Fuxiang Yang et.al.|[2603.03195](http://arxiv.org/abs/2603.03195)|null|
 |**2026-03-03**|**Contextual Latent World Models for Offline Meta Reinforcement Learning**|Mohammadreza Nakheai et.al.|[2603.02935](http://arxiv.org/abs/2603.02935)|null|
@@ -25,7 +33,6 @@
 |**2026-03-03**|**NeuroHex: Highly-Efficient Hex Coordinate System for Creating World Models to Enable Adaptive AI**|Quinn Jacobson et.al.|[2603.00376](http://arxiv.org/abs/2603.00376)|null|
 |**2026-03-02**|**WorldStereo: Bridging Camera-Guided Video Generation and Scene Reconstruction via 3D Geometric Memories**|Yisu Zhang et.al.|[2603.02049](http://arxiv.org/abs/2603.02049)|null|
 |**2026-03-02**|**LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving**|Yuechen Luo et.al.|[2603.01928](http://arxiv.org/abs/2603.01928)|null|
-|**2026-03-02**|**Performance comparison of Python, MATLAB and R for numerical solutions of SI and SIR epidemiological models**|Berkay Özışık et.al.|[2603.01916](http://arxiv.org/abs/2603.01916)|null|
 |**2026-03-02**|**Discrete World Models via Regularization**|Davide Bizzaro et.al.|[2603.01748](http://arxiv.org/abs/2603.01748)|null|
 |**2026-03-02**|**Scaling Tasks, Not Samples: Mastering Humanoid Control through Multi-Task Model-Based Reinforcement Learning**|Shaohuai Liu et.al.|[2603.01452](http://arxiv.org/abs/2603.01452)|null|
 |**2026-03-01**|**Contextual Invertible World Models: A Neuro-Symbolic Agentic Framework for Colorectal Cancer Drug Response**|Christopher Baker et.al.|[2603.02274](http://arxiv.org/abs/2603.02274)|null|
@@ -603,7 +610,7 @@
 |**2025-11-19**|**Zero-Shot Open-Vocabulary Human Motion Grounding with Test-Time Training**|Yunjiao Zhou et.al.|[2511.15379](http://arxiv.org/abs/2511.15379)|null|
 |**2025-11-19**|**Towards Evolutionary Optimization Using the Ising Model**|Simon Klüttermann et.al.|[2511.15377](http://arxiv.org/abs/2511.15377)|null|
 
-</details><p align=right>(<a href=#updated-on-20260304>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
 
 <details>
 
@@ -613,6 +620,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**TaxonRL: Reinforcement Learning with Intermediate Rewards for Interpretable Fine-Grained Visual Reasoning**|Maximilian von Klinski et.al.|[2603.04380](http://arxiv.org/abs/2603.04380)|null|
+|**2026-03-04**|**ManipulationNet: An Infrastructure for Benchmarking Real-World Robot Manipulation with Physical Skill Challenges and Embodied Multimodal Reasoning**|Yiting Chen et.al.|[2603.04363](http://arxiv.org/abs/2603.04363)|null|
+|**2026-03-04**|**Scalable Evaluation of the Realism of Synthetic Environmental Augmentations in Images**|Damian J. Ruck et.al.|[2603.04325](http://arxiv.org/abs/2603.04325)|null|
+|**2026-03-04**|**Real5-OmniDocBench: A Full-Scale Physical Reconstruction Benchmark for Robust Document Parsing in the Wild**|Changda Zhou et.al.|[2603.04205](http://arxiv.org/abs/2603.04205)|null|
+|**2026-03-04**|**Real Eyes Realize Faster: Gaze Stability and Pupil Novelty for Efficient Egocentric Learning**|Ajan Subramanian et.al.|[2603.04098](http://arxiv.org/abs/2603.04098)|null|
+|**2026-03-04**|**When Visual Evidence is Ambiguous: Pareidolia as a Diagnostic Probe for Vision Models**|Qianpu Chen et.al.|[2603.03989](http://arxiv.org/abs/2603.03989)|null|
+|**2026-03-04**|**Lightweight Visual Reasoning for Socially-Aware Robots**|Alessio Galatolo et.al.|[2603.03942](http://arxiv.org/abs/2603.03942)|null|
+|**2026-03-04**|**DeepScan: A Training-Free Framework for Visually Grounded Reasoning in Large Vision-Language Models**|Yangfu Li et.al.|[2603.03857](http://arxiv.org/abs/2603.03857)|null|
+|**2026-03-03**|**Logit-Level Uncertainty Quantification in Vision-Language Models for Histopathology Image Analysis**|Betul Yurdem et.al.|[2603.03527](http://arxiv.org/abs/2603.03527)|null|
 |**2026-03-03**|**Utonia: Toward One Encoder for All Point Clouds**|Yujia Zhang et.al.|[2603.03283](http://arxiv.org/abs/2603.03283)|null|
 |**2026-03-03**|**Tether: Autonomous Functional Play with Correspondence-Driven Trajectory Warping**|William Liang et.al.|[2603.03278](http://arxiv.org/abs/2603.03278)|null|
 |**2026-03-03**|**UniG2U-Bench: Do Unified Models Advance Multimodal Understanding?**|Zimo Wen et.al.|[2603.03241](http://arxiv.org/abs/2603.03241)|null|
@@ -1893,7 +1909,7 @@
 |**2025-11-19**|**Context Cascade Compression: Exploring the Upper Limits of Text Compression**|Fanfan Liu et.al.|[2511.15244](http://arxiv.org/abs/2511.15244)|null|
 |**2025-11-19**|**SkinGPT-R1: Adapter-Only Dual Distillation for Efficient Dermatology Reasoning**|Yuhao Shen et.al.|[2511.15242](http://arxiv.org/abs/2511.15242)|null|
 
-</details><p align=right>(<a href=#updated-on-20260304>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
 
 <details>
 
@@ -1903,6 +1919,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**Helios: Real Real-Time Long Video Generation Model**|Shenghai Yuan et.al.|[2603.04379](http://arxiv.org/abs/2603.04379)|null|
+|**2026-03-04**|**ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors**|Zihao Huang et.al.|[2603.04338](http://arxiv.org/abs/2603.04338)|null|
+|**2026-03-04**|**CubeComposer: Spatio-Temporal Autoregressive 4K 360° Video Generation from Perspective Video**|Lingen Li et.al.|[2603.04291](http://arxiv.org/abs/2603.04291)|null|
+|**2026-03-04**|**InfinityStory: Unlimited Video Generation with World Consistency and Character-Aware Shot Transitions**|Mohamed Elmoghany et.al.|[2603.03646](http://arxiv.org/abs/2603.03646)|null|
+|**2026-03-03**|**PhyPrompt: RL-based Prompt Refinement for Physically Plausible Text-to-Video Generation**|Shang Wu et.al.|[2603.03505](http://arxiv.org/abs/2603.03505)|null|
 |**2026-03-03**|**TC-Padé: Trajectory-Consistent Padé Approximation for Diffusion Acceleration**|Benlei Cui et.al.|[2603.02943](http://arxiv.org/abs/2603.02943)|null|
 |**2026-03-03**|**SemanticDialect: Semantic-Aware Mixed-Format Quantization for Video Diffusion Transformers**|Wonsuk Jang et.al.|[2603.02883](http://arxiv.org/abs/2603.02883)|null|
 |**2026-03-03**|**SIGMark: Scalable In-Generation Watermark with Blind Extraction for Video Diffusion**|Xinjie Zhu et.al.|[2603.02882](http://arxiv.org/abs/2603.02882)|null|
@@ -2513,7 +2534,7 @@
 |**2025-11-18**|**FlowRoI A Fast Optical Flow Driven Region of Interest Extraction Framework for High-Throughput Image Compression in Immune Cell Migration Analysis**|Xiaowei Xu et.al.|[2511.14419](http://arxiv.org/abs/2511.14419)|null|
 |**2025-11-18**|**ARC-Chapter: Structuring Hour-Long Videos into Navigable Chapters and Hierarchical Summaries**|Junfu Pu et.al.|[2511.14349](http://arxiv.org/abs/2511.14349)|null|
 
-</details><p align=right>(<a href=#updated-on-20260304>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
 
 Notes: 
 
