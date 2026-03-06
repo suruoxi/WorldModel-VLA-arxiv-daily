@@ -3,7 +3,7 @@ layout: default
 ---
 
 # World Model and Embodied AI arxiv Papers
-### Updated on 2026.03.05
+### Updated on 2026.03.06
 <details>
 
 <summary> 1-World Model </summary>
@@ -12,6 +12,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**Planning in 8 Tokens: A Compact Discrete Tokenizer for Latent World Model**|Dongwon Kim et.al.|[2603.05438](http://arxiv.org/abs/2603.05438)|null|
+|**2026-03-05**|**BLINK: Behavioral Latent Modeling of NK Cell Cytotoxicity**|Iman Nematollahi et.al.|[2603.05110](http://arxiv.org/abs/2603.05110)|null|
+|**2026-03-05**|**Probabilistic Dreaming for World Models**|Gavin Wong et.al.|[2603.04715](http://arxiv.org/abs/2603.04715)|null|
+|**2026-03-04**|**Latent Particle World Models: Self-supervised Object-centric Stochastic Dynamics Modeling**|Tal Daniel et.al.|[2603.04553](http://arxiv.org/abs/2603.04553)|null|
 |**2026-03-04**|**World Properties without World Models: Recovering Spatial and Temporal Structure from Co-occurrence Statistics in Static Word Embeddings**|Elan Barenholtz et.al.|[2603.04317](http://arxiv.org/abs/2603.04317)|null|
 |**2026-03-04**|**IPD: Boosting Sequential Policy with Imaginary Planning Distillation in Offline Reinforcement Learning**|Yihao Qin et.al.|[2603.04289](http://arxiv.org/abs/2603.04289)|null|
 |**2026-03-04**|**Self-adapting Robotic Agents through Online Continual Reinforcement Learning with World Model Feedback**|Fabian Domberg et.al.|[2603.04029](http://arxiv.org/abs/2603.04029)|null|
@@ -614,6 +618,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**HALP: Detecting Hallucinations in Vision-Language Models without Generating a Single Token**|Sai Akhil Kogilathota et.al.|[2603.05465](http://arxiv.org/abs/2603.05465)|null|
+|**2026-03-05**|**ORMOT: A Dataset and Framework for Omnidirectional Referring Multi-Object Tracking**|Sijia Chen et.al.|[2603.05384](http://arxiv.org/abs/2603.05384)|null|
+|**2026-03-05**|**Critic in the Loop: A Tri-System VLA Framework for Robust Long-Horizon Manipulation**|Pengfei Yi et.al.|[2603.05185](http://arxiv.org/abs/2603.05185)|null|
+|**2026-03-05**|**Logi-PAR: Logic-Infused Patient Activity Recognition via Differentiable Rule**|Muhammad Zarar et.al.|[2603.05184](http://arxiv.org/abs/2603.05184)|null|
+|**2026-03-05**|**Mario: Multimodal Graph Reasoning with Large Language Models**|Yuanfu Sun et.al.|[2603.05181](http://arxiv.org/abs/2603.05181)|null|
+|**2026-03-05**|**Direct Contact-Tolerant Motion Planning With Vision Language Models**|He Li et.al.|[2603.05017](http://arxiv.org/abs/2603.05017)|null|
+|**2026-03-05**|**AdaIAT: Adaptively Increasing Attention to Generated Text to Alleviate Hallucinations in LVLM**|Li'an Zhong et.al.|[2603.04908](http://arxiv.org/abs/2603.04908)|null|
+|**2026-03-05**|**Authorize-on-Demand: Dynamic Authorization with Legality-Aware Intellectual Property Protection for VLMs**|Lianyu Wang et.al.|[2603.04896](http://arxiv.org/abs/2603.04896)|null|
+|**2026-03-05**|**Differentially Private Multimodal In-Context Learning**|Ivoline C. Ngong et.al.|[2603.04894](http://arxiv.org/abs/2603.04894)|null|
+|**2026-03-04**|**Decoding the Pulse of Reasoning VLMs in Multi-Image Understanding Tasks**|Chenjun Li et.al.|[2603.04676](http://arxiv.org/abs/2603.04676)|null|
+|**2026-03-04**|**Using Vision + Language Models to Predict Item Difficulty**|Samin Khan et.al.|[2603.04670](http://arxiv.org/abs/2603.04670)|null|
 |**2026-03-04**|**TaxonRL: Reinforcement Learning with Intermediate Rewards for Interpretable Fine-Grained Visual Reasoning**|Maximilian von Klinski et.al.|[2603.04380](http://arxiv.org/abs/2603.04380)|null|
 |**2026-03-04**|**ManipulationNet: An Infrastructure for Benchmarking Real-World Robot Manipulation with Physical Skill Challenges and Embodied Multimodal Reasoning**|Yiting Chen et.al.|[2603.04363](http://arxiv.org/abs/2603.04363)|null|
 |**2026-03-04**|**Scalable Evaluation of the Realism of Synthetic Environmental Augmentations in Images**|Damian J. Ruck et.al.|[2603.04325](http://arxiv.org/abs/2603.04325)|null|
@@ -1911,6 +1926,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**FaceCam: Portrait Video Camera Control via Scale-Aware Conditioning**|Weijie Lyu et.al.|[2603.05506](http://arxiv.org/abs/2603.05506)|null|
+|**2026-03-05**|**Accelerating Text-to-Video Generation with Calibrated Sparse Attention**|Shai Yehezkel et.al.|[2603.05503](http://arxiv.org/abs/2603.05503)|null|
+|**2026-03-05**|**RealWonder: Real-Time Physical Action-Conditioned Video Generation**|Wei Liu et.al.|[2603.05449](http://arxiv.org/abs/2603.05449)|null|
+|**2026-03-05**|**Frequency-Aware Error-Bounded Caching for Accelerating Diffusion Transformers**|Guandong Li et.al.|[2603.05315](http://arxiv.org/abs/2603.05315)|null|
+|**2026-03-05**|**FC-VFI: Faithful and Consistent Video Frame Interpolation for High-FPS Slow Motion Video Generation**|Ganggui Ding et.al.|[2603.04899](http://arxiv.org/abs/2603.04899)|null|
 |**2026-03-04**|**Helios: Real Real-Time Long Video Generation Model**|Shenghai Yuan et.al.|[2603.04379](http://arxiv.org/abs/2603.04379)|null|
 |**2026-03-04**|**ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors**|Zihao Huang et.al.|[2603.04338](http://arxiv.org/abs/2603.04338)|null|
 |**2026-03-04**|**CubeComposer: Spatio-Temporal Autoregressive 4K 360° Video Generation from Perspective Video**|Lingen Li et.al.|[2603.04291](http://arxiv.org/abs/2603.04291)|null|
