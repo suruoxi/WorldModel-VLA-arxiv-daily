@@ -1,5 +1,5 @@
 # World Model and Embodied AI arxiv Papers
-> Updated on 2026.03.07
+> Updated on 2026.03.08
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#1-world-model>1-World Model</a></li>
@@ -612,7 +612,7 @@
 - 2025-12-03, **"MCP Does Not Stand for Misuse Cryptography Protocol": Uncovering Cryptographic Misuse in Model Context Protocol at Scale**, Biwei Yan et.al., Paper: [http://arxiv.org/abs/2512.03775](http://arxiv.org/abs/2512.03775)
 - 2026-01-20, **"Just in Time" World Modeling Supports Human Planning and Reasoning**, Tony Chen et.al., Paper: [http://arxiv.org/abs/2601.14514](http://arxiv.org/abs/2601.14514)
 
-</details><p align=right>(<a href=#updated-on-20260307>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260308>back to top</a>)</p>
 
 <details>
 
@@ -1920,7 +1920,7 @@
 - 2026-02-27, **3D Modality-Aware Pre-training for Vision-Language Model in MRI Multi-organ Abnormality Detection**, Haowen Zhu et.al., Paper: [http://arxiv.org/abs/2602.23652](http://arxiv.org/abs/2602.23652)
 - 2025-11-26, **$\mathcal{E}_0$ : Enhancing Generalization and Fine-Grained Control in VLA Models via Continuized Discrete Diffusion**, Zhihao Zhan et.al., Paper: [http://arxiv.org/abs/2511.21542](http://arxiv.org/abs/2511.21542)
 
-</details><p align=right>(<a href=#updated-on-20260307>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260308>back to top</a>)</p>
 
 <details>
 
@@ -2548,7 +2548,7 @@
 - 2026-02-03, **3D-Aware Implicit Motion Control for View-Adaptive Human Video Generation**, Zhixue Fang et.al., Paper: [http://arxiv.org/abs/2602.03796](http://arxiv.org/abs/2602.03796)
 - 2025-12-28, **3D sans 3D Scans: Scalable Pre-training from Video-Generated Point Clouds**, Ryousuke Yamada et.al., Paper: [http://arxiv.org/abs/2512.23042](http://arxiv.org/abs/2512.23042)
 
-</details><p align=right>(<a href=#updated-on-20260307>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260308>back to top</a>)</p>
 
 Notes: 
 
