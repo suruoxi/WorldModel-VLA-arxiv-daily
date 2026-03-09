@@ -1,5 +1,5 @@
 # World Model and Embodied AI arxiv Papers
-### Updated on 2026.03.08
+### Updated on 2026.03.09
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#1-world-model>1-World Model</a></li>
@@ -16,6 +16,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-06**|**What if? Emulative Simulation with World Models for Situated Reasoning**|Ruiping Liu et.al.|[2603.06445](http://arxiv.org/abs/2603.06445)|null|
+|**2026-03-06**|**WorldCache: Accelerating World Models for Free via Heterogeneous Token Caching**|Weilun Feng et.al.|[2603.06331](http://arxiv.org/abs/2603.06331)|null|
+|**2026-03-06**|**Hierarchical Latent Action Model**|Hanjung Kim et.al.|[2603.05815](http://arxiv.org/abs/2603.05815)|null|
+|**2026-03-06**|**Phys4D: Fine-Grained Physics-Consistent 4D Modeling from Video Diffusion**|Haoran Lu et.al.|[2603.03485](http://arxiv.org/abs/2603.03485)|null|
 |**2026-03-05**|**Planning in 8 Tokens: A Compact Discrete Tokenizer for Latent World Model**|Dongwon Kim et.al.|[2603.05438](http://arxiv.org/abs/2603.05438)|null|
 |**2026-03-05**|**BLINK: Behavioral Latent Modeling of NK Cell Cytotoxicity**|Iman Nematollahi et.al.|[2603.05110](http://arxiv.org/abs/2603.05110)|null|
 |**2026-03-05**|**Probabilistic Dreaming for World Models**|Gavin Wong et.al.|[2603.04715](http://arxiv.org/abs/2603.04715)|null|
@@ -26,7 +30,6 @@
 |**2026-03-04**|**Specification-Driven Generation and Evaluation of Discrete-Event World Models via the DEVS Formalism**|Zheyu Chen et.al.|[2603.03784](http://arxiv.org/abs/2603.03784)|null|
 |**2026-03-04**|**Performance comparison of Python, MATLAB and R for numerical solutions of SI and SIR epidemiological models**|Berkay Özışık et.al.|[2603.01916](http://arxiv.org/abs/2603.01916)|null|
 |**2026-03-03**|**The Controllability Trap: A Governance Framework for Military AI Agents**|Subramanyam Sahoo et.al.|[2603.03515](http://arxiv.org/abs/2603.03515)|null|
-|**2026-03-03**|**Phys4D: Fine-Grained Physics-Consistent 4D Modeling from Video Diffusion**|Haoran Lu et.al.|[2603.03485](http://arxiv.org/abs/2603.03485)|null|
 |**2026-03-03**|**Beyond Pixel Histories: World Models with Persistent 3D State**|Samuel Garcin et.al.|[2603.03482](http://arxiv.org/abs/2603.03482)|null|
 |**2026-03-03**|**Beyond Language Modeling: An Exploration of Multimodal Pretraining**|Shengbang Tong et.al.|[2603.03276](http://arxiv.org/abs/2603.03276)|null|
 |**2026-03-03**|**Chain of World: World Model Thinking in Latent Motion**|Fuxiang Yang et.al.|[2603.03195](http://arxiv.org/abs/2603.03195)|null|
@@ -614,7 +617,7 @@
 |**2025-11-19**|**Zero-Shot Open-Vocabulary Human Motion Grounding with Test-Time Training**|Yunjiao Zhou et.al.|[2511.15379](http://arxiv.org/abs/2511.15379)|null|
 |**2025-11-19**|**Towards Evolutionary Optimization Using the Ising Model**|Simon Klüttermann et.al.|[2511.15377](http://arxiv.org/abs/2511.15377)|null|
 
-</details><p align=right>(<a href=#updated-on-20260308>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
 
 <details>
 
@@ -624,6 +627,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-06**|**Multimodal Large Language Models as Image Classifiers**|Nikita Kisel et.al.|[2603.06578](http://arxiv.org/abs/2603.06578)|null|
+|**2026-03-06**|**SUREON: A Benchmark and Vision-Language-Model for Surgical Reasoning**|Alejandra Perez et.al.|[2603.06570](http://arxiv.org/abs/2603.06570)|null|
+|**2026-03-06**|**Penguin-VL: Exploring the Efficiency Limits of VLM with LLM-based Vision Encoders**|Boqiang Zhang et.al.|[2603.06569](http://arxiv.org/abs/2603.06569)|null|
+|**2026-03-06**|**History-Conditioned Spatio-Temporal Visual Token Pruning for Efficient Vision-Language Navigation**|Qitong Wang et.al.|[2603.06480](http://arxiv.org/abs/2603.06480)|null|
+|**2026-03-06**|**Do Foundation Models Know Geometry? Probing Frozen Features for Continuous Physical Measurement**|Yakov Pyotr Shkolnikov et.al.|[2603.06459](http://arxiv.org/abs/2603.06459)|null|
+|**2026-03-06**|**REACT++: Efficient Cross-Attention for Real-Time Scene Graph Generation**|Maëlic Neau et.al.|[2603.06386](http://arxiv.org/abs/2603.06386)|null|
+|**2026-03-06**|**OralGPT-Plus: Learning to Use Visual Tools via Reinforcement Learning for Panoramic X-ray Analysis**|Yuxuan Fan et.al.|[2603.06366](http://arxiv.org/abs/2603.06366)|null|
+|**2026-03-06**|**K-MaT: Knowledge-Anchored Manifold Transport for Cross-Modal Prompt Learning in Medical Imaging**|Jiajun Zeng et.al.|[2603.06340](http://arxiv.org/abs/2603.06340)|null|
+|**2026-03-06**|**WMoE-CLIP: Wavelet-Enhanced Mixture-of-Experts Prompt Learning for Zero-Shot Anomaly Detection**|Peng Chen et.al.|[2603.06313](http://arxiv.org/abs/2603.06313)|null|
+|**2026-03-06**|**DEX-AR: A Dynamic Explainability Method for Autoregressive Vision-Language Models**|Walid Bousselham et.al.|[2603.06302](http://arxiv.org/abs/2603.06302)|null|
+|**2026-03-06**|**SuperSuit: An Isomorphic Bimodal Interface for Scalable Mobile Manipulation**|Tongqing Chen et.al.|[2603.06280](http://arxiv.org/abs/2603.06280)|null|
+|**2026-03-06**|**HiPP-Prune: Hierarchical Preference-Conditioned Structured Pruning for Vision-Language Models**|Lincen Bai et.al.|[2603.06270](http://arxiv.org/abs/2603.06270)|null|
+|**2026-03-06**|**GazeMoE: Perception of Gaze Target with Mixture-of-Experts**|Zhuangzhuang Dai et.al.|[2603.06256](http://arxiv.org/abs/2603.06256)|null|
+|**2026-03-06**|**A Semi-Supervised Framework for Breast Ultrasound Segmentation with Training-Free Pseudo-Label Generation and Label Refinement**|Ruili Li et.al.|[2603.06167](http://arxiv.org/abs/2603.06167)|null|
+|**2026-03-06**|**VLM-RobustBench: A Comprehensive Benchmark for Robustness of Vision-Language Models**|Rohit Saxena et.al.|[2603.06148](http://arxiv.org/abs/2603.06148)|null|
+|**2026-03-06**|**Spatial Colour Mixing Illusions as a Perception Stress Test for Vision-Language Models**|Nicoleta-Nina Basoc et.al.|[2603.06141](http://arxiv.org/abs/2603.06141)|null|
+|**2026-03-06**|**Multimodal Behavior Tree Generation: A Small Vision-Language Model for Robot Task Planning**|Cristiano Battistini et.al.|[2603.06084](http://arxiv.org/abs/2603.06084)|null|
+|**2026-03-06**|**Probing Visual Concepts in Lightweight Vision-Language Models for Automated Driving**|Nikos Theodoridis et.al.|[2603.06054](http://arxiv.org/abs/2603.06054)|null|
+|**2026-03-06**|**ViewFusion: Structured Spatial Thinking Chains for Multi-View Reasoning**|Xingjian Tao et.al.|[2603.06024](http://arxiv.org/abs/2603.06024)|null|
+|**2026-03-06**|**Energy-Driven Adaptive Visual Token Pruning for Efficient Vision-Language Models**|Jialuo He et.al.|[2603.05950](http://arxiv.org/abs/2603.05950)|null|
 |**2026-03-05**|**HALP: Detecting Hallucinations in Vision-Language Models without Generating a Single Token**|Sai Akhil Kogilathota et.al.|[2603.05465](http://arxiv.org/abs/2603.05465)|null|
 |**2026-03-05**|**ORMOT: A Dataset and Framework for Omnidirectional Referring Multi-Object Tracking**|Sijia Chen et.al.|[2603.05384](http://arxiv.org/abs/2603.05384)|null|
 |**2026-03-05**|**Critic in the Loop: A Tri-System VLA Framework for Robust Long-Horizon Manipulation**|Pengfei Yi et.al.|[2603.05185](http://arxiv.org/abs/2603.05185)|null|
@@ -1924,7 +1947,7 @@
 |**2025-11-19**|**Context Cascade Compression: Exploring the Upper Limits of Text Compression**|Fanfan Liu et.al.|[2511.15244](http://arxiv.org/abs/2511.15244)|null|
 |**2025-11-19**|**SkinGPT-R1: Adapter-Only Dual Distillation for Efficient Dermatology Reasoning**|Yuhao Shen et.al.|[2511.15242](http://arxiv.org/abs/2511.15242)|null|
 
-</details><p align=right>(<a href=#updated-on-20260308>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
 
 <details>
 
@@ -1934,6 +1957,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-06**|**Pinterest Canvas: Large-Scale Image Generation at Pinterest**|Yu Wang et.al.|[2603.06453](http://arxiv.org/abs/2603.06453)|null|
+|**2026-03-06**|**Physical Simulator In-the-Loop Video Generation**|Lin Geng Foo et.al.|[2603.06408](http://arxiv.org/abs/2603.06408)|null|
+|**2026-03-06**|**DreamToNav: Generalizable Navigation for Robots via Generative Video Planning**|Valerii Serpiva et.al.|[2603.06190](http://arxiv.org/abs/2603.06190)|null|
+|**2026-03-06**|**Cross-Resolution Distribution Matching for Diffusion Distillation**|Feiyang Chen et.al.|[2603.06136](http://arxiv.org/abs/2603.06136)|null|
+|**2026-03-06**|**GenHOI: Towards Object-Consistent Hand-Object Interaction with Temporally Balanced and Spatially Selective Object Injection**|Xuan Huang et.al.|[2603.06048](http://arxiv.org/abs/2603.06048)|null|
+|**2026-03-06**|**Training-free Latent Inter-Frame Pruning with Attention Recovery**|Dennis Menn et.al.|[2603.05811](http://arxiv.org/abs/2603.05811)|null|
+|**2026-03-06**|**StreamWise: Serving Multi-Modal Generation in Real-Time at Scale**|Haoran Qiu et.al.|[2603.05800](http://arxiv.org/abs/2603.05800)|null|
+|**2026-03-05**|**EmboAlign: Aligning Video Generation with Compositional Constraints for Zero-Shot Manipulation**|Gehao Zhang et.al.|[2603.05757](http://arxiv.org/abs/2603.05757)|null|
 |**2026-03-05**|**FaceCam: Portrait Video Camera Control via Scale-Aware Conditioning**|Weijie Lyu et.al.|[2603.05506](http://arxiv.org/abs/2603.05506)|null|
 |**2026-03-05**|**Accelerating Text-to-Video Generation with Calibrated Sparse Attention**|Shai Yehezkel et.al.|[2603.05503](http://arxiv.org/abs/2603.05503)|null|
 |**2026-03-05**|**RealWonder: Real-Time Physical Action-Conditioned Video Generation**|Wei Liu et.al.|[2603.05449](http://arxiv.org/abs/2603.05449)|null|
@@ -2554,7 +2585,7 @@
 |**2025-11-18**|**FlowRoI A Fast Optical Flow Driven Region of Interest Extraction Framework for High-Throughput Image Compression in Immune Cell Migration Analysis**|Xiaowei Xu et.al.|[2511.14419](http://arxiv.org/abs/2511.14419)|null|
 |**2025-11-18**|**ARC-Chapter: Structuring Hour-Long Videos into Navigable Chapters and Hierarchical Summaries**|Junfu Pu et.al.|[2511.14349](http://arxiv.org/abs/2511.14349)|null|
 
-</details><p align=right>(<a href=#updated-on-20260308>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
 
 Notes: 
 
