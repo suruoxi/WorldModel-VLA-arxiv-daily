@@ -3,7 +3,7 @@ layout: default
 ---
 
 # World Model and Embodied AI arxiv Papers
-### Updated on 2026.03.09
+### Updated on 2026.03.10
 <details>
 
 <summary> 1-World Model </summary>
@@ -12,6 +12,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**MetaWorld-X: Hierarchical World Modeling via VLM-Orchestrated Experts for Humanoid Loco-Manipulation**|Yutong Shen et.al.|[2603.08572](http://arxiv.org/abs/2603.08572)|null|
+|**2026-03-09**|**Interactive World Simulator for Robot Policy Training and Evaluation**|Yixuan Wang et.al.|[2603.08546](http://arxiv.org/abs/2603.08546)|null|
+|**2026-03-09**|**AtomVLA: Scalable Post-Training for Robotic Manipulation via Predictive Latent World Models**|Xiaoquan Sun et.al.|[2603.08519](http://arxiv.org/abs/2603.08519)|null|
+|**2026-03-09**|**The Boiling Frog Threshold: Criticality and Blindness in World Model-Based Anomaly Detection Under Gradual Drift**|Zhe Hong et.al.|[2603.08455](http://arxiv.org/abs/2603.08455)|null|
+|**2026-03-09**|**SPIRAL: A Closed-Loop Framework for Self-Improving Action World Models via Reflective Planning Agents**|Yu Yang et.al.|[2603.08403](http://arxiv.org/abs/2603.08403)|null|
+|**2026-03-09**|**SAMoE-VLA: A Scene Adaptive Mixture-of-Experts Vision-Language-Action Model for Autonomous Driving**|Zihan You et.al.|[2603.08113](http://arxiv.org/abs/2603.08113)|null|
+|**2026-03-09**|**ConflictBench: Evaluating Human-AI Conflict via Interactive and Visually Grounded Environments**|Weixiang Zhao et.al.|[2603.08024](http://arxiv.org/abs/2603.08024)|null|
+|**2026-03-09**|**Long-Short Term Agents for Pure-Vision Bronchoscopy Robotic Autonomy**|Junyang Wu et.al.|[2603.07909](http://arxiv.org/abs/2603.07909)|null|
+|**2026-03-08**|**MWM: Mobile World Models for Action-Conditioned Consistent Prediction**|Han Yan et.al.|[2603.07799](http://arxiv.org/abs/2603.07799)|null|
+|**2026-03-08**|**Brain-WM: Brain Glioblastoma World Model**|Chenhui Wang et.al.|[2603.07562](http://arxiv.org/abs/2603.07562)|null|
+|**2026-03-08**|**DreamSAC: Learning Hamiltonian World Models via Symmetry Exploration**|Jinzhou Tang et.al.|[2603.07545](http://arxiv.org/abs/2603.07545)|null|
+|**2026-03-08**|**Underwater Embodied Intelligence for Autonomous Robots: A Constraint-Coupled Perspective on Planning, Control, and Deployment**|Jingzehua Xu et.al.|[2603.07393](http://arxiv.org/abs/2603.07393)|null|
+|**2026-03-07**|**Kinematics-Aware Latent World Models for Data-Efficient Autonomous Driving**|Jiazhuo Li et.al.|[2603.07264](http://arxiv.org/abs/2603.07264)|null|
+|**2026-03-07**|**LiveWorld: Simulating Out-of-Sight Dynamics in Generative Video World Models**|Zicheng Duan et.al.|[2603.07145](http://arxiv.org/abs/2603.07145)|null|
+|**2026-03-07**|**Dreamer-CDP: Improving Reconstruction-free World Models Via Continuous Deterministic Representation Prediction**|Michael Hauri et.al.|[2603.07083](http://arxiv.org/abs/2603.07083)|null|
+|**2026-03-07**|**Self-Supervised Multi-Modal World Model with 4D Space-Time Embedding**|Lance Legel et.al.|[2603.07039](http://arxiv.org/abs/2603.07039)|null|
+|**2026-03-07**|**Foundational World Models Accurately Detect Bimanual Manipulator Failures**|Isaac R. Ward et.al.|[2603.06987](http://arxiv.org/abs/2603.06987)|null|
 |**2026-03-06**|**What if? Emulative Simulation with World Models for Situated Reasoning**|Ruiping Liu et.al.|[2603.06445](http://arxiv.org/abs/2603.06445)|null|
 |**2026-03-06**|**WorldCache: Accelerating World Models for Free via Heterogeneous Token Caching**|Weilun Feng et.al.|[2603.06331](http://arxiv.org/abs/2603.06331)|null|
 |**2026-03-06**|**Hierarchical Latent Action Model**|Hanjung Kim et.al.|[2603.05815](http://arxiv.org/abs/2603.05815)|null|
@@ -621,6 +638,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**FVG-PT: Adaptive Foreground View-Guided Prompt Tuning for Vision-Language Models**|Haoyang Li et.al.|[2603.08708](http://arxiv.org/abs/2603.08708)|null|
+|**2026-03-09**|**Exp-Force: Experience-Conditioned Pre-Grasp Force Selection with Vision-Language Models**|Siqi Shang et.al.|[2603.08668](http://arxiv.org/abs/2603.08668)|null|
+|**2026-03-09**|**MetaWorld-X: Hierarchical World Modeling via VLM-Orchestrated Experts for Humanoid Loco-Manipulation**|Yutong Shen et.al.|[2603.08572](http://arxiv.org/abs/2603.08572)|null|
+|**2026-03-09**|**The Neural Compass: Probabilistic Relative Feature Fields for Robotic Search**|Gabriele Somaschini et.al.|[2603.08544](http://arxiv.org/abs/2603.08544)|null|
+|**2026-03-09**|**Reading $\neq$ Seeing: Diagnosing and Closing the Typography Gap in Vision-Language Models**|Heng Zhou et.al.|[2603.08497](http://arxiv.org/abs/2603.08497)|null|
+|**2026-03-09**|**Global Cross-Modal Geo-Localization: A Million-Scale Dataset and a Physical Consistency Learning Framework**|Yutong Hu et.al.|[2603.08491](http://arxiv.org/abs/2603.08491)|null|
+|**2026-03-09**|**Visual Self-Fulfilling Alignment: Shaping Safety-Oriented Personas via Threat-Related Images**|Qishun Yang et.al.|[2603.08486](http://arxiv.org/abs/2603.08486)|null|
+|**2026-03-09**|**R2F: Repurposing Ray Frontiers for LLM-free Object Navigation**|Francesco Argenziano et.al.|[2603.08475](http://arxiv.org/abs/2603.08475)|null|
+|**2026-03-09**|**Can Vision-Language Models Solve the Shell Game?**|Tiedong Liu et.al.|[2603.08436](http://arxiv.org/abs/2603.08436)|null|
+|**2026-03-09**|**Human-Aware Robot Behaviour in Self-Driving Labs**|Satheeshkumar Veeramani et.al.|[2603.08420](http://arxiv.org/abs/2603.08420)|null|
+|**2026-03-09**|**MoMaStage: Skill-State Graph Guided Planning and Closed-Loop Execution for Long-Horizon Indoor Mobile Manipulation**|Chenxu Li et.al.|[2603.08383](http://arxiv.org/abs/2603.08383)|null|
+|**2026-03-09**|**Local-Global Prompt Learning via Sparse Optimal Transport**|Deniz Kizaroğlu et.al.|[2603.08347](http://arxiv.org/abs/2603.08347)|null|
+|**2026-03-09**|**SlowBA: An efficiency backdoor attack towards VLM-based GUI agents**|Junxian Li et.al.|[2603.08316](http://arxiv.org/abs/2603.08316)|null|
+|**2026-03-09**|**Do Models See in Line with Human Vision? Probing the Correspondence Between LVLM Representations and EEG Signals**|Xin Xiao et.al.|[2603.08303](http://arxiv.org/abs/2603.08303)|null|
+|**2026-03-09**|**Novel Semantic Prompting for Zero-Shot Action Recognition**|Salman Iqbal et.al.|[2603.08289](http://arxiv.org/abs/2603.08289)|null|
+|**2026-03-09**|**SAIL: Test-Time Scaling for In-Context Imitation Learning with VLM**|Makoto Sato et.al.|[2603.08269](http://arxiv.org/abs/2603.08269)|null|
+|**2026-03-09**|**Seed2Scale: A Self-Evolving Data Engine for Embodied AI via Small to Large Model Synergy and Multimodal Evaluation**|Cong Tai et.al.|[2603.08260](http://arxiv.org/abs/2603.08260)|null|
+|**2026-03-09**|**ALOOD: Exploiting Language Representations for LiDAR-based Out-of-Distribution Object Detection**|Michael Kösel et.al.|[2603.08180](http://arxiv.org/abs/2603.08180)|null|
+|**2026-03-09**|**UniGround: Universal 3D Visual Grounding via Training-Free Scene Parsing**|Jiaxi Zhang et.al.|[2603.08131](http://arxiv.org/abs/2603.08131)|null|
+|**2026-03-09**|**TrianguLang: Geometry-Aware Semantic Consensus for Pose-Free 3D Localization**|Bryce Grant et.al.|[2603.08096](http://arxiv.org/abs/2603.08096)|null|
 |**2026-03-06**|**Multimodal Large Language Models as Image Classifiers**|Nikita Kisel et.al.|[2603.06578](http://arxiv.org/abs/2603.06578)|null|
 |**2026-03-06**|**SUREON: A Benchmark and Vision-Language-Model for Surgical Reasoning**|Alejandra Perez et.al.|[2603.06570](http://arxiv.org/abs/2603.06570)|null|
 |**2026-03-06**|**Penguin-VL: Exploring the Efficiency Limits of VLM with LLM-based Vision Encoders**|Boqiang Zhang et.al.|[2603.06569](http://arxiv.org/abs/2603.06569)|null|
@@ -1949,6 +1986,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**HiAR: Efficient Autoregressive Long Video Generation via Hierarchical Denoising**|Kai Zou et.al.|[2603.08703](http://arxiv.org/abs/2603.08703)|null|
+|**2026-03-09**|**CAST: Modeling Visual State Transitions for Consistent Video Retrieval**|Yanqing Liu et.al.|[2603.08648](http://arxiv.org/abs/2603.08648)|null|
+|**2026-03-09**|**SWIFT: Sliding Window Reconstruction for Few-Shot Training-Free Generated Video Attribution**|Chao Wang et.al.|[2603.08536](http://arxiv.org/abs/2603.08536)|null|
+|**2026-03-09**|**SPIRAL: A Closed-Loop Framework for Self-Improving Action World Models via Reflective Planning Agents**|Yu Yang et.al.|[2603.08403](http://arxiv.org/abs/2603.08403)|null|
+|**2026-03-09**|**Video2LoRA: Unified Semantic-Controlled Video Generation via Per-Reference-Video LoRA**|Zexi Wu et.al.|[2603.08210](http://arxiv.org/abs/2603.08210)|null|
+|**2026-03-09**|**Controllable Complex Human Motion Video Generation via Text-to-Skeleton Cascades**|Ashkan Taghipour et.al.|[2603.08028](http://arxiv.org/abs/2603.08028)|null|
+|**2026-03-08**|**TDM-R1: Reinforcing Few-Step Diffusion Models with Non-Differentiable Reward**|Yihong Luo et.al.|[2603.07700](http://arxiv.org/abs/2603.07700)|null|
+|**2026-03-08**|**Image Generation Models: A Technical History**|Rouzbeh Shirvani et.al.|[2603.07455](http://arxiv.org/abs/2603.07455)|null|
+|**2026-03-07**|**FastSTAR: Spatiotemporal Token Pruning for Efficient Autoregressive Video Synthesis**|Sungwoong Yune et.al.|[2603.07192](http://arxiv.org/abs/2603.07192)|null|
 |**2026-03-06**|**Pinterest Canvas: Large-Scale Image Generation at Pinterest**|Yu Wang et.al.|[2603.06453](http://arxiv.org/abs/2603.06453)|null|
 |**2026-03-06**|**Physical Simulator In-the-Loop Video Generation**|Lin Geng Foo et.al.|[2603.06408](http://arxiv.org/abs/2603.06408)|null|
 |**2026-03-06**|**DreamToNav: Generalizable Navigation for Robots via Generative Video Planning**|Valerii Serpiva et.al.|[2603.06190](http://arxiv.org/abs/2603.06190)|null|
