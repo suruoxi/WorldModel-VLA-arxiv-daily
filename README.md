@@ -1,5 +1,5 @@
 # World Model and Embodied AI arxiv Papers
-### Updated on 2026.03.12
+### Updated on 2026.03.13
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#1-world-model>1-World Model</a></li>
@@ -16,6 +16,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**Temporal Straightening for Latent Planning**|Ying Wang et.al.|[2603.12231](http://arxiv.org/abs/2603.12231)|null|
+|**2026-03-12**|**O3N: Omnidirectional Open-Vocabulary Occupancy Prediction**|Mengfei Duan et.al.|[2603.12144](http://arxiv.org/abs/2603.12144)|null|
+|**2026-03-12**|**InSpatio-WorldFM: An Open-Source Real-Time Generative Frame Model**|InSpatio Team et.al.|[2603.11911](http://arxiv.org/abs/2603.11911)|null|
+|**2026-03-12**|**Risk-Controllable Multi-View Diffusion for Driving Scenario Generation**|Hongyi Lin et.al.|[2603.11534](http://arxiv.org/abs/2603.11534)|null|
+|**2026-03-12**|**ARROW: Augmented Replay for RObust World models**|Abdulaziz Alyahya et.al.|[2603.11395](http://arxiv.org/abs/2603.11395)|null|
+|**2026-03-11**|**ResWM: Residual-Action World Model for Visual RL**|Jseen Zhang et.al.|[2603.11110](http://arxiv.org/abs/2603.11110)|null|
 |**2026-03-11**|**PPGuide: Steering Diffusion Policies with Performance Predictive Guidance**|Zixing Wang et.al.|[2603.10980](http://arxiv.org/abs/2603.10980)|null|
 |**2026-03-11**|**World Model for Battery Degradation Prediction Under Non-Stationary Aging**|Kai Chin Lim et.al.|[2603.10527](http://arxiv.org/abs/2603.10527)|null|
 |**2026-03-11**|**World2Act: Latent Action Post-Training via Skill-Compositional World Models**|An Dinh Vuong et.al.|[2603.10422](http://arxiv.org/abs/2603.10422)|null|
@@ -644,7 +650,7 @@
 |**2025-11-19**|**Zero-Shot Open-Vocabulary Human Motion Grounding with Test-Time Training**|Yunjiao Zhou et.al.|[2511.15379](http://arxiv.org/abs/2511.15379)|null|
 |**2025-11-19**|**Towards Evolutionary Optimization Using the Ising Model**|Simon Klüttermann et.al.|[2511.15377](http://arxiv.org/abs/2511.15377)|null|
 
-</details><p align=right>(<a href=#updated-on-20260312>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260313>back to top</a>)</p>
 
 <details>
 
@@ -654,6 +660,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**OmniStream: Mastering Perception, Reconstruction and Action in Continuous Streams**|Yibin Yan et.al.|[2603.12265](http://arxiv.org/abs/2603.12265)|null|
+|**2026-03-12**|**$Ψ_0$ : An Open Foundation Model Towards Universal Humanoid Loco-Manipulation**|Songlin Wei et.al.|[2603.12263](http://arxiv.org/abs/2603.12263)|null|
+|**2026-03-12**|**SceneAssistant: A Visual Feedback Agent for Open-Vocabulary 3D Scene Generation**|Jun Luo et.al.|[2603.12238](http://arxiv.org/abs/2603.12238)|null|
+|**2026-03-12**|**ForensicZip: More Tokens are Better but Not Necessary in Forensic Vision-Language Models**|Yingxin Lai et.al.|[2603.12208](http://arxiv.org/abs/2603.12208)|null|
+|**2026-03-12**|**BehaviorVLM: Unified Finetuning-Free Behavioral Understanding with Vision-Language Reasoning**|Jingyang Ke et.al.|[2603.12176](http://arxiv.org/abs/2603.12176)|null|
+|**2026-03-12**|**O3N: Omnidirectional Open-Vocabulary Occupancy Prediction**|Mengfei Duan et.al.|[2603.12144](http://arxiv.org/abs/2603.12144)|null|
+|**2026-03-12**|**HATS: Hardness-Aware Trajectory Synthesis for GUI Agents**|Rui Shao et.al.|[2603.12138](http://arxiv.org/abs/2603.12138)|null|
+|**2026-03-12**|**EmbTracker: Traceable Black-box Watermarking for Federated Language Models**|Haodong Zhao et.al.|[2603.12089](http://arxiv.org/abs/2603.12089)|null|
+|**2026-03-12**|**Paper Title: LoV3D: Grounding Cognitive Prognosis Reasoning in Longitudinal 3D Brain MRI via Regional Volume Assessments**|Zhaoyang Jiang et.al.|[2603.12071](http://arxiv.org/abs/2603.12071)|null|
+|**2026-03-12**|**Continual Learning with Vision-Language Models via Semantic-Geometry Preservation**|Chiyuan He et.al.|[2603.12055](http://arxiv.org/abs/2603.12055)|null|
+|**2026-03-12**|**LABSHIELD: A Multimodal Benchmark for Safety-Critical Reasoning and Planning in Scientific Laboratories**|Qianpu Sun et.al.|[2603.11987](http://arxiv.org/abs/2603.11987)|null|
+|**2026-03-12**|**HomeSafe-Bench: Evaluating Vision-Language Models on Unsafe Action Detection for Embodied Agents in Household Scenarios**|Jiayue Pu et.al.|[2603.11975](http://arxiv.org/abs/2603.11975)|null|
+|**2026-03-12**|**RADAR: Closed-Loop Robotic Data Generation via Semantic Planning and Autonomous Causal Environment Reset**|Yongzhong Wang et.al.|[2603.11811](http://arxiv.org/abs/2603.11811)|null|
+|**2026-03-12**|**OSM-based Domain Adaptation for Remote Sensing VLMs**|Stefan Maria Ailuro et.al.|[2603.11804](http://arxiv.org/abs/2603.11804)|null|
+|**2026-03-12**|**Disentangled Representation Learning through Unsupervised Symmetry Group Discovery**|Dang-Nhu Barthélémy et.al.|[2603.11790](http://arxiv.org/abs/2603.11790)|null|
+|**2026-03-12**|**Controllable Egocentric Video Generation via Occlusion-Aware Sparse 3D Hand Joints**|Chenyangguang Zhang et.al.|[2603.11755](http://arxiv.org/abs/2603.11755)|null|
+|**2026-03-12**|**BackdoorIDS: Zero-shot Backdoor Detection for Pretrained Vision Encoder**|Siquan Huang et.al.|[2603.11664](http://arxiv.org/abs/2603.11664)|null|
+|**2026-03-12**|**Simple Recipe Works: Vision-Language-Action Models are Natural Continual Learners with Reinforcement Learning**|Jiaheng Hu et.al.|[2603.11653](http://arxiv.org/abs/2603.11653)|null|
+|**2026-03-12**|**VisDoT : Enhancing Visual Reasoning through Human-Like Interpretation Grounding and Decomposition of Thought**|Eunsoo Lee et.al.|[2603.11631](http://arxiv.org/abs/2603.11631)|null|
+|**2026-03-12**|**MedPruner: Training-Free Hierarchical Token Pruning for Efficient 3D Medical Image Understanding in Vision-Language Models**|Shengyuan Liu et.al.|[2603.11625](http://arxiv.org/abs/2603.11625)|null|
 |**2026-03-11**|**Does AI See like Art Historians? Interpreting How Vision Language Models Recognize Artistic Style**|Marvin Limpijankit et.al.|[2603.11024](http://arxiv.org/abs/2603.11024)|null|
 |**2026-03-11**|**GroundCount: Grounding Vision-Language Models with Object Detection for Mitigating Counting Hallucinations**|Boyuan Chen et.al.|[2603.10978](http://arxiv.org/abs/2603.10978)|null|
 |**2026-03-11**|**From Images to Words: Efficient Cross-Modal Knowledge Distillation to Language Models from Black-box Teachers**|Ayan Sengupta et.al.|[2603.10877](http://arxiv.org/abs/2603.10877)|null|
@@ -2034,7 +2060,7 @@
 |**2025-11-19**|**Context Cascade Compression: Exploring the Upper Limits of Text Compression**|Fanfan Liu et.al.|[2511.15244](http://arxiv.org/abs/2511.15244)|null|
 |**2025-11-19**|**SkinGPT-R1: Adapter-Only Dual Distillation for Efficient Dermatology Reasoning**|Yuhao Shen et.al.|[2511.15242](http://arxiv.org/abs/2511.15242)|null|
 
-</details><p align=right>(<a href=#updated-on-20260312>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260313>back to top</a>)</p>
 
 <details>
 
@@ -2044,6 +2070,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**EVATok: Adaptive Length Video Tokenization for Efficient Visual Autoregressive Generation**|Tianwei Xiong et.al.|[2603.12267](http://arxiv.org/abs/2603.12267)|null|
+|**2026-03-12**|**DreamVideo-Omni: Omni-Motion Controlled Multi-Subject Video Customization with Latent Identity Reinforcement Learning**|Yujie Wei et.al.|[2603.12257](http://arxiv.org/abs/2603.12257)|null|
+|**2026-03-12**|**FlashMotion: Few-Step Controllable Video Generation with Trajectory Guidance**|Quanhao Li et.al.|[2603.12146](http://arxiv.org/abs/2603.12146)|null|
+|**2026-03-12**|**Coarse-Guided Visual Generation via Weighted h-Transform Sampling**|Yanghao Wang et.al.|[2603.12057](http://arxiv.org/abs/2603.12057)|null|
+|**2026-03-12**|**HomeSafe-Bench: Evaluating Vision-Language Models on Unsafe Action Detection for Embodied Agents in Household Scenarios**|Jiayue Pu et.al.|[2603.11975](http://arxiv.org/abs/2603.11975)|null|
+|**2026-03-12**|**Controllable Egocentric Video Generation via Occlusion-Aware Sparse 3D Hand Joints**|Chenyangguang Zhang et.al.|[2603.11755](http://arxiv.org/abs/2603.11755)|null|
+|**2026-03-12**|**SoulX-LiveAct: Towards Hour-Scale Real-Time Human Animation with Neighbor Forcing and ConvKV Memory**|Dingcheng Zhen et.al.|[2603.11746](http://arxiv.org/abs/2603.11746)|null|
+|**2026-03-12**|**OSCBench: Benchmarking Object State Change in Text-to-Video Generation**|Xianjing Han et.al.|[2603.11698](http://arxiv.org/abs/2603.11698)|null|
+|**2026-03-12**|**Risk-Controllable Multi-View Diffusion for Driving Scenario Generation**|Hongyi Lin et.al.|[2603.11534](http://arxiv.org/abs/2603.11534)|null|
+|**2026-03-12**|**ShotVerse: Advancing Cinematic Camera Control for Text-Driven Multi-Shot Video Creation**|Songlin Yang et.al.|[2603.11421](http://arxiv.org/abs/2603.11421)|null|
 |**2026-03-11**|**COMIC: Agentic Sketch Comedy Generation**|Susung Hong et.al.|[2603.11048](http://arxiv.org/abs/2603.11048)|null|
 |**2026-03-11**|**Semantic Satellite Communications for Synchronized Audiovisual Reconstruction**|Fangyu Liu et.al.|[2603.10791](http://arxiv.org/abs/2603.10791)|null|
 |**2026-03-11**|**DiT4DiT: Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control**|Teli Ma et.al.|[2603.10448](http://arxiv.org/abs/2603.10448)|null|
@@ -2693,7 +2729,7 @@
 |**2025-11-18**|**FlowRoI A Fast Optical Flow Driven Region of Interest Extraction Framework for High-Throughput Image Compression in Immune Cell Migration Analysis**|Xiaowei Xu et.al.|[2511.14419](http://arxiv.org/abs/2511.14419)|null|
 |**2025-11-18**|**ARC-Chapter: Structuring Hour-Long Videos into Navigable Chapters and Hierarchical Summaries**|Junfu Pu et.al.|[2511.14349](http://arxiv.org/abs/2511.14349)|null|
 
-</details><p align=right>(<a href=#updated-on-20260312>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260313>back to top</a>)</p>
 
 Notes: 
 
