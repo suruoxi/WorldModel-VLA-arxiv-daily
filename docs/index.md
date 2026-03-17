@@ -3,7 +3,7 @@ layout: default
 ---
 
 # World Model and Embodied AI arxiv Papers
-### Updated on 2026.03.16
+### Updated on 2026.03.17
 <details>
 
 <summary> 1-World Model </summary>
@@ -12,6 +12,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**Grounding World Simulation Models in a Real-World Metropolis**|Junyoung Seo et.al.|[2603.15583](http://arxiv.org/abs/2603.15583)|null|
+|**2026-03-16**|**NavThinker: Action-Conditioned World Models for Coupled Prediction and Planning in Social Navigation**|Tianshuai Hu et.al.|[2603.15359](http://arxiv.org/abs/2603.15359)|null|
+|**2026-03-16**|**Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation**|Xingtai Gui et.al.|[2603.14948](http://arxiv.org/abs/2603.14948)|null|
+|**2026-03-16**|**RS-WorldModel: a Unified Model for Remote Sensing Understanding and Future Sense Forecasting**|Linrui Xu et.al.|[2603.14941](http://arxiv.org/abs/2603.14941)|null|
+|**2026-03-16**|**PerlAD: Towards Enhanced Closed-loop End-to-end Autonomous Driving with Pseudo-simulation-based Reinforcement Learning**|Yinfeng Gao et.al.|[2603.14908](http://arxiv.org/abs/2603.14908)|null|
+|**2026-03-15**|**WorldVLM: Combining World Model Forecasting and Vision-Language Reasoning**|Stefan Englmeier et.al.|[2603.14497](http://arxiv.org/abs/2603.14497)|null|
+|**2026-03-15**|**V-JEPA 2.1: Unlocking Dense Features in Video Self-Supervised Learning**|Lorenzo Mur-Labadia et.al.|[2603.14482](http://arxiv.org/abs/2603.14482)|null|
+|**2026-03-15**|**WestWorld: A Knowledge-Encoded Scalable Trajectory World Model for Diverse Robotic Systems**|Yuchen Wang et.al.|[2603.14392](http://arxiv.org/abs/2603.14392)|null|
+|**2026-03-15**|**The Pulse of Motion: Measuring Physical Frame Rate from Visual Dynamics**|Xiangbo Gao et.al.|[2603.14375](http://arxiv.org/abs/2603.14375)|null|
+|**2026-03-14**|**Understanding the Emergence of Seemingly Useless Features in Next-Token Predictors**|Mark Rofin et.al.|[2603.14087](http://arxiv.org/abs/2603.14087)|null|
+|**2026-03-14**|**EyeWorld: A Generative World Model of Ocular State and Dynamics**|Ziyu Gao et.al.|[2603.14039](http://arxiv.org/abs/2603.14039)|null|
+|**2026-03-14**|**Building Explicit World Model for Zero-Shot Open-World Object Manipulation**|Xiaotong Li et.al.|[2603.13825](http://arxiv.org/abs/2603.13825)|null|
+|**2026-03-13**|**Egocentric World Model for Photorealistic Hand-Object Interaction Synthesis**|Dayou Li et.al.|[2603.13615](http://arxiv.org/abs/2603.13615)|null|
+|**2026-03-13**|**Learning Actionable Manipulation Recovery via Counterfactual Failure Synthesis**|Dayou Li et.al.|[2603.13528](http://arxiv.org/abs/2603.13528)|null|
+|**2026-03-13**|**CtrlAttack: A Unified Attack on World-Model Control in Diffusion Models**|Shuhan Xu et.al.|[2603.13435](http://arxiv.org/abs/2603.13435)|null|
 |**2026-03-13**|**Out of Sight, Out of Mind? Evaluating State Evolution in Video World Models**|Ziqi Ma et.al.|[2603.13215](http://arxiv.org/abs/2603.13215)|null|
 |**2026-03-13**|**SAW: Toward a Surgical Action World Model via Controllable and Scalable Video Generation**|Sampath Rapuri et.al.|[2603.13024](http://arxiv.org/abs/2603.13024)|null|
 |**2026-03-13**|**VGGT-World: Transforming VGGT into an Autoregressive Geometry World Model**|Xiangyu Sun et.al.|[2603.12655](http://arxiv.org/abs/2603.12655)|null|
@@ -659,6 +674,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**HSImul3R: Physics-in-the-Loop Reconstruction of Simulation-Ready Human-Scene Interactions**|Yukang Cao et.al.|[2603.15612](http://arxiv.org/abs/2603.15612)|null|
+|**2026-03-16**|**Panoramic Affordance Prediction**|Zixin Zhang et.al.|[2603.15558](http://arxiv.org/abs/2603.15558)|null|
+|**2026-03-16**|**Anatomy of a Lie: A Multi-Stage Diagnostic Framework for Tracing Hallucinations in Vision-Language Models**|Lexiang Xiong et.al.|[2603.15557](http://arxiv.org/abs/2603.15557)|null|
+|**2026-03-16**|**ViX-Ray: A Vietnamese Chest X-Ray Dataset for Vision-Language Models**|Duy Vu Minh Nguyen et.al.|[2603.15513](http://arxiv.org/abs/2603.15513)|null|
+|**2026-03-16**|**MA-VLCM: A Vision Language Critic Model for Value Estimation of Policies in Multi-Agent Team Settings**|Shahil Shaik et.al.|[2603.15418](http://arxiv.org/abs/2603.15418)|null|
+|**2026-03-16**|**Pointing-Based Object Recognition**|Lukáš Hajdúch et.al.|[2603.15403](http://arxiv.org/abs/2603.15403)|null|
+|**2026-03-16**|**Directional Embedding Smoothing for Robust Vision Language Models**|Ye Wang et.al.|[2603.15259](http://arxiv.org/abs/2603.15259)|null|
+|**2026-03-16**|**HalDec-Bench: Benchmarking Hallucination Detector in Image Captioning**|Kuniaki Saito et.al.|[2603.15253](http://arxiv.org/abs/2603.15253)|null|
+|**2026-03-16**|**Mechanistic Foundations of Goal-Directed Control**|Alma Lago et.al.|[2603.15248](http://arxiv.org/abs/2603.15248)|null|
+|**2026-03-16**|**Multi-turn Physics-informed Vision-language Model for Physics-grounded Anomaly Detection**|Yao Gu et.al.|[2603.15237](http://arxiv.org/abs/2603.15237)|null|
+|**2026-03-16**|**Efficient Document Parsing via Parallel Token Prediction**|Lei Li et.al.|[2603.15206](http://arxiv.org/abs/2603.15206)|null|
+|**2026-03-16**|**DAIT: Distillation from Vision-Language Models to Lightweight Classifiers with Adaptive Intermediate Teacher Transfer**|Zhengxu He et.al.|[2603.15166](http://arxiv.org/abs/2603.15166)|null|
+|**2026-03-16**|**Vision-Language Model Based Multi-Expert Fusion for CT Image Classification**|Jianfa Bai et.al.|[2603.15154](http://arxiv.org/abs/2603.15154)|null|
+|**2026-03-16**|**Confusion-Aware In-Context-Learning for Vision-Language Models in Robotic Manipulation**|Yayun He et.al.|[2603.15134](http://arxiv.org/abs/2603.15134)|null|
+|**2026-03-16**|**Reference-Free Omnidirectional Stereo Matching via Multi-View Consistency Maximization**|Lehuai Xu et.al.|[2603.15019](http://arxiv.org/abs/2603.15019)|null|
+|**2026-03-16**|**Molecular Identifier Visual Prompt and Verifiable Reinforcement Learning for Chemical Reaction Diagram Parsing**|Jiahe Song et.al.|[2603.15011](http://arxiv.org/abs/2603.15011)|null|
+|**2026-03-16**|**MMSpec: Benchmarking Speculative Decoding for Vision-Language Models**|Hui Shen et.al.|[2603.14989](http://arxiv.org/abs/2603.14989)|null|
+|**2026-03-16**|**Balancing Saliency and Coverage: Semantic Prominence-Aware Budgeting for Visual Token Compression in VLMs**|Jaehoon Lee et.al.|[2603.14892](http://arxiv.org/abs/2603.14892)|null|
+|**2026-03-16**|**LLMind: Bio-inspired Training-free Adaptive Visual Representations for Vision-Language Models**|Soumyaratna Debnath et.al.|[2603.14882](http://arxiv.org/abs/2603.14882)|null|
+|**2026-03-16**|**RealVLG-R1: A Large-Scale Real-World Visual-Language Grounding Benchmark for Robotic Perception and Manipulation**|Linfei Li et.al.|[2603.14880](http://arxiv.org/abs/2603.14880)|null|
 |**2026-03-13**|**Visual-ERM: Reward Modeling for Visual Equivalence**|Ziyu Liu et.al.|[2603.13224](http://arxiv.org/abs/2603.13224)|null|
 |**2026-03-13**|**Navig-AI-tion: Navigation by Contextual AI and Spatial Audio**|Mathias N. Lystbæk et.al.|[2603.13200](http://arxiv.org/abs/2603.13200)|null|
 |**2026-03-13**|**Towards Spatio-Temporal World Scene Graph Generation from Monocular Videos**|Rohith Peddi et.al.|[2603.13185](http://arxiv.org/abs/2603.13185)|null|
@@ -2087,6 +2122,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**Grounding World Simulation Models in a Real-World Metropolis**|Junyoung Seo et.al.|[2603.15583](http://arxiv.org/abs/2603.15583)|null|
+|**2026-03-16**|**iDaVIE v1.0: A virtual reality tool for interactive analysis of astronomical data cubes**|Alexander Sivitilli et.al.|[2603.15490](http://arxiv.org/abs/2603.15490)|null|
+|**2026-03-16**|**ViFeEdit: A Video-Free Tuner of Your Video Diffusion Transformer**|Ruonan Yu et.al.|[2603.15478](http://arxiv.org/abs/2603.15478)|null|
+|**2026-03-16**|**AnyCrowd: Instance-Isolated Identity-Pose Binding for Arbitrary Multi-Character Animation**|Zhenyu Xie et.al.|[2603.15415](http://arxiv.org/abs/2603.15415)|null|
+|**2026-03-16**|**Faster Inference of Flow-Based Generative Models via Improved Data-Noise Coupling**|Aram Davtyan et.al.|[2603.15279](http://arxiv.org/abs/2603.15279)|null|
+|**2026-03-16**|**Edit2Interp: Adapting Image Foundation Models from Spatial Editing to Video Frame Interpolation with Few-Shot Learning**|Nasrin Rahimi et.al.|[2603.15003](http://arxiv.org/abs/2603.15003)|null|
+|**2026-03-16**|**Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation**|Xingtai Gui et.al.|[2603.14948](http://arxiv.org/abs/2603.14948)|null|
+|**2026-03-16**|**FAR-Drive: Frame-AutoRegressive Video Generation in Closed-Loop Autonomous Driving**|Yaoru Li et.al.|[2603.14938](http://arxiv.org/abs/2603.14938)|null|
+|**2026-03-16**|**MVHOI: Bridge Multi-view Condition to Complex Human-Object Interaction Video Reenactment via 3D Foundation Model**|Jinguang Tong et.al.|[2603.14686](http://arxiv.org/abs/2603.14686)|null|
+|**2026-03-15**|**LatSearch: Latent Reward-Guided Search for Faster Inference-Time Scaling in Video Diffusion**|Zengqun Zhao et.al.|[2603.14526](http://arxiv.org/abs/2603.14526)|null|
+|**2026-03-15**|**LoCAtion: Long-time Collaborative Attention Framework for High Dynamic Range Video Reconstruction**|Qianyu Zhang et.al.|[2603.14377](http://arxiv.org/abs/2603.14377)|null|
+|**2026-03-15**|**The Pulse of Motion: Measuring Physical Frame Rate from Visual Dynamics**|Xiangbo Gao et.al.|[2603.14375](http://arxiv.org/abs/2603.14375)|null|
+|**2026-03-15**|**CamLit: Unified Video Diffusion with Explicit Camera and Lighting Control**|Zhiyi Kuang et.al.|[2603.14241](http://arxiv.org/abs/2603.14241)|null|
+|**2026-03-14**|**EchoLVFM: One-Step Video Generation via Latent Flow Matching for Echocardiogram Synthesis**|Emmanuel Oladokun et.al.|[2603.13967](http://arxiv.org/abs/2603.13967)|null|
+|**2026-03-14**|**PhysAlign: Physics-Coherent Image-to-Video Generation through Feature and 3D Representation Alignment**|Zhexiao Xiong et.al.|[2603.13770](http://arxiv.org/abs/2603.13770)|null|
+|**2026-03-14**|**Ego-1K -- A Large-Scale Multiview Video Dataset for Egocentric Vision**|Jae Yong Lee et.al.|[2603.13741](http://arxiv.org/abs/2603.13741)|null|
+|**2026-03-14**|**UniVid: Pyramid Diffusion Model for High Quality Video Generation**|Xinyu Xiao et.al.|[2603.13739](http://arxiv.org/abs/2603.13739)|null|
+|**2026-03-13**|**Egocentric World Model for Photorealistic Hand-Object Interaction Synthesis**|Dayou Li et.al.|[2603.13615](http://arxiv.org/abs/2603.13615)|null|
+|**2026-03-13**|**LibraGen: Playing a Balance Game in Subject-Driven Video Generation**|Jiahao Zhu et.al.|[2603.13506](http://arxiv.org/abs/2603.13506)|null|
 |**2026-03-13**|**V-Bridge: Bridging Video Generative Priors to Versatile Few-shot Image Restoration**|Shenghe Zheng et.al.|[2603.13089](http://arxiv.org/abs/2603.13089)|null|
 |**2026-03-13**|**SAW: Toward a Surgical Action World Model via Controllable and Scalable Video Generation**|Sampath Rapuri et.al.|[2603.13024](http://arxiv.org/abs/2603.13024)|null|
 |**2026-03-13**|**VGGT-World: Transforming VGGT into an Autoregressive Geometry World Model**|Xiangyu Sun et.al.|[2603.12655](http://arxiv.org/abs/2603.12655)|null|
