@@ -3,7 +3,7 @@ layout: default
 ---
 
 # World Model and Embodied AI arxiv Papers
-### Updated on 2026.03.18
+### Updated on 2026.03.19
 <details>
 
 <summary> 1-World Model </summary>
@@ -12,6 +12,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**EVA: Aligning Video World Models with Executable Robot Actions via Inverse Dynamics Rewards**|Ruixiang Wang et.al.|[2603.17808](http://arxiv.org/abs/2603.17808)|null|
+|**2026-03-18**|**VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs**|Chaokang Jiang et.al.|[2603.17652](http://arxiv.org/abs/2603.17652)|null|
+|**2026-03-18**|**From Digital Twins to World Models:Opportunities, Challenges, and Applications for Mobile Edge General Intelligence**|Jie Zheng et.al.|[2603.17420](http://arxiv.org/abs/2603.17420)|null|
+|**2026-03-18**|**Stereo World Model: Camera-Guided Stereo Video Generation**|Yang-Tian Sun et.al.|[2603.17375](http://arxiv.org/abs/2603.17375)|null|
+|**2026-03-18**|**Kalb-Ramond Topological Term in Majorana Superspace and Kaluza-Klein Spectrum Deformation in Five Dimensions**|L. A. S. Nunes et.al.|[2603.17262](http://arxiv.org/abs/2603.17262)|null|
+|**2026-03-18**|**NavThinker: Action-Conditioned World Models for Coupled Prediction and Planning in Social Navigation**|Tianshuai Hu et.al.|[2603.15359](http://arxiv.org/abs/2603.15359)|null|
+|**2026-03-17**|**MosaicMem: Hybrid Spatial Memory for Controllable Video World Models**|Wei Yu et.al.|[2603.17117](http://arxiv.org/abs/2603.17117)|null|
 |**2026-03-17**|**WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation**|Jisu Nam et.al.|[2603.16871](http://arxiv.org/abs/2603.16871)|null|
 |**2026-03-17**|**DreamPlan: Efficient Reinforcement Fine-Tuning of Vision-Language Planners via Video World Models**|Emily Yue-Ting Jia et.al.|[2603.16860](http://arxiv.org/abs/2603.16860)|null|
 |**2026-03-17**|**Grid-World Representations in Transformers Reflect Predictive Geometry**|Sasha Brenner et.al.|[2603.16689](http://arxiv.org/abs/2603.16689)|null|
@@ -25,7 +32,6 @@ layout: default
 |**2026-03-16**|**CorrectionPlanner: Self-Correction Planner with Reinforcement Learning in Autonomous Driving**|Yihong Guo et.al.|[2603.15771](http://arxiv.org/abs/2603.15771)|null|
 |**2026-03-16**|**Simulation Distillation: Pretraining World Models in Simulation for Rapid Real-World Adaptation**|Jacob Levy et.al.|[2603.15759](http://arxiv.org/abs/2603.15759)|null|
 |**2026-03-16**|**Grounding World Simulation Models in a Real-World Metropolis**|Junyoung Seo et.al.|[2603.15583](http://arxiv.org/abs/2603.15583)|null|
-|**2026-03-16**|**NavThinker: Action-Conditioned World Models for Coupled Prediction and Planning in Social Navigation**|Tianshuai Hu et.al.|[2603.15359](http://arxiv.org/abs/2603.15359)|null|
 |**2026-03-16**|**Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation**|Xingtai Gui et.al.|[2603.14948](http://arxiv.org/abs/2603.14948)|null|
 |**2026-03-16**|**RS-WorldModel: a Unified Model for Remote Sensing Understanding and Future Sense Forecasting**|Linrui Xu et.al.|[2603.14941](http://arxiv.org/abs/2603.14941)|null|
 |**2026-03-16**|**PerlAD: Towards Enhanced Closed-loop End-to-end Autonomous Driving with Pseudo-simulation-based Reinforcement Learning**|Yinfeng Gao et.al.|[2603.14908](http://arxiv.org/abs/2603.14908)|null|
@@ -684,6 +690,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**Unified Spatio-Temporal Token Scoring for Efficient Video VLMs**|Jianrui Zhang et.al.|[2603.18004](http://arxiv.org/abs/2603.18004)|null|
+|**2026-03-18**|**Loc3R-VLM: Language-based Localization and 3D Reasoning with Vision-Language Models**|Kevin Qu et.al.|[2603.18002](http://arxiv.org/abs/2603.18002)|null|
+|**2026-03-18**|**ProbeFlow: Training-Free Adaptive Flow Matching for Vision-Language-Action Models**|Zhou Fang et.al.|[2603.17850](http://arxiv.org/abs/2603.17850)|null|
+|**2026-03-18**|**Fine-Grained Post-Training Quantization for Large Vision Language Models with Quantization-Aware Integrated Gradients**|Ziwei Xiang et.al.|[2603.17809](http://arxiv.org/abs/2603.17809)|null|
+|**2026-03-18**|**Evidence Packing for Cross-Domain Image Deepfake Detection with LVLMs**|Yuxin Liu et.al.|[2603.17761](http://arxiv.org/abs/2603.17761)|null|
+|**2026-03-18**|**SARE: Sample-wise Adaptive Reasoning for Training-free Fine-grained Visual Recognition**|Jingxiao Yang et.al.|[2603.17729](http://arxiv.org/abs/2603.17729)|null|
+|**2026-03-18**|**From Virtual Environments to Real-World Trials: Emerging Trends in Autonomous Driving**|A. Humnabadkar et.al.|[2603.17714](http://arxiv.org/abs/2603.17714)|null|
+|**2026-03-18**|**Learning Transferable Temporal Primitives for Video Reasoning via Synthetic Videos**|Songtao Jiang et.al.|[2603.17693](http://arxiv.org/abs/2603.17693)|null|
+|**2026-03-18**|**WeatherReasonSeg: A Benchmark for Weather-Aware Reasoning Segmentation in Visual Language Models**|Wanjun Du et.al.|[2603.17680](http://arxiv.org/abs/2603.17680)|null|
+|**2026-03-18**|**AgentVLN: Towards Agentic Vision-and-Language Navigation**|Zihao Xin et.al.|[2603.17670](http://arxiv.org/abs/2603.17670)|null|
+|**2026-03-18**|**Interpretable Cross-Domain Few-Shot Learning with Rectified Target-Domain Local Alignment**|Yaze Zhao et.al.|[2603.17655](http://arxiv.org/abs/2603.17655)|null|
+|**2026-03-18**|**MM-OVSeg:Multimodal Optical-SAR Fusion for Open-Vocabulary Segmentation in Remote Sensing**|Yimin Wei et.al.|[2603.17528](http://arxiv.org/abs/2603.17528)|null|
+|**2026-03-18**|**PCA-Seg: Revisiting Cost Aggregation for Open-Vocabulary Semantic and Part Segmentation**|Jianjian Yin et.al.|[2603.17520](http://arxiv.org/abs/2603.17520)|null|
+|**2026-03-18**|**Interpreting Context-Aware Human Preferences for Multi-Objective Robot Navigation**|Tharun Sethuraman et.al.|[2603.17510](http://arxiv.org/abs/2603.17510)|null|
+|**2026-03-18**|**VLM2Rec: Resolving Modality Collapse in Vision-Language Model Embedders for Multimodal Sequential Recommendation**|Junyoung Kim et.al.|[2603.17450](http://arxiv.org/abs/2603.17450)|null|
+|**2026-03-18**|**AdaZoom-GUI: Adaptive Zoom-based GUI Grounding with Instruction Refinement**|Siqi Pei et.al.|[2603.17441](http://arxiv.org/abs/2603.17441)|null|
+|**2026-03-18**|**Harnessing the Power of Foundation Models for Accurate Material Classification**|Qingran Lin et.al.|[2603.17390](http://arxiv.org/abs/2603.17390)|null|
+|**2026-03-18**|**Shot-Aware Frame Sampling for Video Understanding**|Mengyu Zhao et.al.|[2603.17374](http://arxiv.org/abs/2603.17374)|null|
+|**2026-03-18**|**Understanding and Defending VLM Jailbreaks via Jailbreak-Related Representation Shift**|Zhihua Wei et.al.|[2603.17372](http://arxiv.org/abs/2603.17372)|null|
+|**2026-03-18**|**Grid Spatial Understanding: A Dataset for Textual Spatial Reasoning over Grids, Embodied Settings, and Coordinate Structures**|Risham Sidhu et.al.|[2603.17333](http://arxiv.org/abs/2603.17333)|null|
 |**2026-03-17**|**MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation**|Abhay Deshpande et.al.|[2603.16861](http://arxiv.org/abs/2603.16861)|null|
 |**2026-03-17**|**DreamPlan: Efficient Reinforcement Fine-Tuning of Vision-Language Planners via Video World Models**|Emily Yue-Ting Jia et.al.|[2603.16860](http://arxiv.org/abs/2603.16860)|null|
 |**2026-03-17**|**IOSVLM: A 3D Vision-Language Model for Unified Dental Diagnosis from Intraoral Scans**|Huimin Xiong et.al.|[2603.16781](http://arxiv.org/abs/2603.16781)|null|
@@ -2152,12 +2178,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**The Unreasonable Effectiveness of Text Embedding Interpolation for Continuous Image Steering**|Yigit Ekin et.al.|[2603.17998](http://arxiv.org/abs/2603.17998)|null|
+|**2026-03-18**|**Versatile Editing of Video Content, Actions, and Dynamics without Training**|Vladimir Kulikov et.al.|[2603.17989](http://arxiv.org/abs/2603.17989)|null|
+|**2026-03-18**|**Identity as Presence: Towards Appearance and Voice Personalized Joint Audio-Video Generation**|Yingjie Chen et.al.|[2603.17889](http://arxiv.org/abs/2603.17889)|null|
+|**2026-03-18**|**Steering Video Diffusion Transformers with Massive Activations**|Xianhang Cheng et.al.|[2603.17825](http://arxiv.org/abs/2603.17825)|null|
+|**2026-03-18**|**ChopGrad: Pixel-Wise Losses for Latent Video Diffusion via Truncated Backpropagation**|Dmitriy Rivkin et.al.|[2603.17812](http://arxiv.org/abs/2603.17812)|null|
+|**2026-03-18**|**EVA: Aligning Video World Models with Executable Robot Actions via Inverse Dynamics Rewards**|Ruixiang Wang et.al.|[2603.17808](http://arxiv.org/abs/2603.17808)|null|
+|**2026-03-18**|**TAPESTRY: From Geometry to Appearance via Consistent Turntable Videos**|Yan Zeng et.al.|[2603.17735](http://arxiv.org/abs/2603.17735)|null|
+|**2026-03-18**|**Learning Transferable Temporal Primitives for Video Reasoning via Synthetic Videos**|Songtao Jiang et.al.|[2603.17693](http://arxiv.org/abs/2603.17693)|null|
+|**2026-03-18**|**AR-CoPO: Align Autoregressive Video Generation with Contrastive Policy Optimization**|Dailan He et.al.|[2603.17461](http://arxiv.org/abs/2603.17461)|null|
+|**2026-03-18**|**Motion-Adaptive Temporal Attention for Lightweight Video Generation with Stable Diffusion**|Rui Hong et.al.|[2603.17398](http://arxiv.org/abs/2603.17398)|null|
+|**2026-03-18**|**Stereo World Model: Camera-Guided Stereo Video Generation**|Yang-Tian Sun et.al.|[2603.17375](http://arxiv.org/abs/2603.17375)|null|
+|**2026-03-18**|**GigaWorld-Policy: An Efficient Action-Centered World--Action Model**|Angen Ye et.al.|[2603.17240](http://arxiv.org/abs/2603.17240)|null|
+|**2026-03-18**|**Search2Motion: Training-Free Object-Level Motion Control via Attention-Consensus Search**|Sainan Liu et.al.|[2603.16711](http://arxiv.org/abs/2603.16711)|null|
+|**2026-03-18**|**S-VAM: Shortcut Video-Action Model by Self-Distilling Geometric and Semantic Foresight**|Haodong Yan et.al.|[2603.16195](http://arxiv.org/abs/2603.16195)|null|
 |**2026-03-17**|**Demystifing Video Reasoning**|Ruisi Wang et.al.|[2603.16870](http://arxiv.org/abs/2603.16870)|null|
 |**2026-03-17**|**DreamPlan: Efficient Reinforcement Fine-Tuning of Vision-Language Planners via Video World Models**|Emily Yue-Ting Jia et.al.|[2603.16860](http://arxiv.org/abs/2603.16860)|null|
-|**2026-03-17**|**Search2Motion: Training-Free Object-Level Motion Control via Attention-Consensus Search**|Sainan Liu et.al.|[2603.16711](http://arxiv.org/abs/2603.16711)|null|
 |**2026-03-17**|**Kinema4D: Kinematic 4D World Modeling for Spatiotemporal Embodied Simulation**|Mutian Xu et.al.|[2603.16669](http://arxiv.org/abs/2603.16669)|null|
 |**2026-03-17**|**VIGOR: VIdeo Geometry-Oriented Reward for Temporal Generative Alignment**|Tengjiao Yin et.al.|[2603.16271](http://arxiv.org/abs/2603.16271)|null|
-|**2026-03-17**|**S-VAM: Shortcut Video-Action Model by Self-Distilling Geometric and Semantic Foresight**|Haodong Yan et.al.|[2603.16195](http://arxiv.org/abs/2603.16195)|null|
 |**2026-03-17**|**Diffusion Models for Joint Audio-Video Generation**|Alejandro Paredes La Torre et.al.|[2603.16093](http://arxiv.org/abs/2603.16093)|null|
 |**2026-03-16**|**Grounding World Simulation Models in a Real-World Metropolis**|Junyoung Seo et.al.|[2603.15583](http://arxiv.org/abs/2603.15583)|null|
 |**2026-03-16**|**iDaVIE v1.0: A virtual reality tool for interactive analysis of astronomical data cubes**|Alexander Sivitilli et.al.|[2603.15490](http://arxiv.org/abs/2603.15490)|null|
