@@ -1,5 +1,5 @@
 # World Model and Embodied AI arxiv Papers
-### Updated on 2026.03.26
+### Updated on 2026.03.27
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#1-world-model>1-World Model</a></li>
@@ -16,12 +16,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-26**|**Vega: Learning to Drive with Natural Language Instructions**|Sicheng Zuo et.al.|[2603.25741](http://arxiv.org/abs/2603.25741)|null|
+|**2026-03-26**|**Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models**|Kaijin Chen et.al.|[2603.25716](http://arxiv.org/abs/2603.25716)|null|
+|**2026-03-26**|**Persistent Robot World Models: Stabilizing Multi-Step Rollouts via Reinforcement Learning**|Jai Bardhan et.al.|[2603.25685](http://arxiv.org/abs/2603.25685)|null|
+|**2026-03-26**|**Modernising Reinforcement Learning-Based Navigation for Embodied Semantic Scene Graph Generation**|Roman Kueble et.al.|[2603.25415](http://arxiv.org/abs/2603.25415)|null|
+|**2026-03-26**|**MMaDA-VLA: Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation**|Yang Liu et.al.|[2603.25406](http://arxiv.org/abs/2603.25406)|null|
+|**2026-03-26**|**Lingshu-Cell: A generative cellular world model for transcriptome modeling toward virtual cells**|Han Zhang et.al.|[2603.25240](http://arxiv.org/abs/2603.25240)|null|
+|**2026-03-26**|**A Wireless World Model for AI-Native 6G Networks**|Ziqi Chen et.al.|[2603.25216](http://arxiv.org/abs/2603.25216)|null|
+|**2026-03-26**|**AI-Supervisor: Autonomous AI Research Supervision via a Persistent Research World Model**|Yunbo Long et.al.|[2603.24402](http://arxiv.org/abs/2603.24402)|null|
+|**2026-03-25**|**DCARL: A Divide-and-Conquer Framework for Autoregressive Long-Trajectory Video Generation**|Junyi Ouyang et.al.|[2603.24835](http://arxiv.org/abs/2603.24835)|null|
 |**2026-03-25**|**DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving**|Pengxuan Yang et.al.|[2603.24587](http://arxiv.org/abs/2603.24587)|null|
 |**2026-03-25**|**Latent-WAM: Latent World Action Modeling for End-to-End Autonomous Driving**|Linbo Wang et.al.|[2603.24581](http://arxiv.org/abs/2603.24581)|null|
 |**2026-03-25**|**SEGAR: Selective Enhancement for Generative Augmented Reality**|Fanjun Bu et.al.|[2603.24541](http://arxiv.org/abs/2603.24541)|null|
 |**2026-03-25**|**Toward Physically Consistent Driving Video World Models under Challenging Trajectories**|Jiawei Zhou et.al.|[2603.24506](http://arxiv.org/abs/2603.24506)|null|
 |**2026-03-25**|**CUA-Suite: Massive Human-annotated Video Demonstrations for Computer-Use Agents**|Xiangru Jian et.al.|[2603.24440](http://arxiv.org/abs/2603.24440)|null|
-|**2026-03-25**|**AI-Supervisor: Autonomous AI Research Supervision via a Persistent Research World Model**|Yunbo Long et.al.|[2603.24402](http://arxiv.org/abs/2603.24402)|null|
 |**2026-03-25**|**GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents**|Yunzhe Wang et.al.|[2603.24329](http://arxiv.org/abs/2603.24329)|null|
 |**2026-03-24**|**WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG**|Zhen Li et.al.|[2603.23497](http://arxiv.org/abs/2603.23497)|null|
 |**2026-03-24**|**VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs**|Haoran Yuan et.al.|[2603.23481](http://arxiv.org/abs/2603.23481)|null|
@@ -729,7 +737,7 @@
 |**2025-11-19**|**Zero-Shot Open-Vocabulary Human Motion Grounding with Test-Time Training**|Yunjiao Zhou et.al.|[2511.15379](http://arxiv.org/abs/2511.15379)|null|
 |**2025-11-19**|**Towards Evolutionary Optimization Using the Ising Model**|Simon Klüttermann et.al.|[2511.15377](http://arxiv.org/abs/2511.15377)|null|
 
-</details><p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260327>back to top</a>)</p>
 
 <details>
 
@@ -739,6 +747,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-26**|**Towards Embodied AI with MuscleMimic: Unlocking full-body musculoskeletal motor learning at scale**|Chengkun Li et.al.|[2603.25544](http://arxiv.org/abs/2603.25544)|null|
+|**2026-03-26**|**Humans vs Vision-Language Models: A Unified Measure of Narrative Coherence**|Nikolai Ilinykh et.al.|[2603.25537](http://arxiv.org/abs/2603.25537)|null|
+|**2026-03-26**|**GridVAD: Open-Set Video Anomaly Detection via Spatial Reasoning over Stratified Frame Grids**|Mohamed Eltahir et.al.|[2603.25467](http://arxiv.org/abs/2603.25467)|null|
+|**2026-03-26**|**VideoWeaver: Multimodal Multi-View Video-to-Video Transfer for Embodied Agents**|George Eskandar et.al.|[2603.25420](http://arxiv.org/abs/2603.25420)|null|
+|**2026-03-26**|**Modernising Reinforcement Learning-Based Navigation for Embodied Semantic Scene Graph Generation**|Roman Kueble et.al.|[2603.25415](http://arxiv.org/abs/2603.25415)|null|
+|**2026-03-26**|**HiSpatial: Taming Hierarchical 3D Spatial Understanding in Vision-Language Models**|Huizhi Liang et.al.|[2603.25411](http://arxiv.org/abs/2603.25411)|null|
+|**2026-03-26**|**Shape and Substance: Dual-Layer Side-Channel Attacks on Local Vision-Language Models**|Eyal Hadad et.al.|[2603.25403](http://arxiv.org/abs/2603.25403)|null|
+|**2026-03-26**|**DAGverse: Building Document-Grounded Semantic DAGs from Scientific Papers**|Shu Wan et.al.|[2603.25293](http://arxiv.org/abs/2603.25293)|null|
+|**2026-03-26**|**Activation Matters: Test-time Activated Negative Labels for OOD Detection with Vision-Language Models**|Yabin Zhang et.al.|[2603.25250](http://arxiv.org/abs/2603.25250)|null|
+|**2026-03-26**|**Learning to Rank Caption Chains for Video-Text Alignment**|Ansel Blume et.al.|[2603.25145](http://arxiv.org/abs/2603.25145)|null|
+|**2026-03-26**|**Sparse Visual Thought Circuits in Vision-Language Models**|Yunpeng Zhou et.al.|[2603.25075](http://arxiv.org/abs/2603.25075)|null|
+|**2026-03-26**|**ThermoAct:Thermal-Aware Vision-Language-Action Models for Robotic Perception and Decision-Making**|Young-Chae Son et.al.|[2603.25044](http://arxiv.org/abs/2603.25044)|null|
+|**2026-03-26**|**Mechanistically Interpreting Compression in Vision-Language Models**|Veeraraju Elluru et.al.|[2603.25035](http://arxiv.org/abs/2603.25035)|null|
+|**2026-03-26**|**Interpretable Zero-shot Referring Expression Comprehension with Query-driven Scene Graphs**|Yike Wu et.al.|[2603.25004](http://arxiv.org/abs/2603.25004)|null|
+|**2026-03-26**|**MoE-GRPO: Optimizing Mixture-of-Experts via Reinforcement Learning in Vision-Language Models**|Dohwan Ko et.al.|[2603.24984](http://arxiv.org/abs/2603.24984)|null|
+|**2026-03-25**|**How Far Are Vision-Language Models from Constructing the Real World? A Benchmark for Physical Generative Reasoning**|Luyu Yang et.al.|[2603.24866](http://arxiv.org/abs/2603.24866)|null|
+|**2026-03-25**|**GoldiCLIP: The Goldilocks Approach for Balancing Explicit Supervision for Language-Image Pretraining**|Deen Dayal Mohan et.al.|[2603.24804](http://arxiv.org/abs/2603.24804)|null|
+|**2026-03-25**|**Scalable Object Relation Encoding for Better 3D Spatial Reasoning in Large Language Models**|Shengli Zhou et.al.|[2603.24721](http://arxiv.org/abs/2603.24721)|null|
+|**2026-03-25**|**LLaVA-LE: Large Language-and-Vision Assistant for Lunar Exploration**|Gokce Inal et.al.|[2603.24696](http://arxiv.org/abs/2603.24696)|null|
+|**2026-03-25**|**KitchenTwin: Semantically and Geometrically Grounded 3D Kitchen Digital Twins**|Quanyun Wu et.al.|[2603.24684](http://arxiv.org/abs/2603.24684)|null|
 |**2026-03-25**|**Vision-Language Models vs Human: Perceptual Image Quality Assessment**|Imran Mehmood et.al.|[2603.24578](http://arxiv.org/abs/2603.24578)|null|
 |**2026-03-25**|**Chameleon: Episodic Memory for Long-Horizon Robotic Manipulation**|Xinying Guo et.al.|[2603.24576](http://arxiv.org/abs/2603.24576)|null|
 |**2026-03-25**|**VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models**|Qijia He et.al.|[2603.24575](http://arxiv.org/abs/2603.24575)|null|
@@ -2318,7 +2346,7 @@
 |**2025-11-19**|**Context Cascade Compression: Exploring the Upper Limits of Text Compression**|Fanfan Liu et.al.|[2511.15244](http://arxiv.org/abs/2511.15244)|null|
 |**2025-11-19**|**SkinGPT-R1: Adapter-Only Dual Distillation for Efficient Dermatology Reasoning**|Yuhao Shen et.al.|[2511.15242](http://arxiv.org/abs/2511.15242)|null|
 
-</details><p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260327>back to top</a>)</p>
 
 <details>
 
@@ -2328,11 +2356,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-26**|**ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling**|Yawen Luo et.al.|[2603.25746](http://arxiv.org/abs/2603.25746)|null|
+|**2026-03-26**|**RefAlign: Representation Alignment for Reference-to-Video Generation**|Lei Wang et.al.|[2603.25743](http://arxiv.org/abs/2603.25743)|null|
+|**2026-03-26**|**PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference**|Xiaofeng Mao et.al.|[2603.25730](http://arxiv.org/abs/2603.25730)|null|
+|**2026-03-26**|**Beyond the Golden Data: Resolving the Motion-Vision Quality Dilemma via Timestep Selective Training**|Xiangyang Luo et.al.|[2603.25527](http://arxiv.org/abs/2603.25527)|null|
+|**2026-03-26**|**Free-Lunch Long Video Generation via Layer-Adaptive O.O.D Correction**|Jiahao Tian et.al.|[2603.25209](http://arxiv.org/abs/2603.25209)|null|
+|**2026-03-26**|**AnyID: Ultra-Fidelity Universal Identity-Preserving Video Generation from Any Visual References**|Jiahao Wang et.al.|[2603.25188](http://arxiv.org/abs/2603.25188)|null|
+|**2026-03-26**|**GaussFusion: Improving 3D Reconstruction in the Wild with A Geometry-Informed Video Generator**|Liyuan Zhu et.al.|[2603.25053](http://arxiv.org/abs/2603.25053)|null|
+|**2026-03-26**|**ScrollScape: Unlocking 32K Image Generation With Video Diffusion Priors**|Haodong Yu et.al.|[2603.24270](http://arxiv.org/abs/2603.24270)|null|
+|**2026-03-25**|**DCARL: A Divide-and-Conquer Framework for Autoregressive Long-Trajectory Video Generation**|Junyi Ouyang et.al.|[2603.24835](http://arxiv.org/abs/2603.24835)|null|
 |**2026-03-25**|**DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving**|Pengxuan Yang et.al.|[2603.24587](http://arxiv.org/abs/2603.24587)|null|
 |**2026-03-25**|**Anti-I2V: Safeguarding your photos from malicious image-to-video generation**|Duc Vu et.al.|[2603.24570](http://arxiv.org/abs/2603.24570)|null|
 |**2026-03-25**|**Toward Physically Consistent Driving Video World Models under Challenging Trajectories**|Jiawei Zhou et.al.|[2603.24506](http://arxiv.org/abs/2603.24506)|null|
 |**2026-03-25**|**OmniWeaving: Towards Unified Video Generation with Free-form Composition and Reasoning**|Kaihang Pan et.al.|[2603.24458](http://arxiv.org/abs/2603.24458)|null|
-|**2026-03-25**|**ScrollScape: Unlocking 32K Image Generation With Video Diffusion Priors**|Haodong Yu et.al.|[2603.24270](http://arxiv.org/abs/2603.24270)|null|
 |**2026-03-25**|**WorldMesh: Generating Navigable Multi-Room 3D Scenes via Mesh-Conditioned Image Diffusion**|Manuel-Andreas Schneider et.al.|[2603.22972](http://arxiv.org/abs/2603.22972)|null|
 |**2026-03-25**|**PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation**|Mingju Gao et.al.|[2603.22193](http://arxiv.org/abs/2603.22193)|null|
 |**2026-03-24**|**WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG**|Zhen Li et.al.|[2603.23497](http://arxiv.org/abs/2603.23497)|null|
@@ -3068,7 +3104,7 @@
 |**2025-11-18**|**FlowRoI A Fast Optical Flow Driven Region of Interest Extraction Framework for High-Throughput Image Compression in Immune Cell Migration Analysis**|Xiaowei Xu et.al.|[2511.14419](http://arxiv.org/abs/2511.14419)|null|
 |**2025-11-18**|**ARC-Chapter: Structuring Hour-Long Videos into Navigable Chapters and Hierarchical Summaries**|Junfu Pu et.al.|[2511.14349](http://arxiv.org/abs/2511.14349)|null|
 
-</details><p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260327>back to top</a>)</p>
 
 Notes: 
 
