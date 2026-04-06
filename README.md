@@ -1,5 +1,5 @@
 # World Model and Embodied AI arxiv Papers
-### Updated on 2026.04.05
+### Updated on 2026.04.06
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#1-world-model>1-World Model</a></li>
@@ -16,6 +16,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-03**|**Hierarchical Planning with Latent World Models**|Wancong Zhang et.al.|[2604.03208](http://arxiv.org/abs/2604.03208)|null|
+|**2026-04-03**|**InCoder-32B-Thinking: Industrial Code World Model for Thinking**|Jian Yang et.al.|[2604.03144](http://arxiv.org/abs/2604.03144)|null|
+|**2026-04-03**|**Learning Task-Invariant Properties via Dreamer: Enabling Efficient Policy Transfer for Quadruped Robots**|Junyang Liang et.al.|[2604.02911](http://arxiv.org/abs/2604.02911)|null|
+|**2026-04-03**|**ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving**|Zihao Sheng et.al.|[2604.02714](http://arxiv.org/abs/2604.02714)|null|
+|**2026-04-02**|**VoxelCodeBench: Benchmarking 3D World Modeling Through Code Generation**|Yan Zheng et.al.|[2604.02580](http://arxiv.org/abs/2604.02580)|null|
 |**2026-04-02**|**ActionParty: Multi-Subject Action Binding in Generative Video Games**|Alexander Pondaven et.al.|[2604.02330](http://arxiv.org/abs/2604.02330)|null|
 |**2026-04-02**|**Omni123: Exploring 3D Native Foundation Models with Limited 3D Data by Unifying Text to 2D and 3D Generation**|Chongjie Ye et.al.|[2604.02289](http://arxiv.org/abs/2604.02289)|null|
 |**2026-04-02**|**LatentUM: Unleashing the Potential of Interleaved Cross-Modal Reasoning via a Latent-Space Unified Model**|Jiachun Jin et.al.|[2604.02097](http://arxiv.org/abs/2604.02097)|null|
@@ -766,7 +771,7 @@
 |**2025-11-19**|**Zero-Shot Open-Vocabulary Human Motion Grounding with Test-Time Training**|Yunjiao Zhou et.al.|[2511.15379](http://arxiv.org/abs/2511.15379)|null|
 |**2025-11-19**|**Towards Evolutionary Optimization Using the Ising Model**|Simon Klüttermann et.al.|[2511.15377](http://arxiv.org/abs/2511.15377)|null|
 
-</details><p align=right>(<a href=#updated-on-20260405>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 <details>
 
@@ -776,6 +781,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-03**|**CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning**|Ankan Deria et.al.|[2604.03231](http://arxiv.org/abs/2604.03231)|null|
+|**2026-04-03**|**The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling**|Takuya Shiba et.al.|[2604.03191](http://arxiv.org/abs/2604.03191)|null|
+|**2026-04-03**|**EffiMiniVLM: A Compact Dual-Encoder Regression Framework**|Yin-Loon Khor et.al.|[2604.03172](http://arxiv.org/abs/2604.03172)|null|
+|**2026-04-03**|**Chart-RL: Policy Optimization Reinforcement Learning for Enhanced Visual Reasoning in Chart Question Answering with Vision Language Models**|Yunfei Bai et.al.|[2604.03157](http://arxiv.org/abs/2604.03157)|null|
+|**2026-04-03**|**FSUNav: A Cerebrum-Cerebellum Architecture for Fast, Safe, and Universal Zero-Shot Goal-Oriented Navigation**|Mingao Tan et.al.|[2604.03139](http://arxiv.org/abs/2604.03139)|null|
+|**2026-04-03**|**Revealing Physical-World Semantic Vulnerabilities: Universal Adversarial Patches for Infrared Vision-Language Models**|Chengyin Hu et.al.|[2604.03117](http://arxiv.org/abs/2604.03117)|null|
+|**2026-04-03**|**QVAD: A Question-Centric Agentic Framework for Efficient and Training-Free Video Anomaly Detection**|Lokman Bekit et.al.|[2604.03040](http://arxiv.org/abs/2604.03040)|null|
+|**2026-04-03**|**Collaborative Multi-Mode Pruning for Vision-Language Models**|Zimeng Wu et.al.|[2604.02956](http://arxiv.org/abs/2604.02956)|null|
+|**2026-04-03**|**Toward an Artificial General Teacher: Procedural Geometry Data Generation and Visual Grounding with Vision-Language Models**|Hai Nguyen-Truong et.al.|[2604.02893](http://arxiv.org/abs/2604.02893)|null|
+|**2026-04-03**|**InstructTable: Improving Table Structure Recognition Through Instructions**|Boming Chen et.al.|[2604.02880](http://arxiv.org/abs/2604.02880)|null|
+|**2026-04-03**|**MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling**|Shubo Lin et.al.|[2604.02817](http://arxiv.org/abs/2604.02817)|null|
+|**2026-04-03**|**Learning Structured Robot Policies from Vision-Language Models via Synthetic Neuro-Symbolic Supervision**|Alessandro Adami et.al.|[2604.02812](http://arxiv.org/abs/2604.02812)|null|
+|**2026-04-03**|**PaveBench: A Versatile Benchmark for Pavement Distress Perception and Interactive Vision-Language Analysis**|Dexiang Li et.al.|[2604.02804](http://arxiv.org/abs/2604.02804)|null|
+|**2026-04-03**|**EnsemHalDet: Robust VLM Hallucination Detection via Ensemble of Internal State Detectors**|Ryuhei Miyazato et.al.|[2604.02784](http://arxiv.org/abs/2604.02784)|null|
+|**2026-04-03**|**OMNI-PoseX: A Fast Vision Model for 6D Object Pose Estimation in Embodied Tasks**|Michael Zhang et.al.|[2604.02759](http://arxiv.org/abs/2604.02759)|null|
+|**2026-04-03**|**Moondream Segmentation: From Words to Masks**|Ethan Reid et.al.|[2604.02593](http://arxiv.org/abs/2604.02593)|null|
+|**2026-04-02**|**WSVD: Weighted Low-Rank Approximation for Fast and Efficient Execution of Low-Precision Vision-Language Models**|Haiyu Wang et.al.|[2604.02570](http://arxiv.org/abs/2604.02570)|null|
+|**2026-04-02**|**Overconfidence and Calibration in Medical VQA: Empirical Findings and Hallucination-Aware Mitigation**|Ji Young Byun et.al.|[2604.02543](http://arxiv.org/abs/2604.02543)|null|
+|**2026-04-02**|**An Explainable Vision-Language Model Framework with Adaptive PID-Tversky Loss for Lumbar Spinal Stenosis Diagnosis**|Md. Sajeebul Islam Sk. et.al.|[2604.02502](http://arxiv.org/abs/2604.02502)|null|
+|**2026-04-02**|**VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors**|Haz Sameen Shahgir et.al.|[2604.02486](http://arxiv.org/abs/2604.02486)|null|
 |**2026-04-02**|**Steerable Visual Representations**|Jona Ruthardt et.al.|[2604.02327](http://arxiv.org/abs/2604.02327)|null|
 |**2026-04-02**|**VOID: Video Object and Interaction Deletion**|Saman Motamed et.al.|[2604.02296](http://arxiv.org/abs/2604.02296)|null|
 |**2026-04-02**|**SPAR: Single-Pass Any-Resolution ViT for Open-vocabulary Segmentation**|Naomi Kombol et.al.|[2604.02252](http://arxiv.org/abs/2604.02252)|null|
@@ -2455,7 +2480,7 @@
 |**2025-11-19**|**Context Cascade Compression: Exploring the Upper Limits of Text Compression**|Fanfan Liu et.al.|[2511.15244](http://arxiv.org/abs/2511.15244)|null|
 |**2025-11-19**|**SkinGPT-R1: Adapter-Only Dual Distillation for Efficient Dermatology Reasoning**|Yuhao Shen et.al.|[2511.15242](http://arxiv.org/abs/2511.15242)|null|
 
-</details><p align=right>(<a href=#updated-on-20260405>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 <details>
 
@@ -2465,6 +2490,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-03**|**Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation**|Xingtong Ge et.al.|[2604.03118](http://arxiv.org/abs/2604.03118)|null|
+|**2026-04-03**|**Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation**|Hanshuai Cui et.al.|[2604.02979](http://arxiv.org/abs/2604.02979)|null|
+|**2026-04-03**|**HairOrbit: Multi-view Aware 3D Hair Modeling from Single Portraits**|Leyang Jin et.al.|[2604.02867](http://arxiv.org/abs/2604.02867)|null|
+|**2026-04-03**|**MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling**|Shubo Lin et.al.|[2604.02817](http://arxiv.org/abs/2604.02817)|null|
 |**2026-04-02**|**Generative World Renderer**|Zheng-Hui Huang et.al.|[2604.02329](http://arxiv.org/abs/2604.02329)|null|
 |**2026-04-02**|**DriveDreamer-Policy: A Geometry-Grounded World-Action Model for Unified Generation and Planning**|Yang Zhou et.al.|[2604.01765](http://arxiv.org/abs/2604.01765)|null|
 |**2026-04-02**|**DynaVid: Learning to Generate Highly Dynamic Videos using Synthetic Motion Data**|Wonjoon Jin et.al.|[2604.01666](http://arxiv.org/abs/2604.01666)|null|
@@ -3243,7 +3272,7 @@
 |**2025-11-18**|**FlowRoI A Fast Optical Flow Driven Region of Interest Extraction Framework for High-Throughput Image Compression in Immune Cell Migration Analysis**|Xiaowei Xu et.al.|[2511.14419](http://arxiv.org/abs/2511.14419)|null|
 |**2025-11-18**|**ARC-Chapter: Structuring Hour-Long Videos into Navigable Chapters and Hierarchical Summaries**|Junfu Pu et.al.|[2511.14349](http://arxiv.org/abs/2511.14349)|null|
 
-</details><p align=right>(<a href=#updated-on-20260405>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 Notes: 
 
