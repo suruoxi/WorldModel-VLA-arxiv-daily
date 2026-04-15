@@ -3,7 +3,7 @@ layout: default
 ---
 
 # World Model and Embodied AI arxiv Papers
-### Updated on 2026.04.14
+### Updated on 2026.04.15
 <details>
 
 <summary> 1-World Model </summary>
@@ -12,6 +12,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**Robotic Manipulation is Vision-to-Geometry Mapping ( $f(v) \rightarrow G$ ): Vision-Geometry Backbones over Language and Video Models**|Zijian Song et.al.|[2604.12908](http://arxiv.org/abs/2604.12908)|null|
+|**2026-04-14**|**Knowledge Is Not Static: Order-Aware Hypergraph RAG for Language Models**|Keshu Wu et.al.|[2604.12185](http://arxiv.org/abs/2604.12185)|null|
 |**2026-04-13**|**Grounded World Model for Semantically Generalizable Planning**|Quanyi Li et.al.|[2604.11751](http://arxiv.org/abs/2604.11751)|null|
 |**2026-04-13**|**Dyadic Partnership(DP): A Missing Link Towards Full Autonomy in Medical Robotics**|Nassir Navab et.al.|[2604.11423](http://arxiv.org/abs/2604.11423)|null|
 |**2026-04-13**|**ComSim: Building Scalable Real-World Robot Data Generation via Compositional Simulation**|Yiran Qin et.al.|[2604.11386](http://arxiv.org/abs/2604.11386)|null|
@@ -824,6 +826,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**SceneCritic: A Symbolic Evaluator for 3D Indoor Scene Synthesis**|Kathakoli Sengupta et.al.|[2604.13035](http://arxiv.org/abs/2604.13035)|null|
+|**2026-04-14**|**Representation geometry shapes task performance in vision-language modeling for CT enterography**|Cristian Minoccheri et.al.|[2604.13021](http://arxiv.org/abs/2604.13021)|null|
+|**2026-04-14**|**GlotOCR Bench: OCR Models Still Struggle Beyond a Handful of Unicode Scripts**|Amir Hossein Kargaran et.al.|[2604.12978](http://arxiv.org/abs/2604.12978)|null|
+|**2026-04-14**|**Challenging Vision-Language Models with Physically Deployable Multimodal Semantic Lighting Attacks**|Yingying Zhao et.al.|[2604.12833](http://arxiv.org/abs/2604.12833)|null|
+|**2026-04-14**|**VULCAN: Vision-Language-Model Enhanced Multi-Agent Cooperative Navigation for Indoor Fire-Disaster Response**|Shengding Liu et.al.|[2604.12831](http://arxiv.org/abs/2604.12831)|null|
+|**2026-04-14**|**Do VLMs Truly "Read" Candlesticks? A Multi-Scale Benchmark for Visual Stock Price Forecasting**|Kaiqi Hu et.al.|[2604.12659](http://arxiv.org/abs/2604.12659)|null|
+|**2026-04-14**|**PromptEcho: Annotation-Free Reward from Vision-Language Models for Text-to-Image Reinforcement Learning**|Jinlong Liu et.al.|[2604.12652](http://arxiv.org/abs/2604.12652)|null|
+|**2026-04-14**|**Habitat-GS: A High-Fidelity Navigation Simulator with Dynamic Gaussian Splatting**|Ziyuan Xia et.al.|[2604.12626](http://arxiv.org/abs/2604.12626)|null|
+|**2026-04-14**|**Every Picture Tells a Dangerous Story: Memory-Augmented Multi-Agent Jailbreak Attacks on VLMs**|Jianhao Chen et.al.|[2604.12616](http://arxiv.org/abs/2604.12616)|null|
+|**2026-04-14**|**Cross-Attentive Multiview Fusion of Vision-Language Embeddings**|Tomas Berriel Martins et.al.|[2604.12551](http://arxiv.org/abs/2604.12551)|null|
+|**2026-04-14**|**MODIX: A Training-Free Multimodal Information-Driven Positional Index Scaling for Vision-Language Models**|Ruoxiang Huang et.al.|[2604.12537](http://arxiv.org/abs/2604.12537)|null|
+|**2026-04-14**|**Dual-Modality Anchor-Guided Filtering for Test-time Prompt Tuning**|Jungwon Choi et.al.|[2604.12403](http://arxiv.org/abs/2604.12403)|null|
+|**2026-04-14**|**Reading Between the Pixels: Linking Text-Image Embedding Alignment to Typographic Attack Success on Vision-Language Models**|Ravikumar Balakrishnan et.al.|[2604.12371](http://arxiv.org/abs/2604.12371)|null|
+|**2026-04-14**|**ReflectCAP: Detailed Image Captioning with Reflective Memory**|Kyungmin Min et.al.|[2604.12357](http://arxiv.org/abs/2604.12357)|null|
+|**2026-04-14**|**WebAgentGuard: A Reasoning-Driven Guard Model for Detecting Prompt Injection Attacks in Web Agents**|Yulin Chen et.al.|[2604.12284](http://arxiv.org/abs/2604.12284)|null|
+|**2026-04-13**|**Beyond Perception Errors: Semantic Fixation in Large Vision-Language Models**|Md Tanvirul Alam et.al.|[2604.12119](http://arxiv.org/abs/2604.12119)|null|
+|**2026-04-13**|**HTDC: Hesitation-Triggered Differential Calibration for Mitigating Hallucination in Large Vision-Language Models**|Xinyun Liu et.al.|[2604.12115](http://arxiv.org/abs/2604.12115)|null|
+|**2026-04-13**|**Human-Inspired Context-Selective Multimodal Memory for Social Robots**|Hangyeol Kang et.al.|[2604.12081](http://arxiv.org/abs/2604.12081)|null|
+|**2026-04-13**|**Benchmarking Deflection and Hallucination in Large Vision-Language Models**|Nicholas Moratelli et.al.|[2604.12033](http://arxiv.org/abs/2604.12033)|null|
+|**2026-04-13**|**TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment**|Bingyi Cao et.al.|[2604.12012](http://arxiv.org/abs/2604.12012)|null|
 |**2026-04-13**|**Collaborative Multi-Agent Scripts Generation for Enhancing Imperfect-Information Reasoning in Murder Mystery Games**|Keyang Zhong et.al.|[2604.11741](http://arxiv.org/abs/2604.11741)|null|
 |**2026-04-13**|**VLMaterial: Vision-Language Model-Based Camera-Radar Fusion for Physics-Grounded Material Identification**|Jiangyou Zhu et.al.|[2604.11671](http://arxiv.org/abs/2604.11671)|null|
 |**2026-04-13**|**CArtBench: Evaluating Vision-Language Models on Chinese Art Understanding, Interpretation, and Authenticity**|Xuefeng Wei et.al.|[2604.11632](http://arxiv.org/abs/2604.11632)|null|
@@ -2626,6 +2648,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**Lyra 2.0: Explorable Generative 3D Worlds**|Tianchang Shen et.al.|[2604.13036](http://arxiv.org/abs/2604.13036)|null|
+|**2026-04-14**|**Generative Refinement Networks for Visual Synthesis**|Jian Han et.al.|[2604.13030](http://arxiv.org/abs/2604.13030)|null|
+|**2026-04-14**|**VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization**|Andrei Atanov et.al.|[2604.12887](http://arxiv.org/abs/2604.12887)|null|
+|**2026-04-14**|**Towards Realistic and Consistent Orbital Video Generation via 3D Foundation Priors**|Rong Wang et.al.|[2604.12309](http://arxiv.org/abs/2604.12309)|null|
+|**2026-04-14**|**ArtifactWorld: Scaling 3D Gaussian Splatting Artifact Restoration via Video Generation Models**|Xinliang Wang et.al.|[2604.12251](http://arxiv.org/abs/2604.12251)|null|
+|**2026-04-14**|**Ride the Wave: Precision-Allocated Sparse Attention for Smooth Video Generation**|Wentai Zhang et.al.|[2604.12219](http://arxiv.org/abs/2604.12219)|null|
 |**2026-04-13**|**OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation**|Donghao Zhou et.al.|[2604.11804](http://arxiv.org/abs/2604.11804)|null|
 |**2026-04-13**|**LottieGPT: Tokenizing Vector Animation for Autoregressive Generation**|Junhao Chen et.al.|[2604.11792](http://arxiv.org/abs/2604.11792)|null|
 |**2026-04-13**|**HDR Video Generation via Latent Alignment with Logarithmic Encoding**|Naomi Ken Korem et.al.|[2604.11788](http://arxiv.org/abs/2604.11788)|null|
