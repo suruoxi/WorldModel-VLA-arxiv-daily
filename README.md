@@ -1,5 +1,5 @@
 # World Model and Embodied AI arxiv Papers
-### Updated on 2026.04.15
+### Updated on 2026.04.16
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#1-world-model>1-World Model</a></li>
@@ -16,6 +16,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-15**|**Feed-Forward 3D Scene Modeling: A Problem-Driven Perspective**|Weijie Wang et.al.|[2604.14025](http://arxiv.org/abs/2604.14025)|null|
+|**2026-04-15**|**Beyond State Consistency: Behavior Consistency in Text-Based World Models**|Youling Huang et.al.|[2604.13824](http://arxiv.org/abs/2604.13824)|null|
+|**2026-04-15**|**Vision-and-Language Navigation for UAVs: Progress, Challenges, and a Research Roadmap**|Hanxuan Chen et.al.|[2604.13654](http://arxiv.org/abs/2604.13654)|null|
 |**2026-04-14**|**Robotic Manipulation is Vision-to-Geometry Mapping ( $f(v) \rightarrow G$ ): Vision-Geometry Backbones over Language and Video Models**|Zijian Song et.al.|[2604.12908](http://arxiv.org/abs/2604.12908)|null|
 |**2026-04-14**|**Knowledge Is Not Static: Order-Aware Hypergraph RAG for Language Models**|Keshu Wu et.al.|[2604.12185](http://arxiv.org/abs/2604.12185)|null|
 |**2026-04-13**|**Grounded World Model for Semantically Generalizable Planning**|Quanyi Li et.al.|[2604.11751](http://arxiv.org/abs/2604.11751)|null|
@@ -822,7 +825,7 @@
 |**2025-11-19**|**Zero-Shot Open-Vocabulary Human Motion Grounding with Test-Time Training**|Yunjiao Zhou et.al.|[2511.15379](http://arxiv.org/abs/2511.15379)|null|
 |**2025-11-19**|**Towards Evolutionary Optimization Using the Ising Model**|Simon Klüttermann et.al.|[2511.15377](http://arxiv.org/abs/2511.15377)|null|
 
-</details><p align=right>(<a href=#updated-on-20260415>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
 <details>
 
@@ -832,6 +835,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-15**|**One Token per Highly Selective Frame: Towards Extreme Compression for Long Video Understanding**|Zheyu Zhang et.al.|[2604.14149](http://arxiv.org/abs/2604.14149)|null|
+|**2026-04-15**|**HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System**|Tianshuo Yang et.al.|[2604.14125](http://arxiv.org/abs/2604.14125)|null|
+|**2026-04-15**|**Training-Free Semantic Multi-Object Tracking with Vision-Language Models**|Laurence Bonat et.al.|[2604.14074](http://arxiv.org/abs/2604.14074)|null|
+|**2026-04-15**|**Reward Design for Physical Reasoning in Vision-Language Models**|Derek Lilienthal et.al.|[2604.13993](http://arxiv.org/abs/2604.13993)|null|
+|**2026-04-15**|**MApLe: Multi-instance Alignment of Diagnostic Reports and Large Medical Images**|Felicia Bader et.al.|[2604.13970](http://arxiv.org/abs/2604.13970)|null|
+|**2026-04-15**|**[Emerging Ideas] Artificial Tripartite Intelligence: A Bio-Inspired, Sensor-First Architecture for Physical AI**|You Rim Choi et.al.|[2604.13959](http://arxiv.org/abs/2604.13959)|null|
+|**2026-04-15**|**GeoAgentBench: A Dynamic Execution Benchmark for Tool-Augmented Agents in Spatial Analysis**|Bo Yu et.al.|[2604.13888](http://arxiv.org/abs/2604.13888)|null|
+|**2026-04-15**|**Gaslight, Gatekeep, V1-V3: Early Visual Cortex Alignment Shields Vision-Language Models from Sycophantic Manipulation**|Arya Shah et.al.|[2604.13803](http://arxiv.org/abs/2604.13803)|null|
+|**2026-04-15**|**EmbodiedClaw: Conversational Workflow Execution for Embodied AI Development**|Xueyang Zhou et.al.|[2604.13800](http://arxiv.org/abs/2604.13800)|null|
+|**2026-04-15**|**Failure Identification in Imitation Learning Via Statistical and Semantic Filtering**|Quentin Rolland et.al.|[2604.13788](http://arxiv.org/abs/2604.13788)|null|
+|**2026-04-15**|**Vision-and-Language Navigation for UAVs: Progress, Challenges, and a Research Roadmap**|Hanxuan Chen et.al.|[2604.13654](http://arxiv.org/abs/2604.13654)|null|
+|**2026-04-15**|**A Mechanistic Analysis of Sim-and-Real Co-Training in Generative Robot Policies**|Yu Lei et.al.|[2604.13645](http://arxiv.org/abs/2604.13645)|null|
+|**2026-04-15**|**ESCAPE: Episodic Spatial Memory and Adaptive Execution Policy for Long-Horizon Mobile Manipulation**|Jingjing Qian et.al.|[2604.13633](http://arxiv.org/abs/2604.13633)|null|
+|**2026-04-15**|**VGGT-Segmentor: Geometry-Enhanced Cross-View Segmentation**|Yulu Gao et.al.|[2604.13596](http://arxiv.org/abs/2604.13596)|null|
+|**2026-04-15**|**SocialMirror: Reconstructing 3D Human Interaction Behaviors from Monocular Videos with Semantic and Geometric Guidance**|Qi Xia et.al.|[2604.13581](http://arxiv.org/abs/2604.13581)|null|
+|**2026-04-15**|**UHR-BAT: Budget-Aware Token Compression Vision-Language model for Ultra-High-Resolution Remote Sensing**|Yunkai Dang et.al.|[2604.13565](http://arxiv.org/abs/2604.13565)|null|
+|**2026-04-15**|**CLIP Architecture for Abdominal CT Image-Text Alignment and Zero-Shot Learning: Investigating Batch Composition and Data Scaling**|Shivika et.al.|[2604.13561](http://arxiv.org/abs/2604.13561)|null|
+|**2026-04-15**|**AgentComm: Semantic Communication for Embodied Agents**|Peiwen Jiang et.al.|[2604.13558](http://arxiv.org/abs/2604.13558)|null|
+|**2026-04-15**|**Evolvable Embodied Agent for Robotic Manipulation via Long Short-Term Reflection and Optimization**|Jianzong Wang et.al.|[2604.13533](http://arxiv.org/abs/2604.13533)|null|
+|**2026-04-15**|**From Relevance to Authority: Authority-aware Generative Retrieval in Web Search Engines**|Sunkyung Lee et.al.|[2604.13468](http://arxiv.org/abs/2604.13468)|null|
 |**2026-04-14**|**SceneCritic: A Symbolic Evaluator for 3D Indoor Scene Synthesis**|Kathakoli Sengupta et.al.|[2604.13035](http://arxiv.org/abs/2604.13035)|null|
 |**2026-04-14**|**Representation geometry shapes task performance in vision-language modeling for CT enterography**|Cristian Minoccheri et.al.|[2604.13021](http://arxiv.org/abs/2604.13021)|null|
 |**2026-04-14**|**GlotOCR Bench: OCR Models Still Struggle Beyond a Handful of Unicode Scripts**|Amir Hossein Kargaran et.al.|[2604.12978](http://arxiv.org/abs/2604.12978)|null|
@@ -2646,7 +2669,7 @@
 |**2025-11-19**|**Context Cascade Compression: Exploring the Upper Limits of Text Compression**|Fanfan Liu et.al.|[2511.15244](http://arxiv.org/abs/2511.15244)|null|
 |**2025-11-19**|**SkinGPT-R1: Adapter-Only Dual Distillation for Efficient Dermatology Reasoning**|Yuhao Shen et.al.|[2511.15242](http://arxiv.org/abs/2511.15242)|null|
 
-</details><p align=right>(<a href=#updated-on-20260415>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
 <details>
 
@@ -2656,6 +2679,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-15**|**Seedance 2.0: Advancing Video Generation for World Complexity**|Team Seedance et.al.|[2604.14148](http://arxiv.org/abs/2604.14148)|null|
+|**2026-04-15**|**From Synchrony to Sequence: Exo-to-Ego Generation via Interpolation**|Mohammad Mahdi et.al.|[2604.13793](http://arxiv.org/abs/2604.13793)|null|
+|**2026-04-15**|**DiT as Real-Time Rerenderer: Streaming Video Stylization with Autoregressive Diffusion Transformer**|Hengye Lyu et.al.|[2604.13509](http://arxiv.org/abs/2604.13509)|null|
+|**2026-04-15**|**VibeFlow: Versatile Video Chroma-Lux Editing through Self-Supervised Learning**|Yifan Li et.al.|[2604.13425](http://arxiv.org/abs/2604.13425)|null|
+|**2026-04-15**|**Script-a-Video: Deep Structured Audio-visual Captions via Factorized Streams and Relational Grounding**|Tencent Hunyuan Team et.al.|[2604.11244](http://arxiv.org/abs/2604.11244)|null|
 |**2026-04-14**|**Lyra 2.0: Explorable Generative 3D Worlds**|Tianchang Shen et.al.|[2604.13036](http://arxiv.org/abs/2604.13036)|null|
 |**2026-04-14**|**Generative Refinement Networks for Visual Synthesis**|Jian Han et.al.|[2604.13030](http://arxiv.org/abs/2604.13030)|null|
 |**2026-04-14**|**VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization**|Andrei Atanov et.al.|[2604.12887](http://arxiv.org/abs/2604.12887)|null|
@@ -2667,7 +2695,6 @@
 |**2026-04-13**|**HDR Video Generation via Latent Alignment with Logarithmic Encoding**|Naomi Ken Korem et.al.|[2604.11788](http://arxiv.org/abs/2604.11788)|null|
 |**2026-04-13**|**Learning Long-term Motion Embeddings for Efficient Kinematics Generation**|Nick Stracke et.al.|[2604.11737](http://arxiv.org/abs/2604.11737)|null|
 |**2026-04-13**|**Empowering Video Translation using Multimodal Large Language Models**|Bingzheng QU et.al.|[2604.11283](http://arxiv.org/abs/2604.11283)|null|
-|**2026-04-13**|**Script-a-Video: Deep Structured Audio-visual Captions via Factorized Streams and Relational Grounding**|Tencent Hunyuan Team et.al.|[2604.11244](http://arxiv.org/abs/2604.11244)|null|
 |**2026-04-13**|**AIM: Intent-Aware Unified world action Modeling with Spatial Value Maps**|Liaoyuan Fan et.al.|[2604.11135](http://arxiv.org/abs/2604.11135)|null|
 |**2026-04-13**|**ELT: Elastic Looped Transformers for Visual Generation**|Sahil Goyal et.al.|[2604.09168](http://arxiv.org/abs/2604.09168)|null|
 |**2026-04-13**|**Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory**|Zile Wang et.al.|[2604.08995](http://arxiv.org/abs/2604.08995)|null|
@@ -3497,7 +3524,7 @@
 |**2025-11-18**|**FlowRoI A Fast Optical Flow Driven Region of Interest Extraction Framework for High-Throughput Image Compression in Immune Cell Migration Analysis**|Xiaowei Xu et.al.|[2511.14419](http://arxiv.org/abs/2511.14419)|null|
 |**2025-11-18**|**ARC-Chapter: Structuring Hour-Long Videos into Navigable Chapters and Hierarchical Summaries**|Junfu Pu et.al.|[2511.14349](http://arxiv.org/abs/2511.14349)|null|
 
-</details><p align=right>(<a href=#updated-on-20260415>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
 
 Notes: 
 
