@@ -1,5 +1,5 @@
 # World Model and Embodied AI arxiv Papers
-### Updated on 2026.04.20
+### Updated on 2026.04.21
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#1-world-model>1-World Model</a></li>
@@ -16,9 +16,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-20**|**MultiWorld: Scalable Multi-Agent Multi-View Video World Models**|Haoyu Wu et.al.|[2604.18564](http://arxiv.org/abs/2604.18564)|null|
+|**2026-04-20**|**OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation**|Jinghui Lu et.al.|[2604.18486](http://arxiv.org/abs/2604.18486)|null|
+|**2026-04-20**|**Sonata: A Hybrid World Model for Inertial Kinematics under Clinical Data Scarcity**|Blaise Delaney et.al.|[2604.18058](http://arxiv.org/abs/2604.18058)|null|
+|**2026-04-20**|**The Umwelt Representation Hypothesis: Rethinking Universality**|Victoria Bosch et.al.|[2604.17960](http://arxiv.org/abs/2604.17960)|null|
+|**2026-04-20**|**ReCoQA: A Benchmark for Tool-Augmented and Multi-Step Reasoning in Real Estate Question and Answering**|Yindong Zhang et.al.|[2604.17944](http://arxiv.org/abs/2604.17944)|null|
+|**2026-04-20**|**Scaling Human-AI Coding Collaboration Requires a Governable Consensus Layer**|Tianfu Wang et.al.|[2604.17883](http://arxiv.org/abs/2604.17883)|null|
+|**2026-04-19**|**Infrastructure-Centric World Models: Bridging Temporal Depth and Spatial Breadth for Roadside Perception**|Siyuan Meng et.al.|[2604.17651](http://arxiv.org/abs/2604.17651)|null|
+|**2026-04-19**|**Dual-Anchoring: Addressing State Drift in Vision-Language Navigation**|Kangyi Wu et.al.|[2604.17473](http://arxiv.org/abs/2604.17473)|null|
+|**2026-04-19**|**World-Value-Action Model: Implicit Planning for Vision-Language-Action Systems**|Runze Li et.al.|[2604.14732](http://arxiv.org/abs/2604.14732)|null|
+|**2026-04-18**|**TensorHub: Rethinking AI Model Hub with Tensor-Centric Compression**|Tingfeng Lan et.al.|[2604.17104](http://arxiv.org/abs/2604.17104)|null|
+|**2026-04-18**|**SafeDream: Safety World Model for Proactive Early Jailbreak Detection**|Bo Yan et.al.|[2604.16824](http://arxiv.org/abs/2604.16824)|null|
+|**2026-04-17**|**Active World-Model with 4D-informed Retrieval for Exploration and Awareness**|Elaheh Vaezpour et.al.|[2604.16733](http://arxiv.org/abs/2604.16733)|null|
+|**2026-04-17**|**Human Cognition in Machines: A Unified Perspective of World Models**|Timothy Rupprecht et.al.|[2604.16592](http://arxiv.org/abs/2604.16592)|null|
+|**2026-04-17**|**The Global Neural World Model: Spatially Grounded Discrete Topologies for Action-Conditioned Planning**|Noureddine Kermiche et.al.|[2604.16585](http://arxiv.org/abs/2604.16585)|null|
 |**2026-04-16**|**POMDP-based Object Search with Growing State Space and Hybrid Action Domain**|Yongbo Chen et.al.|[2604.14965](http://arxiv.org/abs/2604.14965)|null|
 |**2026-04-16**|**Learning Ad Hoc Network Dynamics via Graph-Structured World Models**|Can Karacelebi et.al.|[2604.14811](http://arxiv.org/abs/2604.14811)|null|
-|**2026-04-16**|**World-Value-Action Model: Implicit Planning for Vision-Language-Action Systems**|Runze Li et.al.|[2604.14732](http://arxiv.org/abs/2604.14732)|null|
 |**2026-04-15**|**HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds**|Team HY-World et.al.|[2604.14268](http://arxiv.org/abs/2604.14268)|null|
 |**2026-04-15**|**Feed-Forward 3D Scene Modeling: A Problem-Driven Perspective**|Weijie Wang et.al.|[2604.14025](http://arxiv.org/abs/2604.14025)|null|
 |**2026-04-15**|**Beyond State Consistency: Behavior Consistency in Text-Based World Models**|Youling Huang et.al.|[2604.13824](http://arxiv.org/abs/2604.13824)|null|
@@ -829,7 +842,7 @@
 |**2025-11-19**|**Zero-Shot Open-Vocabulary Human Motion Grounding with Test-Time Training**|Yunjiao Zhou et.al.|[2511.15379](http://arxiv.org/abs/2511.15379)|null|
 |**2025-11-19**|**Towards Evolutionary Optimization Using the Ising Model**|Simon Klüttermann et.al.|[2511.15377](http://arxiv.org/abs/2511.15377)|null|
 
-</details><p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
 
 <details>
 
@@ -839,6 +852,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-20**|**S2H-DPO: Hardness-Aware Preference Optimization for Vision-Language Models**|Nitish Shukla et.al.|[2604.18512](http://arxiv.org/abs/2604.18512)|null|
+|**2026-04-20**|**XEmbodied: A Foundation Model with Enhanced Geometric and Physical Cues for Large-Scale Embodied Environments**|Kangan Qian et.al.|[2604.18484](http://arxiv.org/abs/2604.18484)|null|
+|**2026-04-20**|**ESsEN: Training Compact Discriminative Vision-Language Transformers in a Low-Resource Setting**|Clayton Fields et.al.|[2604.18452](http://arxiv.org/abs/2604.18452)|null|
+|**2026-04-20**|**ProtoCLIP: Prototype-Aligned Latent Refinement for Robust Zero-Shot Chest X-Ray Classification**|Florian Kittler et.al.|[2604.18444](http://arxiv.org/abs/2604.18444)|null|
+|**2026-04-20**|**Revisiting Change VQA in Remote Sensing with Structured and Native Multimodal Qwen Models**|Yakoub Bazi et.al.|[2604.18429](http://arxiv.org/abs/2604.18429)|null|
+|**2026-04-20**|**Multilingual Training and Evaluation Resources for Vision-Language Models**|Daniela Baiamonte et.al.|[2604.18347](http://arxiv.org/abs/2604.18347)|null|
+|**2026-04-20**|**Will People Enjoy a Robot Trainer? A Case Study with Snoopie the Pacerbot**|Maximilian Du et.al.|[2604.18331](http://arxiv.org/abs/2604.18331)|null|
+|**2026-04-20**|**EmbodiedLGR: Integrating Lightweight Graph Representation and Retrieval for Semantic-Spatial Memory in Robotic Agents**|Paolo Riva et.al.|[2604.18271](http://arxiv.org/abs/2604.18271)|null|
+|**2026-04-20**|**Enhancing Continual Learning of Vision-Language Models via Dynamic Prefix Weighting**|Hyeonseo Jang et.al.|[2604.18075](http://arxiv.org/abs/2604.18075)|null|
+|**2026-04-20**|**Unmasking the Illusion of Embodied Reasoning in Vision-Language-Action Models**|Haiweng Xu et.al.|[2604.18000](http://arxiv.org/abs/2604.18000)|null|
+|**2026-04-20**|**Mitigating Multimodal Hallucination via Phase-wise Self-reward**|Yu Zhang et.al.|[2604.17982](http://arxiv.org/abs/2604.17982)|null|
+|**2026-04-20**|**E3VS-Bench: A Benchmark for Viewpoint-Dependent Active Perception in 3D Gaussian Splatting Scenes**|Koya Sakamoto et.al.|[2604.17969](http://arxiv.org/abs/2604.17969)|null|
+|**2026-04-20**|**From Heads to Neurons: Causal Attribution and Steering in Multi-Task Vision-Language Models**|Qidong Wang et.al.|[2604.17941](http://arxiv.org/abs/2604.17941)|null|
+|**2026-04-20**|**OneDrive: Unified Multi-Paradigm Driving with Vision-Language-Action Models**|Yiwei Zhang et.al.|[2604.17915](http://arxiv.org/abs/2604.17915)|null|
+|**2026-04-20**|**SpaceDex: Generalizable Dexterous Grasping in Tiered Workspaces**|Wensheng Wang et.al.|[2604.17888](http://arxiv.org/abs/2604.17888)|null|
+|**2026-04-20**|**StableIDM: Stabilizing Inverse Dynamics Model against Manipulator Truncation via Spatio-Temporal Refinement**|Kerui Li et.al.|[2604.17887](http://arxiv.org/abs/2604.17887)|null|
+|**2026-04-20**|**When Vision-Language Models Judge Without Seeing: Exposing Informativeness Bias**|Xiaohan Zou et.al.|[2604.17768](http://arxiv.org/abs/2604.17768)|null|
+|**2026-04-20**|**OmniVLA-RL: A Vision-Language-Action Model with Spatial Understanding and Online RL**|Haoxiang Jie et.al.|[2604.17706](http://arxiv.org/abs/2604.17706)|null|
+|**2026-04-19**|**BioVLM: Routing Prompts, Not Parameters, for Cross-Modality Generalization in Biomedical VLMs**|Mainak Singha et.al.|[2604.17629](http://arxiv.org/abs/2604.17629)|null|
+|**2026-04-19**|**PBSBench: A Multi-Level Vision-Language Framework and Benchmark for Hematopathology Whole Slide Image Interpretation**|Yuanlong Wang et.al.|[2604.17570](http://arxiv.org/abs/2604.17570)|null|
 |**2026-04-17**|**VEFX-Bench: A Holistic Benchmark for Generic Video Editing and Visual Effects**|Xiangbo Gao et.al.|[2604.16272](http://arxiv.org/abs/2604.16272)|null|
 |**2026-04-17**|**Information Router for Mitigating Modality Dominance in Vision-Language Models**|Seulgi Kim et.al.|[2604.16264](http://arxiv.org/abs/2604.16264)|null|
 |**2026-04-17**|**Do Vision-Language Models Truly Perform Vision Reasoning? A Rigorous Study of the Modality Gap**|Yige Xu et.al.|[2604.16256](http://arxiv.org/abs/2604.16256)|null|
@@ -2712,7 +2745,7 @@
 |**2025-11-19**|**Context Cascade Compression: Exploring the Upper Limits of Text Compression**|Fanfan Liu et.al.|[2511.15244](http://arxiv.org/abs/2511.15244)|null|
 |**2025-11-19**|**SkinGPT-R1: Adapter-Only Dual Distillation for Efficient Dermatology Reasoning**|Yuhao Shen et.al.|[2511.15242](http://arxiv.org/abs/2511.15242)|null|
 
-</details><p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
 
 <details>
 
@@ -2722,6 +2755,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-20**|**MultiWorld: Scalable Multi-Agent Multi-View Video World Models**|Haoyu Wu et.al.|[2604.18564](http://arxiv.org/abs/2604.18564)|null|
+|**2026-04-20**|**AdaCluster: Adaptive Query-Key Clustering for Sparse Attention in Video Generation**|Haoyue Tan et.al.|[2604.18348](http://arxiv.org/abs/2604.18348)|null|
+|**2026-04-20**|**OmniHuman: A Large-scale Dataset and Benchmark for Human-Centric Video Generation**|Lei Zhu et.al.|[2604.18326](http://arxiv.org/abs/2604.18326)|null|
+|**2026-04-20**|**Memorize When Needed: Decoupled Memory Control for Spatially Consistent Long-Horizon Video Generation**|Yanjun Guo et.al.|[2604.18215](http://arxiv.org/abs/2604.18215)|null|
+|**2026-04-20**|**StableIDM: Stabilizing Inverse Dynamics Model against Manipulator Truncation via Spatio-Temporal Refinement**|Kerui Li et.al.|[2604.17887](http://arxiv.org/abs/2604.17887)|null|
+|**2026-04-20**|**Raven: Rethinking Automated Assessment for Scratch Programs via Video-Grounded Evaluation**|Donglin Li et.al.|[2604.17820](http://arxiv.org/abs/2604.17820)|null|
+|**2026-04-19**|**Long-CODE: Isolating Pure Long-Context as an Orthogonal Dimension in Video Evaluation**|Zhijiang Tang et.al.|[2604.17428](http://arxiv.org/abs/2604.17428)|null|
+|**2026-04-19**|**Speculative Decoding for Autoregressive Video Generation**|Yuezhou Hu et.al.|[2604.17397](http://arxiv.org/abs/2604.17397)|null|
+|**2026-04-19**|**DreamShot: Personalized Storyboard Synthesis with Video Diffusion Prior**|Junjia Huang et.al.|[2604.17195](http://arxiv.org/abs/2604.17195)|null|
+|**2026-04-18**|**LIVE: Leveraging Image Manipulation Priors for Instruction-based Video Editing**|Weicheng Wang et.al.|[2604.17021](http://arxiv.org/abs/2604.17021)|null|
+|**2026-04-18**|**DVAR: Adversarial Multi-Agent Debate for Video Authenticity Detection**|Hongyuan Qi et.al.|[2604.16987](http://arxiv.org/abs/2604.16987)|null|
 |**2026-04-17**|**Efficient Video Diffusion Models: Advancements and Challenges**|Shitong Shao et.al.|[2604.15911](http://arxiv.org/abs/2604.15911)|null|
 |**2026-04-17**|**MCSC-Bench: Multimodal Context-to-Script Creation for Realistic Video Production**|Huanran Hu et.al.|[2604.15127](http://arxiv.org/abs/2604.15127)|null|
 |**2026-04-17**|**OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation**|Donghao Zhou et.al.|[2604.11804](http://arxiv.org/abs/2604.11804)|null|
@@ -3574,7 +3618,7 @@
 |**2025-11-18**|**FlowRoI A Fast Optical Flow Driven Region of Interest Extraction Framework for High-Throughput Image Compression in Immune Cell Migration Analysis**|Xiaowei Xu et.al.|[2511.14419](http://arxiv.org/abs/2511.14419)|null|
 |**2025-11-18**|**ARC-Chapter: Structuring Hour-Long Videos into Navigable Chapters and Hierarchical Summaries**|Junfu Pu et.al.|[2511.14349](http://arxiv.org/abs/2511.14349)|null|
 
-</details><p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
 
 Notes: 
 
