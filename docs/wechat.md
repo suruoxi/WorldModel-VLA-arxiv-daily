@@ -1,5 +1,5 @@
 # World Model and Embodied AI arxiv Papers
-> Updated on 2026.04.26
+> Updated on 2026.04.27
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#1-world-model>1-World Model</a></li>
@@ -15,6 +15,7 @@
 ## 1-World Model
 
 - 2026-02-09, **stable-worldmodel-v1: Reproducible World Modeling Research and Evaluation**, Lucas Maes et.al., Paper: [http://arxiv.org/abs/2602.08968](http://arxiv.org/abs/2602.08968)
+- 2026-04-24, **dWorldEval: Scalable Robotic Policy Evaluation via Discrete Diffusion World Model**, Yaxuan Li et.al., Paper: [http://arxiv.org/abs/2604.22152](http://arxiv.org/abs/2604.22152)
 - 2026-04-11, **Zero-shot World Models Are Developmentally Efficient Learners**, Khai Loong Aw et.al., Paper: [http://arxiv.org/abs/2604.10333](http://arxiv.org/abs/2604.10333)
 - 2025-12-09, **Zero-Splat TeleAssist: A Zero-Shot Pose Estimation Framework for Semantic Teleoperation**, Srijan Dokania et.al., Paper: [http://arxiv.org/abs/2512.08271](http://arxiv.org/abs/2512.08271)
 - 2025-11-19, **Zero-Shot Open-Vocabulary Human Motion Grounding with Test-Time Training**, Yunjiao Zhou et.al., Paper: [http://arxiv.org/abs/2511.15379](http://arxiv.org/abs/2511.15379)
@@ -364,6 +365,7 @@
 - 2026-04-13, **OccuBench: Evaluating AI Agents on Real-World Professional Tasks via Language World Models**, Xiaomeng Hu et.al., Paper: [http://arxiv.org/abs/2604.10866](http://arxiv.org/abs/2604.10866)
 - 2026-03-30, **OccSim: Multi-kilometer Simulation with Long-horizon Occupancy World Models**, Tianran Liu et.al., Paper: [http://arxiv.org/abs/2603.28887](http://arxiv.org/abs/2603.28887)
 - 2025-12-17, **OccSTeP: Benchmarking 4D Occupancy Spatio-Temporal Persistence**, Yu Zheng et.al., Paper: [http://arxiv.org/abs/2512.15621](http://arxiv.org/abs/2512.15621)
+- 2026-04-24, **OccDirector: Language-Guided Behavior and Interaction Generation in 4D Occupancy Space**, Zhuding Liang et.al., Paper: [http://arxiv.org/abs/2604.22240](http://arxiv.org/abs/2604.22240)
 - 2025-12-22, **Observer, Not Player: Simulating Theory of Mind in LLMs through Game Observation**, Jerry Wang et.al., Paper: [http://arxiv.org/abs/2512.19210](http://arxiv.org/abs/2512.19210)
 - 2025-12-01, **Objects in Generated Videos Are Slower Than They Appear: Models Suffer Sub-Earth Gravity and Don't Know Galileo's Principle...for now**, Varun Varma Thozhiyoor et.al., Paper: [http://arxiv.org/abs/2512.02016](http://arxiv.org/abs/2512.02016)
 - 2026-01-10, **Object-Centric World Models Meet Monte Carlo Tree Search**, Rodion Vakhitov et.al., Paper: [http://arxiv.org/abs/2601.06604](http://arxiv.org/abs/2601.06604)
@@ -743,6 +745,7 @@
 - 2025-11-28, **Chart2Code-MoLA: Efficient Multi-Modal Code Generation via Adaptive Expert Routing**, Yifei Wang et.al., Paper: [http://arxiv.org/abs/2511.23321](http://arxiv.org/abs/2511.23321)
 - 2025-12-01, **Chain-of-Ground: Improving GUI Grounding via Iterative Reasoning and Reference Feedback**, Aiden Yiliu Li et.al., Paper: [http://arxiv.org/abs/2512.01979](http://arxiv.org/abs/2512.01979)
 - 2026-03-03, **Chain of World: World Model Thinking in Latent Motion**, Fuxiang Yang et.al., Paper: [http://arxiv.org/abs/2603.03195](http://arxiv.org/abs/2603.03195)
+- 2026-04-23, **Causality and Semantic Separation**, Anna Zhang et.al., Paper: [http://arxiv.org/abs/2604.22041](http://arxiv.org/abs/2604.22041)
 - 2026-04-09, **CausalVAE as a Plug-in for World Models: Towards Reliable Counterfactual Dynamics**, Ziyi Ding et.al., Paper: [http://arxiv.org/abs/2604.07712](http://arxiv.org/abs/2604.07712)
 - 2026-01-19, **CausalSpatial: A Benchmark for Object-Centric Causal Spatial Reasoning**, Wenxin Ma et.al., Paper: [http://arxiv.org/abs/2601.13304](http://arxiv.org/abs/2601.13304)
 - 2026-02-11, **Causal-JEPA: Learning World Models through Object-Level Latent Interventions**, Heejeong Nam et.al., Paper: [http://arxiv.org/abs/2602.11389](http://arxiv.org/abs/2602.11389)
@@ -777,6 +780,7 @@
 - 2026-01-26, **Beyond Static Datasets: Robust Offline Policy Optimization via Vetted Synthetic Transitions**, Pedram Agand et.al., Paper: [http://arxiv.org/abs/2601.18107](http://arxiv.org/abs/2601.18107)
 - 2026-04-15, **Beyond State Consistency: Behavior Consistency in Text-Based World Models**, Youling Huang et.al., Paper: [http://arxiv.org/abs/2604.13824](http://arxiv.org/abs/2604.13824)
 - 2026-03-03, **Beyond Pixel Histories: World Models with Persistent 3D State**, Samuel Garcin et.al., Paper: [http://arxiv.org/abs/2603.03482](http://arxiv.org/abs/2603.03482)
+- 2026-04-24, **Beyond Patient Invariance: Learning Cardiac Dynamics via Action-Conditioned JEPAs**, Jose Geraldo Fernandes et.al., Paper: [http://arxiv.org/abs/2604.22618](http://arxiv.org/abs/2604.22618)
 - 2026-03-03, **Beyond Language Modeling: An Exploration of Multimodal Pretraining**, Shengbang Tong et.al., Paper: [http://arxiv.org/abs/2603.03276](http://arxiv.org/abs/2603.03276)
 - 2026-03-13, **Beyond Dense Futures: World Models as Structured Planners for Robotic Manipulation**, Minghao Jin et.al., Paper: [http://arxiv.org/abs/2603.12553](http://arxiv.org/abs/2603.12553)
 - 2025-11-28, **Beyond Curve Fitting: Neuro-Symbolic Agents for Context-Aware Epidemic Forecasting**, Joongwon Chae et.al., Paper: [http://arxiv.org/abs/2511.23276](http://arxiv.org/abs/2511.23276)
@@ -803,6 +807,7 @@
 - 2026-01-02, **AlignUSER: Human-Aligned LLM Agents via World Models for Recommender System Evaluation**, Nicolas Bougie et.al., Paper: [http://arxiv.org/abs/2601.00930](http://arxiv.org/abs/2601.00930)
 - 2026-01-08, **Akasha 2: Hamiltonian State Space Duality and Visual-Language Joint Embedding Predictive Architectur**, Yani Meziani et.al., Paper: [http://arxiv.org/abs/2601.06212](http://arxiv.org/abs/2601.06212)
 - 2025-12-01, **AirSim360: A Panoramic Simulation Platform within Drone View**, Xian Ge et.al., Paper: [http://arxiv.org/abs/2512.02009](http://arxiv.org/abs/2512.02009)
+- 2026-04-24, **Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond**, Meng Chu et.al., Paper: [http://arxiv.org/abs/2604.22748](http://arxiv.org/abs/2604.22748)
 - 2026-01-18, **Agentic Reasoning for Large Language Models**, Tianxin Wei et.al., Paper: [http://arxiv.org/abs/2601.12538](http://arxiv.org/abs/2601.12538)
 - 2026-01-27, **Agentic Design Patterns: A System-Theoretic Framework**, Minh-Dung Dao et.al., Paper: [http://arxiv.org/abs/2601.19752](http://arxiv.org/abs/2601.19752)
 - 2025-12-26, **Agent2World: Learning to Generate Symbolic World Models via Adaptive Multi-Agent Feedback**, Mengkang Hu et.al., Paper: [http://arxiv.org/abs/2512.22336](http://arxiv.org/abs/2512.22336)
@@ -852,13 +857,14 @@
 - 2026-04-06, **A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens**, Tommie Kerssies et.al., Paper: [http://arxiv.org/abs/2604.04913](http://arxiv.org/abs/2604.04913)
 - 2025-12-15, **A Deep Learning Model of Mental Rotation Informed by Interactive VR Experiments**, Raymond Khazoum et.al., Paper: [http://arxiv.org/abs/2512.13517](http://arxiv.org/abs/2512.13517)
 - 2026-03-23, **A Context Engineering Framework for Improving Enterprise AI Agents based on Digital-Twin MDP**, Xi Yang et.al., Paper: [http://arxiv.org/abs/2603.22083](http://arxiv.org/abs/2603.22083)
+- 2026-04-24, **A Co-Evolutionary Theory of Human-AI Coexistence: Mutualism, Governance, and Dynamics in Complex Societies**, Somyajit Chakraborty et.al., Paper: [http://arxiv.org/abs/2604.22227](http://arxiv.org/abs/2604.22227)
 - 2026-04-13, **3D-Anchored Lookahead Planning for Persistent Robotic Scene Memory via World-Model-Based MCTS**, Bronislav Sidik et.al., Paper: [http://arxiv.org/abs/2604.11302](http://arxiv.org/abs/2604.11302)
 - 2025-12-05, **3D Path Planning for Robot-assisted Vertebroplasty from Arbitrary Bi-plane X-ray via Differentiable Rendering**, Blanca Inigo et.al., Paper: [http://arxiv.org/abs/2512.05803](http://arxiv.org/abs/2512.05803)
 - 2025-11-26, **$\mathcal{E}_0$ : Enhancing Generalization and Fine-Grained Control in VLA Models via Continuized Discrete Diffusion**, Zhihao Zhan et.al., Paper: [http://arxiv.org/abs/2511.21542](http://arxiv.org/abs/2511.21542)
 - 2025-12-03, **"MCP Does Not Stand for Misuse Cryptography Protocol": Uncovering Cryptographic Misuse in Model Context Protocol at Scale**, Biwei Yan et.al., Paper: [http://arxiv.org/abs/2512.03775](http://arxiv.org/abs/2512.03775)
 - 2026-01-20, **"Just in Time" World Modeling Supports Human Planning and Reasoning**, Tony Chen et.al., Paper: [http://arxiv.org/abs/2601.14514](http://arxiv.org/abs/2601.14514)
 
-</details><p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
 
 <details>
 
@@ -1254,6 +1260,7 @@
 - 2026-02-25, **SurGo-R1: Benchmarking and Modeling Contextual Reasoning for Operative Zone in Surgical Video**, Guanyi Qin et.al., Paper: [http://arxiv.org/abs/2602.21706](http://arxiv.org/abs/2602.21706)
 - 2026-02-27, **Suppressing Prior-Comparison Hallucinations in Radiology Report Generation via Semantically Decoupled Latent Steering**, Ao Li et.al., Paper: [http://arxiv.org/abs/2602.23676](http://arxiv.org/abs/2602.23676)
 - 2026-03-06, **SuperSuit: An Isomorphic Bimodal Interface for Scalable Mobile Manipulation**, Tongqing Chen et.al., Paper: [http://arxiv.org/abs/2603.06280](http://arxiv.org/abs/2603.06280)
+- 2026-04-24, **Sum-of-Checks: Structured Reasoning for Surgical Safety with Large Vision-Language Models**, Weiqiu You et.al., Paper: [http://arxiv.org/abs/2604.22156](http://arxiv.org/abs/2604.22156)
 - 2026-02-26, **SubspaceAD: Training-Free Few-Shot Anomaly Detection via Subspace Modeling**, Camile Lendering et.al., Paper: [http://arxiv.org/abs/2602.23013](http://arxiv.org/abs/2602.23013)
 - 2026-01-13, **Subspace Alignment for Vision-Language Model Test-time Adaptation**, Zhichen Zeng et.al., Paper: [http://arxiv.org/abs/2601.08139](http://arxiv.org/abs/2601.08139)
 - 2026-03-10, **StyleVLA: Driving Style-Aware Vision Language Action Model for Autonomous Driving**, Yuan Gao et.al., Paper: [http://arxiv.org/abs/2603.09482](http://arxiv.org/abs/2603.09482)
@@ -1291,6 +1298,7 @@
 - 2025-12-11, **SpaceDrive: Infusing Spatial Awareness into VLM-based Autonomous Driving**, Peizheng Li et.al., Paper: [http://arxiv.org/abs/2512.10719](http://arxiv.org/abs/2512.10719)
 - 2026-04-20, **SpaceDex: Generalizable Dexterous Grasping in Tiered Workspaces**, Wensheng Wang et.al., Paper: [http://arxiv.org/abs/2604.17888](http://arxiv.org/abs/2604.17888)
 - 2026-02-24, **Spa3R: Predictive Spatial Field Modeling for 3D Visual Reasoning**, Haoyi Jiang et.al., Paper: [http://arxiv.org/abs/2602.21186](http://arxiv.org/abs/2602.21186)
+- 2026-04-23, **Source-Modality Monitoring in Vision-Language Models**, Etha Tianze Hua et.al., Paper: [http://arxiv.org/abs/2604.22038](http://arxiv.org/abs/2604.22038)
 - 2025-12-11, **Solving Semi-Supervised Few-Shot Learning from an Auto-Annotation Perspective**, Tian Liu et.al., Paper: [http://arxiv.org/abs/2512.10244](http://arxiv.org/abs/2512.10244)
 - 2025-12-23, **Soft Filtering: Guiding Zero-shot Composed Image Retrieval with Prescriptive and Proscriptive Constraints**, Youjin Jung et.al., Paper: [http://arxiv.org/abs/2512.20781](http://arxiv.org/abs/2512.20781)
 - 2026-04-15, **SocialMirror: Reconstructing 3D Human Interaction Behaviors from Monocular Videos with Semantic and Geometric Guidance**, Qi Xia et.al., Paper: [http://arxiv.org/abs/2604.13581](http://arxiv.org/abs/2604.13581)
@@ -2007,6 +2015,7 @@
 - 2025-12-22, **IndoorUAV: Benchmarking Vision-Language UAV Navigation in Continuous Indoor Environments**, Xu Liu et.al., Paper: [http://arxiv.org/abs/2512.19024](http://arxiv.org/abs/2512.19024)
 - 2026-02-13, **IndicFairFace: Balanced Indian Face Dataset for Auditing and Mitigating Geographical Bias in Vision-Language Models**, Aarish Shah Mohsin et.al., Paper: [http://arxiv.org/abs/2602.12659](http://arxiv.org/abs/2602.12659)
 - 2026-02-15, **Index Light, Reason Deep: Deferred Visual Ingestion for Visual-Dense Document Question Answering**, Tao Xu et.al., Paper: [http://arxiv.org/abs/2602.14162](http://arxiv.org/abs/2602.14162)
+- 2026-04-23, **Incentivizing Neuro-symbolic Language-based Reasoning in VLMs via Reinforcement Learning**, Karthic Palaniappan et.al., Paper: [http://arxiv.org/abs/2604.22062](http://arxiv.org/abs/2604.22062)
 - 2026-04-22, **InVitroVision: a Multi-Modal AI Model for Automated Description of Embryo Development using Natural Language**, Nicklas Neu et.al., Paper: [http://arxiv.org/abs/2604.21061](http://arxiv.org/abs/2604.21061)
 - 2026-04-21, **InHabit: Leveraging Image Foundation Models for Scalable 3D Human Placement**, Nikita Kister et.al., Paper: [http://arxiv.org/abs/2604.19673](http://arxiv.org/abs/2604.19673)
 - 2025-12-15, **Improvise, Adapt, Overcome -- Telescopic Adapters for Efficient Fine-tuning of Vision Language Models in Medical Imaging**, Ujjwal Mishra et.al., Paper: [http://arxiv.org/abs/2512.13855](http://arxiv.org/abs/2512.13855)
@@ -2363,6 +2372,7 @@
 - 2026-02-05, **Dolphin-v2: Universal Document Parsing via Scalable Anchor Prompting**, Hao Feng et.al., Paper: [http://arxiv.org/abs/2602.05384](http://arxiv.org/abs/2602.05384)
 - 2026-01-21, **Does medical specialization of VLMs enhance discriminative power?: A comprehensive investigation through feature distribution analysis**, Keita Takeda et.al., Paper: [http://arxiv.org/abs/2601.14774](http://arxiv.org/abs/2601.14774)
 - 2026-03-11, **Does AI See like Art Historians? Interpreting How Vision Language Models Recognize Artistic Style**, Marvin Limpijankit et.al., Paper: [http://arxiv.org/abs/2603.11024](http://arxiv.org/abs/2603.11024)
+- 2026-04-24, **DocPrune:Efficient Document Question Answering via Background, Question, and Comprehension-aware Token Pruning**, Joonmyung Choi et.al., Paper: [http://arxiv.org/abs/2604.22281](http://arxiv.org/abs/2604.22281)
 - 2026-02-25, **DocDjinn: Controllable Synthetic Document Generation with VLMs and Handwriting Diffusion**, Marcel Lamott et.al., Paper: [http://arxiv.org/abs/2602.21824](http://arxiv.org/abs/2602.21824)
 - 2026-01-07, **Doc-PP: Document Policy Preservation Benchmark for Large Vision-Language Models**, Haeun Jang et.al., Paper: [http://arxiv.org/abs/2601.03926](http://arxiv.org/abs/2601.03926)
 - 2025-12-15, **Do-Undo: Generating and Reversing Physical Actions in Vision-Language Models**, Shweta Mahajan et.al., Paper: [http://arxiv.org/abs/2512.13609](http://arxiv.org/abs/2512.13609)
@@ -2475,6 +2485,7 @@
 - 2026-03-12, **Controllable Egocentric Video Generation via Occlusion-Aware Sparse 3D Hand Joints**, Chenyangguang Zhang et.al., Paper: [http://arxiv.org/abs/2603.11755](http://arxiv.org/abs/2603.11755)
 - 2025-11-20, **Contrastive vision-language learning with paraphrasing and negation**, Kwun Ho Ngan et.al., Paper: [http://arxiv.org/abs/2511.16527](http://arxiv.org/abs/2511.16527)
 - 2026-01-27, **Contrastive Spectral Rectification: Test-Time Defense towards Zero-shot Adversarial Robustness of CLIP**, Sen Nie et.al., Paper: [http://arxiv.org/abs/2601.19210](http://arxiv.org/abs/2601.19210)
+- 2026-04-24, **Contrastive Semantic Projection: Faithful Neuron Labeling with Contrastive Examples**, Oussama Bouanani et.al., Paper: [http://arxiv.org/abs/2604.22477](http://arxiv.org/abs/2604.22477)
 - 2026-04-01, **Continual Vision-Language Learning for Remote Sensing: Benchmarking and Analysis**, Xingxing Weng et.al., Paper: [http://arxiv.org/abs/2604.00820](http://arxiv.org/abs/2604.00820)
 - 2026-03-12, **Continual Learning with Vision-Language Models via Semantic-Geometry Preservation**, Chiyuan He et.al., Paper: [http://arxiv.org/abs/2603.12055](http://arxiv.org/abs/2603.12055)
 - 2026-02-03, **Contextualized Visual Personalization in Vision-Language Models**, Yeongtak Oh et.al., Paper: [http://arxiv.org/abs/2602.03454](http://arxiv.org/abs/2602.03454)
@@ -2526,6 +2537,7 @@
 - 2026-03-30, **ChartDiff: A Large-Scale Benchmark for Comprehending Pairs of Charts**, Rongtian Ye et.al., Paper: [http://arxiv.org/abs/2603.28902](http://arxiv.org/abs/2603.28902)
 - 2026-04-03, **Chart-RL: Policy Optimization Reinforcement Learning for Enhanced Visual Reasoning in Chart Question Answering with Vision Language Models**, Yunfei Bai et.al., Paper: [http://arxiv.org/abs/2604.03157](http://arxiv.org/abs/2604.03157)
 - 2026-02-11, **Chart Specification: Structural Representations for Incentivizing VLM Reasoning in Chart-to-Code Generation**, Minggui He et.al., Paper: [http://arxiv.org/abs/2602.10880](http://arxiv.org/abs/2602.10880)
+- 2026-04-24, **CharTide: Data-Centric Chart-to-Code Generation via Tri-Perspective Tuning and Inquiry-Driven Evolution**, Xiangxi Zheng et.al., Paper: [http://arxiv.org/abs/2604.22192](http://arxiv.org/abs/2604.22192)
 - 2026-03-25, **Chameleon: Episodic Memory for Long-Horizon Robotic Manipulation**, Xinying Guo et.al., Paper: [http://arxiv.org/abs/2603.24576](http://arxiv.org/abs/2603.24576)
 - 2025-12-04, **Chameleon: Adaptive Adversarial Agents for Scaling-Based Visual Prompt Injection in Multimodal AI Systems**, M Zeeshan et.al., Paper: [http://arxiv.org/abs/2512.04895](http://arxiv.org/abs/2512.04895)
 - 2026-04-14, **Challenging Vision-Language Models with Physically Deployable Multimodal Semantic Lighting Attacks**, Yingying Zhao et.al., Paper: [http://arxiv.org/abs/2604.12833](http://arxiv.org/abs/2604.12833)
@@ -2585,6 +2597,7 @@
 - 2026-01-20, **CARPE: Context-Aware Image Representation Prioritization via Ensemble for Large Vision-Language Models**, Donghee Lee et.al., Paper: [http://arxiv.org/abs/2601.13622](http://arxiv.org/abs/2601.13622)
 - 2026-02-17, **CARE Drive A Framework for Evaluating Reason-Responsiveness of Vision Language Models in Automated Driving**, Lucas Elbert Suryana et.al., Paper: [http://arxiv.org/abs/2602.15645](http://arxiv.org/abs/2602.15645)
 - 2026-03-03, **CAPT: Confusion-Aware Prompt Tuning for Reducing Vision-Language Misalignment**, Maoyuan Shao et.al., Paper: [http://arxiv.org/abs/2603.02557](http://arxiv.org/abs/2603.02557)
+- 2026-04-24, **CAGE-SGG: Counterfactual Active Graph Evidence for Open-Vocabulary Scene Graph Generation**, Suiyang Guang et.al., Paper: [http://arxiv.org/abs/2604.22274](http://arxiv.org/abs/2604.22274)
 - 2025-11-19, **C2F-Space: Coarse-to-Fine Space Grounding for Spatial Instructions using Vision-Language Models**, Nayoung Oh et.al., Paper: [http://arxiv.org/abs/2511.15333](http://arxiv.org/abs/2511.15333)
 - 2025-12-18, **C-DGPA: Class-Centric Dual-Alignment Generative Prompt Adaptation**, Chao Li et.al., Paper: [http://arxiv.org/abs/2512.16164](http://arxiv.org/abs/2512.16164)
 - 2025-12-10, **Building Reasonable Inference for Vision-Language Models in Blind Image Quality Assessment**, Yuan Li et.al., Paper: [http://arxiv.org/abs/2512.09555](http://arxiv.org/abs/2512.09555)
@@ -2798,6 +2811,7 @@
 - 2026-01-25, **A Computational Approach to Visual Metonymy**, Saptarshi Ghosh et.al., Paper: [http://arxiv.org/abs/2601.17706](http://arxiv.org/abs/2601.17706)
 - 2026-03-31, **A Comprehensive Information-Decomposition Analysis of Large Vision-Language Models**, Lixin Xiu et.al., Paper: [http://arxiv.org/abs/2603.29676](http://arxiv.org/abs/2603.29676)
 - 2026-01-30, **A Comparative Evaluation of Large Vision-Language Models for 2D Object Detection under SOTIF Conditions**, Ji Zhou et.al., Paper: [http://arxiv.org/abs/2601.22830](http://arxiv.org/abs/2601.22830)
+- 2026-04-24, **A Co-Evolutionary Theory of Human-AI Coexistence: Mutualism, Governance, and Dynamics in Complex Societies**, Somyajit Chakraborty et.al., Paper: [http://arxiv.org/abs/2604.22227](http://arxiv.org/abs/2604.22227)
 - 2026-03-13, **A Closed-Form Solution for Debiasing Vision-Language Models with Utility Guarantees Across Modalities and Tasks**, Tangzheng Lian et.al., Paper: [http://arxiv.org/abs/2603.12998](http://arxiv.org/abs/2603.12998)
 - 2025-12-19, **A Benchmark for Ultra-High-Resolution Remote Sensing MLLMs**, Yunkai Dang et.al., Paper: [http://arxiv.org/abs/2512.17319](http://arxiv.org/abs/2512.17319)
 - 2026-04-01, **A 4D Representation for Training-Free Agentic Reasoning from Monocular Laparoscopic Video**, Maximilian Fehrentz et.al., Paper: [http://arxiv.org/abs/2604.00867](http://arxiv.org/abs/2604.00867)
@@ -2812,7 +2826,7 @@
 - 2026-03-30, **$AutoDrive\text{-}P^3$ : Unified Chain of Perception-Prediction-Planning Thought via Reinforcement Fine-Tuning**, Yuqi Ye et.al., Paper: [http://arxiv.org/abs/2603.28116](http://arxiv.org/abs/2603.28116)
 - 2026-04-07, **"I See What You Did There": Can Large Vision-Language Models Understand Multimodal Puns?**, Naen Xu et.al., Paper: [http://arxiv.org/abs/2604.05930](http://arxiv.org/abs/2604.05930)
 
-</details><p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
 
 <details>
 
@@ -2879,6 +2893,7 @@
 - 2026-01-12, **Video Generation Models in Robotics -- Applications, Research Challenges, Future Directions**, Zhiting Mei et.al., Paper: [http://arxiv.org/abs/2601.07823](http://arxiv.org/abs/2601.07823)
 - 2026-03-30, **Video Generation Models as World Models: Efficient Paradigms, Architectures and Algorithms**, Muyang He et.al., Paper: [http://arxiv.org/abs/2603.28489](http://arxiv.org/abs/2603.28489)
 - 2025-11-26, **Video Generation Models Are Good Latent Reward Models**, Xiaoyue Mi et.al., Paper: [http://arxiv.org/abs/2511.21541](http://arxiv.org/abs/2511.21541)
+- 2026-04-24, **Video Analysis and Generation via a Semantic Progress Function**, Gal Metzer et.al., Paper: [http://arxiv.org/abs/2604.22554](http://arxiv.org/abs/2604.22554)
 - 2026-01-16, **VidLeaks: Membership Inference Attacks Against Text-to-Video Models**, Li Wang et.al., Paper: [http://arxiv.org/abs/2601.11210](http://arxiv.org/abs/2601.11210)
 - 2026-04-15, **VibeFlow: Versatile Video Chroma-Lux Editing through Self-Supervised Learning**, Yifan Li et.al., Paper: [http://arxiv.org/abs/2604.13425](http://arxiv.org/abs/2604.13425)
 - 2026-04-09, **ViVa: A Video-Generative Value Model for Robot Reinforcement Learning**, Jindi Lv et.al., Paper: [http://arxiv.org/abs/2604.08168](http://arxiv.org/abs/2604.08168)
@@ -3668,6 +3683,7 @@
 - 2025-11-20, **An analytical and experimental study of the energy transition discourse on YouTube**, Aleix Bassolas et.al., Paper: [http://arxiv.org/abs/2511.16497](http://arxiv.org/abs/2511.16497)
 - 2025-11-23, **Alias-free 4D Gaussian Splatting**, Zilong Chen et.al., Paper: [http://arxiv.org/abs/2511.18367](http://arxiv.org/abs/2511.18367)
 - 2025-12-11, **AlcheMinT: Fine-grained Temporal Control for Multi-Reference Consistent Video Generation**, Sharath Girish et.al., Paper: [http://arxiv.org/abs/2512.10943](http://arxiv.org/abs/2512.10943)
+- 2026-04-24, **Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond**, Meng Chu et.al., Paper: [http://arxiv.org/abs/2604.22748](http://arxiv.org/abs/2604.22748)
 - 2026-04-11, **Agentic Video Generation: From Text to Executable Event Graphs via Tool-Constrained LLM Planning**, Nicolae Cudlenco et.al., Paper: [http://arxiv.org/abs/2604.10383](http://arxiv.org/abs/2604.10383)
 - 2026-04-22, **Agentic AI for Personalized Physiotherapy: A Multi-Agent Framework for Generative Video Training and Real-Time Pose Correction**, Abhishek Dharmaratnakar et.al., Paper: [http://arxiv.org/abs/2604.21154](http://arxiv.org/abs/2604.21154)
 - 2026-01-28, **Advancing Open-source World Models**, Robbyant Team et.al., Paper: [http://arxiv.org/abs/2601.20540](http://arxiv.org/abs/2601.20540)
@@ -3708,7 +3724,7 @@
 - 2026-02-03, **3D-Aware Implicit Motion Control for View-Adaptive Human Video Generation**, Zhixue Fang et.al., Paper: [http://arxiv.org/abs/2602.03796](http://arxiv.org/abs/2602.03796)
 - 2025-12-28, **3D sans 3D Scans: Scalable Pre-training from Video-Generated Point Clouds**, Ryousuke Yamada et.al., Paper: [http://arxiv.org/abs/2512.23042](http://arxiv.org/abs/2512.23042)
 
-</details><p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
 
 Notes: 
 
