@@ -1,5 +1,5 @@
 # World Model and Embodied AI arxiv Papers
-### Updated on 2026.04.29
+### Updated on 2026.04.30
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#1-world-model>1-World Model</a></li>
@@ -16,6 +16,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-29**|**World2VLM: Distilling World Model Imagination into VLMs for Dynamic Spatial Reasoning**|Wanyue Zhang et.al.|[2604.26934](http://arxiv.org/abs/2604.26934)|null|
+|**2026-04-29**|**STARRY: Spatial-Temporal Action-Centric World Modeling for Robotic Manipulation**|Yuxuan Tian et.al.|[2604.26848](http://arxiv.org/abs/2604.26848)|null|
+|**2026-04-29**|**Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising**|Jun Guo et.al.|[2604.26694](http://arxiv.org/abs/2604.26694)|null|
+|**2026-04-29**|**AGEL-Comp: A Neuro-Symbolic Framework for Compositional Generalization in Interactive Agents**|Mahnoor Shahid et.al.|[2604.26522](http://arxiv.org/abs/2604.26522)|null|
+|**2026-04-29**|**DepthPilot: From Controllability to Interpretability in Colonoscopy Video Generation**|Junhu Fu et.al.|[2604.26232](http://arxiv.org/abs/2604.26232)|null|
+|**2026-04-28**|**Lifting Embodied World Models for Planning and Control**|Alex N. Wang et.al.|[2604.26182](http://arxiv.org/abs/2604.26182)|null|
 |**2026-04-28**|**ProDrive: Proactive Planning for Autonomous Driving via Ego-Environment Co-Evolution**|Chuyao Fu et.al.|[2604.25329](http://arxiv.org/abs/2604.25329)|null|
 |**2026-04-27**|**World-R1: Reinforcing 3D Constraints for Text-to-Video Generation**|Weijie Wang et.al.|[2604.24764](http://arxiv.org/abs/2604.24764)|null|
 |**2026-04-27**|**Unfolding an Atomistic World: Atomistic Simulation of Reactor Pressure Vessel Steel Across Year-and-Meter Scales**|Haozhi Han et.al.|[2604.24091](http://arxiv.org/abs/2604.24091)|null|
@@ -873,7 +879,7 @@
 |**2025-11-19**|**Zero-Shot Open-Vocabulary Human Motion Grounding with Test-Time Training**|Yunjiao Zhou et.al.|[2511.15379](http://arxiv.org/abs/2511.15379)|null|
 |**2025-11-19**|**Towards Evolutionary Optimization Using the Ising Model**|Simon Klüttermann et.al.|[2511.15377](http://arxiv.org/abs/2511.15377)|null|
 
-</details><p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
 
 <details>
 
@@ -883,6 +889,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-29**|**World2VLM: Distilling World Model Imagination into VLMs for Dynamic Spatial Reasoning**|Wanyue Zhang et.al.|[2604.26934](http://arxiv.org/abs/2604.26934)|null|
+|**2026-04-29**|**Walk With Me: Long-Horizon Social Navigation for Human-Centric Outdoor Assistance**|Lingfeng Zhang et.al.|[2604.26839](http://arxiv.org/abs/2604.26839)|null|
+|**2026-04-29**|**SynSur: An end-to-end generative pipeline for synthetic industrial surface defect generation and detection**|Paul Julius Kühn et.al.|[2604.26633](http://arxiv.org/abs/2604.26633)|null|
+|**2026-04-29**|**3D Generation for Embodied AI and Robotic Simulation: A Survey**|Tianwei Ye et.al.|[2604.26509](http://arxiv.org/abs/2604.26509)|null|
+|**2026-04-29**|**Progressive Semantic Communication for Efficient Edge-Cloud Vision-Language Models**|Cyril Shih-Huan Hsu et.al.|[2604.26508](http://arxiv.org/abs/2604.26508)|null|
+|**2026-04-29**|**A Multistage Extraction Pipeline for Long Scanned Financial Documents: An Empirical Study in Industrial KYC Workflows**|Yuxuan Han et.al.|[2604.26462](http://arxiv.org/abs/2604.26462)|null|
+|**2026-04-29**|**Delineating Knowledge Boundaries for Honest Large Vision-Language Models**|Junru Song et.al.|[2604.26419](http://arxiv.org/abs/2604.26419)|null|
+|**2026-04-29**|**Topology-Aware Representation Alignment for Semi-Supervised Vision-Language Learning**|Junwon You et.al.|[2604.26370](http://arxiv.org/abs/2604.26370)|null|
+|**2026-04-29**|**UIGaze: How Closely Can VLMs Approximate Human Visual Attention on User Interfaces?**|Min Song et.al.|[2604.26352](http://arxiv.org/abs/2604.26352)|null|
+|**2026-04-29**|**Efficient, VRAM-Constrained xLM Inference on Clients**|Aditya Ukarande et.al.|[2604.26334](http://arxiv.org/abs/2604.26334)|null|
+|**2026-04-29**|**CheXthought: A global multimodal dataset of clinical chain-of-thought reasoning and visual attention for chest X-ray interpretation**|Sonali Sharma et.al.|[2604.26288](http://arxiv.org/abs/2604.26288)|null|
+|**2026-04-29**|**Multiple Consistent 2D-3D Mappings for Robust Zero-Shot 3D Visual Grounding**|Yufei Yin et.al.|[2604.26261](http://arxiv.org/abs/2604.26261)|null|
+|**2026-04-29**|**Beyond Shortcuts: Mitigating Visual Illusions in Frozen VLMs via Qualitative Reasoning**|Hao Guo et.al.|[2604.26250](http://arxiv.org/abs/2604.26250)|null|
+|**2026-04-28**|**Lifting Embodied World Models for Planning and Control**|Alex N. Wang et.al.|[2604.26182](http://arxiv.org/abs/2604.26182)|null|
+|**2026-04-28**|**Beyond Screenshots: Evaluating VLMs' Understanding of UI Animations**|Chen Liang et.al.|[2604.26148](http://arxiv.org/abs/2604.26148)|null|
 |**2026-04-28**|**QCalEval: Benchmarking Vision-Language Models for Quantum Calibration Plot Understanding**|Shuxiang Cao et.al.|[2604.25884](http://arxiv.org/abs/2604.25884)|null|
 |**2026-04-28**|**Instruction-Evidence Contrastive Dual-Stream Decoding for Grounded Vision-Language Reasoning**|Yashwant Pravinrao Bangde et.al.|[2604.25809](http://arxiv.org/abs/2604.25809)|null|
 |**2026-04-28**|**KinDER: A Physical Reasoning Benchmark for Robot Learning and Planning**|Yixuan Huang et.al.|[2604.25788](http://arxiv.org/abs/2604.25788)|null|
@@ -2871,7 +2892,7 @@
 |**2025-11-19**|**Context Cascade Compression: Exploring the Upper Limits of Text Compression**|Fanfan Liu et.al.|[2511.15244](http://arxiv.org/abs/2511.15244)|null|
 |**2025-11-19**|**SkinGPT-R1: Adapter-Only Dual Distillation for Efficient Dermatology Reasoning**|Yuhao Shen et.al.|[2511.15242](http://arxiv.org/abs/2511.15242)|null|
 
-</details><p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
 
 <details>
 
@@ -2881,6 +2902,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-29**|**DepthPilot: From Controllability to Interpretability in Colonoscopy Video Generation**|Junhu Fu et.al.|[2604.26232](http://arxiv.org/abs/2604.26232)|null|
 |**2026-04-28**|**Mutual Forcing: Dual-Mode Self-Evolution for Fast Autoregressive Audio-Video Character Generation**|Yupeng Zhou et.al.|[2604.25819](http://arxiv.org/abs/2604.25819)|null|
 |**2026-04-28**|**A Systematic Post-Train Framework for Video Generation**|Zeyue Xue et.al.|[2604.25427](http://arxiv.org/abs/2604.25427)|null|
 |**2026-04-28**|**Benchmarking and Improving GUI Agents in High-Dynamic Environments**|Enqi Liu et.al.|[2604.25380](http://arxiv.org/abs/2604.25380)|null|
@@ -3782,7 +3804,7 @@
 |**2025-11-18**|**FlowRoI A Fast Optical Flow Driven Region of Interest Extraction Framework for High-Throughput Image Compression in Immune Cell Migration Analysis**|Xiaowei Xu et.al.|[2511.14419](http://arxiv.org/abs/2511.14419)|null|
 |**2025-11-18**|**ARC-Chapter: Structuring Hour-Long Videos into Navigable Chapters and Hierarchical Summaries**|Junfu Pu et.al.|[2511.14349](http://arxiv.org/abs/2511.14349)|null|
 
-</details><p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
 
 Notes: 
 
