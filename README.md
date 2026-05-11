@@ -1,5 +1,5 @@
 # World Model and Embodied AI arxiv Papers
-### Updated on 2026.05.10
+### Updated on 2026.05.11
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#1-world-model>1-World Model</a></li>
@@ -16,11 +16,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-08**|**One Token Per Frame: Reconsidering Visual Bandwidth in World Models for VLA Policy**|Zuojin Tang et.al.|[2605.07931](http://arxiv.org/abs/2605.07931)|null|
+|**2026-05-08**|**Synchronizing Minds through Collective Predictive Coding: A Computational Model of Parent-Infant Homeostatic Co-Regulation**|Yushi Tsubamoto et.al.|[2605.07524](http://arxiv.org/abs/2605.07524)|null|
+|**2026-05-08**|**ST-Gen4D: Embedding 4D Spatiotemporal Cognition into World Model for 4D Generation**|Haonan Wang et.al.|[2605.07390](http://arxiv.org/abs/2605.07390)|null|
+|**2026-05-08**|**GEM: Generating LiDAR World Model via Deformable Mamba**|Yang Wu et.al.|[2605.07326](http://arxiv.org/abs/2605.07326)|null|
+|**2026-05-08**|**Sword: Style-Robust World Models as Simulators via Dynamic Latent Bootstrapping for VLA Policy Post-Training**|Jiaxuan Gao et.al.|[2605.07288](http://arxiv.org/abs/2605.07288)|null|
+|**2026-05-08**|**Predictive but Not Plannable: RC-aux for Latent World Models**|Wenyuan Li et.al.|[2605.07278](http://arxiv.org/abs/2605.07278)|null|
+|**2026-05-08**|**Three-in-One World Model: Energy-Based Consistency, Prediction, and Counterfactual Inference for Marketing Intervention**|Junichiro Niimi et.al.|[2605.07199](http://arxiv.org/abs/2605.07199)|null|
+|**2026-05-08**|**See Tomorrow, Act Today: Foresight-Driven Autonomous Driving**|Bozhou Zhang et.al.|[2605.07195](http://arxiv.org/abs/2605.07195)|null|
+|**2026-05-08**|**Learning Visual Feature-Based World Models via Residual Latent Action**|Xinyu Zhang et.al.|[2605.07079](http://arxiv.org/abs/2605.07079)|null|
+|**2026-05-08**|**Render, Don't Decode: Weight-Space World Models with Latent Structural Disentanglement**|Roussel Desmond Nzoyem et.al.|[2605.06298](http://arxiv.org/abs/2605.06298)|null|
+|**2026-05-07**|**AGWM: Affordance-Grounded World Models for Environments with Compositional Prerequisites**|Qinshi Zhang et.al.|[2605.06841](http://arxiv.org/abs/2605.06841)|null|
 |**2026-05-07**|**Beyond Object-Level Alignment: Do Brains and DNNs Preserve the Same Transformations?**|Yukiyasu Kamitani et.al.|[2605.06420](http://arxiv.org/abs/2605.06420)|null|
 |**2026-05-07**|**Reconstruction or Semantics? What Makes a Latent Space Useful for Robotic World Models**|Nilaksh et.al.|[2605.06388](http://arxiv.org/abs/2605.06388)|null|
 |**2026-05-07**|**Earth-o1: A Grid-free Observation-native Atmospheric World Model**|Junchao Gong et.al.|[2605.06337](http://arxiv.org/abs/2605.06337)|null|
 |**2026-05-07**|**MANTRA: Synthesizing SMT-Validated Compliance Benchmarks for Tool-Using LLM Agents**|Ashwani Anand et.al.|[2605.06334](http://arxiv.org/abs/2605.06334)|null|
-|**2026-05-07**|**Render, Don't Decode: Weight-Space World Models with Latent Structural Disentanglement**|Roussel Desmond Nzoyem et.al.|[2605.06298](http://arxiv.org/abs/2605.06298)|null|
 |**2026-05-07**|**EA-WM: Event-Aware Generative World Model with Structured Kinematic-to-Visual Action Fields**|Zhaoyang Yang et.al.|[2605.06192](http://arxiv.org/abs/2605.06192)|null|
 |**2026-05-07**|**Causal Reinforcement Learning for Complex Card Games: A Magic The Gathering Benchmark**|Cristiano da Costa Cunha et.al.|[2605.06066](http://arxiv.org/abs/2605.06066)|null|
 |**2026-05-07**|**HaM-World: Soft-Hamiltonian World Models with Selective Memory for Planning**|Haoyun Tang et.al.|[2605.05951](http://arxiv.org/abs/2605.05951)|null|
@@ -929,7 +939,7 @@
 |**2025-11-19**|**Zero-Shot Open-Vocabulary Human Motion Grounding with Test-Time Training**|Yunjiao Zhou et.al.|[2511.15379](http://arxiv.org/abs/2511.15379)|null|
 |**2025-11-19**|**Towards Evolutionary Optimization Using the Ising Model**|Simon Klüttermann et.al.|[2511.15377](http://arxiv.org/abs/2511.15377)|null|
 
-</details><p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
 <details>
 
@@ -939,6 +949,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-08**|**Proxy3D: Efficient 3D Representations for Vision-Language Models via Semantic Clustering and Alignment**|Jerry Jiang et.al.|[2605.08064](http://arxiv.org/abs/2605.08064)|null|
+|**2026-05-08**|**Object Hallucination-Free Reinforcement Unlearning for Vision-Language Models**|Kaidi Jia et.al.|[2605.08031](http://arxiv.org/abs/2605.08031)|null|
+|**2026-05-08**|**MedVIGIL: Evaluating Trustworthy Medical VLMs Under Broken Visual Evidence**|Hanqi Jiang et.al.|[2605.07919](http://arxiv.org/abs/2605.07919)|null|
+|**2026-05-08**|**GazeVLM: Active Vision via Internal Attention Control for Multimodal Reasoning**|Brown Ebouky et.al.|[2605.07817](http://arxiv.org/abs/2605.07817)|null|
+|**2026-05-08**|**Operating Within the Operational Design Domain: Zero-Shot Perception with Vision-Language Models**|Berkehan Ünal et.al.|[2605.07649](http://arxiv.org/abs/2605.07649)|null|
+|**2026-05-08**|**LithoBench: Benchmarking Large Multimodal Models for Remote-Sensing Lithology Interpretation**|Jun Wang et.al.|[2605.07640](http://arxiv.org/abs/2605.07640)|null|
+|**2026-05-08**|**MemCompiler: Compile, Don't Inject -- State-Conditioned Memory for Embodied Agents**|Xin Ding et.al.|[2605.07594](http://arxiv.org/abs/2605.07594)|null|
+|**2026-05-08**|**PolarVLM: Bridging the Semantic-Physical Gap in Vision-Language Models**|Yuliang Li et.al.|[2605.07574](http://arxiv.org/abs/2605.07574)|null|
+|**2026-05-08**|**Beyond GSD-as-Token: Continuous Scale Conditioning for Remote Sensing VLMs**|Song Zhang et.al.|[2605.07562](http://arxiv.org/abs/2605.07562)|null|
+|**2026-05-08**|**From Pixels to Prompts: Vision-Language Models**|Khang Hoang Nhat Vo et.al.|[2605.07544](http://arxiv.org/abs/2605.07544)|null|
+|**2026-05-08**|**Hierarchical Dual-Subspace Decoupling for Continual Learning in Vision-Language Models**|Mengxin Qin et.al.|[2605.07512](http://arxiv.org/abs/2605.07512)|null|
+|**2026-05-08**|**DIMoE-Adapters: Dynamic Expert Evolution for Continual Learning in Vision-Language Models**|Mengxin Qin et.al.|[2605.07494](http://arxiv.org/abs/2605.07494)|null|
+|**2026-05-08**|**EditRefiner: A Human-Aligned Agentic Framework for Image Editing Refinement**|Zitong Xu et.al.|[2605.07457](http://arxiv.org/abs/2605.07457)|null|
+|**2026-05-08**|**Sparse Autoencoders as Plug-and-Play Firewalls for Adversarial Attack Detection in VLMs**|Hao Wang et.al.|[2605.07447](http://arxiv.org/abs/2605.07447)|null|
+|**2026-05-08**|**GPO-V: Jailbreak Diffusion Vision Language Model by Global Probability Optimization**|Yu Pan et.al.|[2605.07399](http://arxiv.org/abs/2605.07399)|null|
+|**2026-05-08**|**Weather-Robust Scene Semantics with Vision-Aligned 4D Radar**|Kali Hamilton et.al.|[2605.07367](http://arxiv.org/abs/2605.07367)|null|
+|**2026-05-08**|**Task-Oriented Communication for Human Action Understanding via Edge-Cloud Co-Inference**|Jingyi Liu et.al.|[2605.07354](http://arxiv.org/abs/2605.07354)|null|
+|**2026-05-08**|**CSR: Infinite-Horizon Real-Time Policies with Massive Cached State Representations**|Robin Karlsson et.al.|[2605.07325](http://arxiv.org/abs/2605.07325)|null|
+|**2026-05-08**|**BioProVLA-Agent: An Affordable, Protocol-Driven, Vision-Enhanced VLA-Enabled Embodied Multi-Agent System with Closed-Loop-Capable Reasoning for Biological Laboratory Manipulation**|Zhaohui Du et.al.|[2605.07306](http://arxiv.org/abs/2605.07306)|null|
+|**2026-05-08**|**Structured Role-Aware Policy Optimization for Multimodal Reasoning**|Bingqing Jiang et.al.|[2605.07274](http://arxiv.org/abs/2605.07274)|null|
 |**2026-05-07**|**GeoStack: A Framework for Quasi-Abelian Knowledge Composition in VLMs**|Pranav Mantini et.al.|[2605.06477](http://arxiv.org/abs/2605.06477)|null|
 |**2026-05-07**|**A Regime Theory of Controller Class Selection for LLM Action Decisions**|Zhaoyang Jiang et.al.|[2605.06339](http://arxiv.org/abs/2605.06339)|null|
 |**2026-05-07**|**RobotEQ: Transitioning from Passive Intelligence to Active Intelligence in Embodied AI**|Kuofei Fang et.al.|[2605.06234](http://arxiv.org/abs/2605.06234)|null|
@@ -3041,7 +3071,7 @@
 |**2025-11-19**|**Context Cascade Compression: Exploring the Upper Limits of Text Compression**|Fanfan Liu et.al.|[2511.15244](http://arxiv.org/abs/2511.15244)|null|
 |**2025-11-19**|**SkinGPT-R1: Adapter-Only Dual Distillation for Efficient Dermatology Reasoning**|Yuhao Shen et.al.|[2511.15242](http://arxiv.org/abs/2511.15242)|null|
 
-</details><p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
 <details>
 
@@ -3051,10 +3081,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-08**|**OphEdit: Training-Free Text-Guided Editing of Ophthalmic Surgical Videos**|Ritul Jangir et.al.|[2605.07695](http://arxiv.org/abs/2605.07695)|null|
+|**2026-05-08**|**Do Joint Audio-Video Generation Models Understand Physics?**|Zijun Cui et.al.|[2605.07061](http://arxiv.org/abs/2605.07061)|null|
+|**2026-05-08**|**Render, Don't Decode: Weight-Space World Models with Latent Structural Disentanglement**|Roussel Desmond Nzoyem et.al.|[2605.06298](http://arxiv.org/abs/2605.06298)|null|
+|**2026-05-07**|**A $^2$ RD: Agentic Autoregressive Diffusion for Long Video Consistency**|Do Xuan Long et.al.|[2605.06924](http://arxiv.org/abs/2605.06924)|null|
+|**2026-05-07**|**Not All Tokens Need 40 Steps: Heterogeneous Step Allocation in Diffusion Transformers for Efficient Video Generation**|Ernie Chu et.al.|[2605.06892](http://arxiv.org/abs/2605.06892)|null|
 |**2026-05-07**|**ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation**|Omar El Khalifi et.al.|[2605.06667](http://arxiv.org/abs/2605.06667)|null|
 |**2026-05-07**|**FreeSpec: Training-Free Long Video Generation via Singular-Spectrum Reconstruction**|Fangda Chen et.al.|[2605.06509](http://arxiv.org/abs/2605.06509)|null|
 |**2026-05-07**|**SwiftI2V: Efficient High-Resolution Image-to-Video Generation via Conditional Segment-wise Generation**|YaoYang Liu et.al.|[2605.06356](http://arxiv.org/abs/2605.06356)|null|
-|**2026-05-07**|**Render, Don't Decode: Weight-Space World Models with Latent Structural Disentanglement**|Roussel Desmond Nzoyem et.al.|[2605.06298](http://arxiv.org/abs/2605.06298)|null|
 |**2026-05-07**|**EA-WM: Event-Aware Generative World Model with Structured Kinematic-to-Visual Action Fields**|Zhaoyang Yang et.al.|[2605.06192](http://arxiv.org/abs/2605.06192)|null|
 |**2026-05-07**|**RealCam: Real-Time Novel-View Video Generation with Interactive Camera Control**|Youcan Xu et.al.|[2605.06051](http://arxiv.org/abs/2605.06051)|null|
 |**2026-05-07**|**AniMatrix: An Anime Video Generation Model that Thinks in Art, Not Physics**|Tencent HY Team et.al.|[2605.03652](http://arxiv.org/abs/2605.03652)|null|
@@ -3987,7 +4021,7 @@
 |**2025-11-18**|**FlowRoI A Fast Optical Flow Driven Region of Interest Extraction Framework for High-Throughput Image Compression in Immune Cell Migration Analysis**|Xiaowei Xu et.al.|[2511.14419](http://arxiv.org/abs/2511.14419)|null|
 |**2025-11-18**|**ARC-Chapter: Structuring Hour-Long Videos into Navigable Chapters and Hierarchical Summaries**|Junfu Pu et.al.|[2511.14349](http://arxiv.org/abs/2511.14349)|null|
 
-</details><p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
 Notes: 
 
