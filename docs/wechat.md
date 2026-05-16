@@ -1,5 +1,5 @@
 # World Model and Embodied AI arxiv Papers
-> Updated on 2026.05.15
+> Updated on 2026.05.16
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#1-world-model>1-World Model</a></li>
@@ -985,7 +985,7 @@
 - 2025-12-03, **"MCP Does Not Stand for Misuse Cryptography Protocol": Uncovering Cryptographic Misuse in Model Context Protocol at Scale**, Biwei Yan et.al., Paper: [http://arxiv.org/abs/2512.03775](http://arxiv.org/abs/2512.03775)
 - 2026-01-20, **"Just in Time" World Modeling Supports Human Planning and Reasoning**, Tony Chen et.al., Paper: [http://arxiv.org/abs/2601.14514](http://arxiv.org/abs/2601.14514)
 
-</details><p align=right>(<a href=#updated-on-20260515>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
 
 <details>
 
@@ -3175,7 +3175,7 @@
 - 2026-03-30, **$AutoDrive\text{-}P^3$ : Unified Chain of Perception-Prediction-Planning Thought via Reinforcement Fine-Tuning**, Yuqi Ye et.al., Paper: [http://arxiv.org/abs/2603.28116](http://arxiv.org/abs/2603.28116)
 - 2026-04-07, **"I See What You Did There": Can Large Vision-Language Models Understand Multimodal Puns?**, Naen Xu et.al., Paper: [http://arxiv.org/abs/2604.05930](http://arxiv.org/abs/2604.05930)
 
-</details><p align=right>(<a href=#updated-on-20260515>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
 
 <details>
 
@@ -4169,7 +4169,7 @@
 - 2025-12-28, **3D sans 3D Scans: Scalable Pre-training from Video-Generated Point Clouds**, Ryousuke Yamada et.al., Paper: [http://arxiv.org/abs/2512.23042](http://arxiv.org/abs/2512.23042)
 - 2026-05-12, **$h$ -control: Training-Free Camera Control via Block-Conditional Gibbs Refinement**, Yuzhu Wang et.al., Paper: [http://arxiv.org/abs/2605.11871](http://arxiv.org/abs/2605.11871)
 
-</details><p align=right>(<a href=#updated-on-20260515>back to top</a>)</p>
+</details><p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
 
 Notes: 
 
